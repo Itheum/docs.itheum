@@ -18,4 +18,4 @@ Itheum is a data ownership layer built on blockchain technology and offers an in
 
 Welcome to Itheum Docs, your gateway for information on how you can use Itheum as a Data Creator, Enterprise or Brand, Developer or Data Consumer.\
 \
-Let's begin by exploring the various products that combine into the overarching Itheum protocol.
+Let's begin by exploring the various products that combine into the overarching Itheum protocol, starting with Itheum's core component: Data NFT Technology.
