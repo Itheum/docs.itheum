@@ -6,7 +6,7 @@ description: Welcome to the Itheum Protocol Official Docs
 
 ## What is Itheum?
 
-Think about all the stuff you do online - the posts you like, the things you buy, the places you visit, all this personal data is being collected and used by big corporations to craft highly personalized Ads are are guaranteed to make you “click”
+Think about all the stuff you do online - the posts you like, the things you buy, the places you visit, all this personal data is being collected and used by big corporations to craft highly personalized Ads are are guaranteed to make you “click”.
 
 Or if you are an organization or brand, think of all the original data assets and intellectual property you are producing that is being published online and then “collected” by data harvesters that are feeding this into AI model training engines.
 
