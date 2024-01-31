@@ -99,5 +99,6 @@
     * [Project Ideas > MultiversX Dev Tooling and Infra](hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-multiversx-dev-tooling-and-infra.md)
     * [Project Ideas > Itheum](hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-itheum.md)
     * [Test Data NFT Catalog](hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
+* [Content Guidelines](content-guidelines.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Platform Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
