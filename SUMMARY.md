@@ -89,6 +89,7 @@
     * [Itheum xPand Grants Program](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/README.md)
       * [Code Of Conduct](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/code-of-conduct.md)
       * [Announcement Guidelines](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/announcement-guidelines.md)
+      * [Cohorts vs Alpha Builders](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/cohorts-vs-alpha-builders.md)
     * [Program 1: MultiversX Post-Hackathon Accelerator](protocol/governance/itheum-xpand-dao/program-1-multiversx-post-hackathon-accelerator.md)
   * [Trailblazer DAO](protocol/governance/trailblazer-dao.md)
 
