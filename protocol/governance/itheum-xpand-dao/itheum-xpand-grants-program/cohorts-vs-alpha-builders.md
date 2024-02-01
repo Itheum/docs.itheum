@@ -3,7 +3,7 @@
 The separate **Programs** that make up the [.](./ "mention") - for example, [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention"), will each have two types of participants. Each **Program** will begin with an open call for applicants and before the officially begins, two types of participants will be selected. Here we explain the different difference these participants.\
 
 
-## Cohorts:
+## Cohorts
 
 * These are the primary participants who would have been shortlisted from a larger group of program applicants by the [trailblazer-dao.md](../../trailblazer-dao.md "mention")or using some selection criteria from a prior event (for e.g., shortlisted from a prior event or hackathon like the [multiversx-xday-hackathon](../../../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"))
 * Cohorts will have a limited set of participants. For example, [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention")cohort only has 5 who have been selected.
