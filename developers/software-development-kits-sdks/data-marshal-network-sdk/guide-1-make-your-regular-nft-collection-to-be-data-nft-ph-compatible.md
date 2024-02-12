@@ -119,7 +119,7 @@ import { DataMarshal } from "@itheum/sdk-data-marshal-network";
 const dataMarshal = new DataMarshal("devnet"); // or "mainnet"
 
 // Get your encrypted Data Stream URL
-// ... erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7 here is the Creator and needs to be a valid MultiversX Address or the call will fail with an error simialr to 'Error: Issue with data marshal generating payload'
+// ... erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7 here is the Creator and needs to be a valid MultiversX Address or the call will fail with an error similar to 'Error: Issue with data marshal generating payload'
 const encryptPayload = await dataMarshal.encryptDataStream(
   "https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicSecureDataStreamDemo",
   "erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7"
