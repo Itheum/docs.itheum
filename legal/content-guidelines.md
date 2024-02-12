@@ -1,10 +1,10 @@
 # Content Guidelines
 
-Welcome to the Content Guidelines section of the iTheum documentation. Here, you'll find important restrictions and guidelines to ensure compliance and integrity
+If you write or produce any content/material describing features, products or integrations relating to the Itheum Protocol, please strictly adhere to the Content Guidelines described below. They describe restrictions and guidelines to ensure compliance and integrity of your content when used in context of Itheum.
 
 #### Content Restrictions:
 
-* NO tokens or token sales (ICO, IFO, IBO, IEO)
+* NO mentions of tokens or token sales (ICO, IFO, IBO, IEO)
 * NO direct or indirect incentive to invest (e.g., "trade," "invest," "buy")
 * NO calls to action encouraging token purchase ("Buy tokens now")
 * NO promises of passive income or financial gains

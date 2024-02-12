@@ -88,10 +88,14 @@ But, if you prefer to use your own NFT minting scripts or tools and NOT use Ithe
 
 
 
-Adding Data NFT compatible to a regular NFT token is achieved by including some on-chain [Attributes](https://docs.multiversx.com/tokens/nft-tokens/#nftsft-fields) on your NFT tokens. Of the following Attributes, some are mandatory, and some are optional but recommended. As these Attributes are on-chain and are "non-sensitive" (i.e. not sensitive data like keys or identity etc), we recommend you include them all, but if you prefer to provide a minimum set of Attributes only, then you only need to have the Mandatory items.\
+Adding Data NFT compatible to a regular NFT token is achieved by including some on-chain [Attributes](https://docs.multiversx.com/tokens/nft-tokens/#nftsft-fields) on your NFT tokens. It should be noted that these Attributes are on-chain and are "non-sensitive" (i.e. not sensitive data like keys or identity etc). All these Attributes are "included on each NFT token" and not on the "whole collection itself", so you have the ability to customize these "per NFT" minted.\
 
 
-<table><thead><tr><th>on-chain NFT Attribute</th><th width="152.33333333333331">Mandatory?</th><th>Notes</th></tr></thead><tbody><tr><td>data_stream_url</td><td>Yes</td><td>You must obtain a Data Marshal encrypted version of the Data Stream URL you setup in Step 1 of this guide.<br><br> <strong>learn how to get the encrypted version of your  data_stream_url in the next step</strong> </td></tr><tr><td>creator</td><td>Yes</td><td>The address of the primary NFT collection "Creator". If NFTs that are Data NFT-PH compatible are traded on Itheum's <a data-mention href="../../../product/data-nft-marketplace/">data-nft-marketplace</a>, this creator address immediately gets royalties distributed to it.</td></tr><tr><td>data_preview_url</td><td>Recommended</td><td>On Itheum's platform tools like the <a data-mention href="../../../product/data-nft-marketplace/">data-nft-marketplace</a> or <a data-mention href="../../../product/data-dex/">data-dex</a>or even the <a data-mention href="../data-nft-sdk/">data-nft-sdk</a> - we use this to request and show a "Data Preview" for new users. Ideally, this is a fully public URL with a "sample" of the real data and is used to provide new Data NFT users and consumers an idea of the type of data they can unlock by purchasing a Data NFT.</td></tr><tr><td>creation_time</td><td>Recommended</td><td>Used in the same above Itheum's platform tools to improve user experience. </td></tr><tr><td>title</td><td>Recommended</td><td>Used in the same above Itheum's platform tools to improve user experience.<br><br>A 10-60 alphanumeric-only title that describes your collection. e.g.<br><code>NFT boosts APR in ChampDEX; share trade insights via Data NFT stream.</code></td></tr><tr><td>description</td><td>Recommended</td><td>Used in the same above Itheum's platform tools to improve user experience.<br><br>The description field can also be used to add any specific "terms of use" URL if needed.<br><br>A 10-400 alphanumeric-only title that describes your collection. e.g. <br><code>DefiChamps NFT holders unlock boosted APRs in the ChampDEX and can share ownership of their historic trade insights data via a Data NFT compatible portable data stream. For terms of use visit https://defichamps.nft/terms</code></td></tr></tbody></table>
+<table><thead><tr><th width="259">on-chain NFT Attribute</th><th>Notes</th></tr></thead><tbody><tr><td>data_stream_url</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>You must obtain a Data Marshal encrypted version of the Data Stream URL you setup in Step 1 of this guide.<br><br> <strong>learn how to get the encrypted version of your  data_stream_url in the next step</strong> </td></tr><tr><td>data_preview_url</td><td>A "default" preview url for your data, on Itheum's platform tools like the <a data-mention href="../../../product/data-nft-marketplace/">data-nft-marketplace</a> or <a data-mention href="../../../product/data-dex/">data-dex</a>or even the <a data-mention href="../data-nft-sdk/">data-nft-sdk</a> - we use this to request and show a "Data Preview" for new users. Ideally, this is a fully public URL with a "sample" of the real data and is used to provide new Data NFT users and consumers an idea of the type of data they can unlock by purchasing a Data NFT.</td></tr><tr><td>data_marshal_url</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>A "default" data marshal url for your Data NFT, see <a data-mention href="../../data-marshal-node-endpoints.md">data-marshal-node-endpoints.md</a> for more information.</td></tr><tr><td>creator</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>The address of the primary NFT collection "Creator". If NFTs that are Data NFT-PH compatible are traded on Itheum's <a data-mention href="../../../product/data-nft-marketplace/">data-nft-marketplace</a>, this creator address immediately gets royalties distributed to it.</td></tr><tr><td>creation_time</td><td>Used in the same above Itheum's platform tools to improve user experience and transparency. </td></tr><tr><td>title</td><td>A "default" title for your Data NFT, used in the same above Itheum's platform tools to improve user experience.<br><br>A 10-60 alphanumeric-only title that describes your collection. e.g.<br><code>NFT boosts APR in ChampDEX; share trade insights via Data NFT stream.</code></td></tr><tr><td>description</td><td>A "description" title for your Data NFT,  Used in the same above Itheum's platform tools to improve user experience.<br><br>The description field can also be used to add any specific "terms of use" URL if needed.<br><br>A 10-400 alphanumeric-only title that describes your collection. e.g. <br><code>DefiChamps NFT holders unlock boosted APRs in the ChampDEX and can share ownership of their historic trade insights data via a Data NFT compatible portable data stream. For terms of use visit https://defichamps.nft/terms</code></td></tr></tbody></table>
+
+**Can I save gas costs by reducing extra storage for each NFT token?**\
+\
+Although this is not advisable, Note that if you want to save Gas by limiting extra storage costs, you are free to send empty default values for all the attributes above that does have the <mark style="color:yellow;">**Mandatory: Needs a valid value**</mark> detail.
 
 
 
@@ -146,7 +150,16 @@ Let's explore a few options for adding the above-mentioned on-chain Attributes t
 
 ### A) New Mint: via a Smart Contract that mints your collection (NFT Minter / Candy Machine etc)
 
-The best-case scenario is that you have NOT YET minted your NFT collection and are an NFT Minter or Candy Machine smart contract to mint your tokens. In the scenario, you will need to upgrade your Smart Contract's primary mint method to include similar code, with the ultimate goal of adding the on-chain Attributes to your NFT Collection's tokens.
+The best-case scenario is that you have NOT YET minted your NFT collection and are an NFT Minter (similar to [this](https://github.com/multiversx/mx-nft-collection-minter-sc))  or Candy Machine smart contract to mint your tokens. In the scenario, you will need to upgrade your Smart Contract's primary mint method to include similar code as below, with the ultimate goal of adding the on-chain Attributes to your NFT Collection's tokens.\
+
+
+{% hint style="warning" %}
+**Do you have your own NFT Attributes?** \
+As you may have your own custom on-chain NFT attributes as well, note that you can also add these custom to your NFT tokens as well BUT ONLY AFTER the default Data NFT-PH attributes. i.e. the 7 Data NFT-PH attributes need to come first and in order (as shown in below code sample)\
+\
+**What if I add my attributes BEFORE the Data NFT-PH attributes?**\
+For your NFT to be Data NFT-PH compatible, it MUST have the 7 Data NFT-PH attributes come first and in order. You can have as many of your own custom attributes as you want but they should only come AFTER the 7 Data NFT-PH attributes (as shown in below code sample)
+{% endhint %}
 
 {% hint style="danger" %}
 Disclaimer: Please note that the sample code below is an "unaudited" and should only be used as a reference.
@@ -154,7 +167,7 @@ Disclaimer: Please note that the sample code below is an "unaudited" and should 
 
 {% code lineNumbers="true" fullWidth="true" %}
 ```rust
-pub struct DataNftAttributes<M: ManagedTypeApi> {
+pub struct DataNftPhAndCustomAttributes<M: ManagedTypeApi> {
   pub data_stream_url: ManagedBuffer<M>,
   pub data_preview_url: ManagedBuffer<M>,
   pub data_marshal_url: ManagedBuffer<M>,
@@ -162,6 +175,9 @@ pub struct DataNftAttributes<M: ManagedTypeApi> {
   pub creation_time: u64,
   pub title: ManagedBuffer<M>,
   pub description: ManagedBuffer<M>,
+  pub tier: u64 // this is your own custom NFT attribute, that MUST come AFTER the above 7
+  // someOtherCustomAttrA:
+  // someOtherCustomAttrB: 
 }
 
 // Public endpoint used to mint NFT as part of a NFT mint
@@ -179,7 +195,7 @@ fn mint_token(
     supply: BigUint, // for SFT, it can bu multiple
     title: ManagedBuffer,
     description: ManagedBuffer,
-) -> DataNftAttributes<Self::Api> {
+) -> DataNftPhAndCustomAttributes<Self::Api> {
 
     // validate Data NFT attribute info
     self.require_url_is_valid(&data_marshal); // should start with https:// and look like a valid URL with no invalid characters
@@ -189,14 +205,17 @@ fn mint_token(
     let current_time = self.blockchain().get_block_timestamp();
 
     // Add all Data NFT attributes
-    let attributes: DataNftAttributes<Self::Api> = DataNftAttributes {
-        creation_time: current_time,
-        creator: caller.clone(),
-        data_marshal_url: data_marshal.clone(),
+    let attributes: DataNftPhAndCustomAttributes<Self::Api> = DataNftPhAndCustomAttributes {
         data_stream_url: data_stream.clone(),
         data_preview_url: data_preview,
+        data_marshal_url: data_marshal.clone(),
+        creator: caller.clone(),
+        creation_time: current_time,
         title,
         description,
+        tier: 15 // this is your own custom NFT attribute, that MUST come AFTER the above 7
+        // someOtherCustomAttrA:
+        // someOtherCustomAttrB: 
     };
 
     let token_identifier = self.token_id().get_token_id(); // nft collection id
@@ -218,6 +237,8 @@ fn mint_token(
 }
 ```
 {% endcode %}
+
+* In the code example above, `tier, someOtherCustomAttrA and someOtherCustomAttrB` are your own custom NFT attributes that come AFTER the 7 Data NFT-PH attributes.
 
 
 

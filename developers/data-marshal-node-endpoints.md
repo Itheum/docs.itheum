@@ -11,7 +11,7 @@ For example, as you follow this [detailed guide for Minting Data NFTs via the Da
 const mintTransaction: Transaction = await dataNftMinter.mint(
     new Address(address),
     "MY_GM_DATA", // Short token Name (between 3 and 20 alphanumeric characters - no spaces)
-    "https://data_marshal_URL.com", // The Data Marshal endpoint
+    "https://data_marshal_URL.com", // The Data Marshal endpoint (see below for options for devnet vs mainnet)
     "https://data_stream_URL.com/protected_data_stream", // The Data Stream URL
     "https://data_preview_URL.com", // the public Data Preview URL
     1500, // // Royalty in % with 2 trailing zeros (e.g. 1500 is 15% or 500 would be 5% or 0 would be 0%. Max is 5000 of 50%)
