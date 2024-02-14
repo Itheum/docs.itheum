@@ -8,6 +8,8 @@
 * Now featuring grouped collection URL easy sharing, making it simple to share collections.
 * Stay informed with quick access to our status page link, providing real-time updates on platform.
 
+***
+
 ## V1.10
 
 **Main Features / Changes**
