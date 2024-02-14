@@ -1,6 +1,6 @@
 # Explorer
 
-## V1.10
+## V1.11
 
 **Main Features / Changes**
 
