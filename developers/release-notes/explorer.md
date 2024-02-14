@@ -4,6 +4,17 @@
 
 **Main Features / Changes**
 
+* Introducing the new NF-Tunes landing page, offering an immersive experience for exploring the world of NFT music.
+* Enhancements in UI/UX stability for a smoother and more intuitive browsing experience.
+* Introducing the time capsule data widget, allowing users to dive into historical data with ease.
+* Quick access to our status page link for instant updates on platform.
+
+***
+
+## V1.10
+
+**Main Features / Changes**
+
 * **Misc. Performance & Code Base Improvements:** Fine-tuning Itheum Explorer for optimal performance and reliability.
 
 ***

@@ -1,5 +1,13 @@
 # Data DEX
 
+## V1.11
+
+**Main Features / Changes**
+
+* Further improvements in UI/UX stability ensure a seamless browsing experience on the Data Dex platform.
+* Now featuring grouped collection URL easy sharing, making it simple to share collections.
+* Stay informed with quick access to our status page link, providing real-time updates on platform.
+
 ## V1.10
 
 **Main Features / Changes**
