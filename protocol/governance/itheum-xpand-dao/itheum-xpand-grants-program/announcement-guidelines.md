@@ -8,7 +8,7 @@ description: Please read the guidelines to understand the announcement policies
 
 In the context of the grants programs, we ask teams not to make any announcements before _**the first milestone has been accepted**_. This is in order to protect the community from projects that only intend to use the grant announcement to raise support and/or interest but don't intend to deliver the completed projects. For this reason, we reserve the right to terminate grants if this rule is not observed.
 
-Once you have completed your milestone, we can help by reviewing and proofreading your blog post. When you have drafted your announcement, send it to [our discord.](https://discord.com/invite/y77P9gKF27)
+Once you have completed your milestone, we can help by reviewing and proofreading your blog post. When you have drafted your announcement, send it to [our discord.](https://itheum.io/discord)
 
 Please allow 1-3 working days where possible for proofreading articles and wait until the milestone has been accepted to publish it.
 
@@ -54,12 +54,13 @@ We also cross-promote the most recent projects and their milestones on Twitter, 
 
 ### Recommended language
 
-1. Use specific verbs such as integrate, support, or build and the #builtonitheum must be used
+1. Use specific verbs such as integrate, support, or build and the #BuildOnItheum must be used
 2. Using Itheum's Software Development Kit ( SDK ) under the hood.
 3. Don't use descriptors like partner/partnership, collaborations, affiliate, strategic or long-term in these announcements—due to the various and evolving ways `Itheum xPand Grants Program` works with the ecosystem.
 4. Don't describe your technology as the "first" to build on Itheum—the timing for launch implementations across all our projects is indefinite.
 5. Don't indicate that Itheum prefers a certain technology over all others:
    * As such, do not use: "Itheum recommends that teams use this tech to build X"
    * Instead, speak of the merits of the tech: "This technology provides great utility for the Itheum network through..."
+6. Follow our [content-guidelines.md](../../../../legal/content-guidelines.md "mention") rules and recommendations.
 
-We look forward to working with you in creating the next generation of the internet! If you have any questions or would like to be included in our next announcement, please reach out to us via [Discord](https://discord.com/invite/y77P9gKF27).
+We look forward to working with you in creating the next generation of the internet! If you have any questions or would like to be included in our next announcement, please reach out to us via [Discord](https://itheum.io/discord).
