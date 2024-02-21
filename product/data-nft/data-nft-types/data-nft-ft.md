@@ -1,5 +1,7 @@
 ---
-description: 'Data NFT-FT: Quick and flexible collections to get your started'
+description: >-
+  Data NFT-FT: Quick and flexible "fractionalized" NFT collections to get your
+  started
 ---
 
 # Data NFT-FT
