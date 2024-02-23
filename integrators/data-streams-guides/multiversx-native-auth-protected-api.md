@@ -113,11 +113,11 @@ Now that we understand how Native Auth can protect our API with an authenticatio
 1. If your existing API already supports MultiversX Native Auth, then you are good to go! Just make sure your API conforms to the other general [data-stream-url-rules.md](data-stream-url-rules.md "mention") in order to use it as a Data NFT's Data Stream
 2. If your existing API does NOT support MultiversX Native Auth, you can use the following free open source templates we have published to wrap your existing API business Logic into the Native Auth Wrapper
 
-{% embed url="https://github.com/Itheum/sdk-data-marshal-network" %}
+{% embed url="https://github.com/Itheum/data-stream-expressjs-native-auth-wrapper-template" fullWidth="true" %}
 A simple JavaScript Express.JS API Sample with Native Auth Support
 {% endembed %}
 
-{% embed url="https://github.com/Itheum/data-stream-nestjs-native-auth-wrapper-template" %}
+{% embed url="https://github.com/Itheum/data-stream-nestjs-native-auth-wrapper-template" fullWidth="true" %}
 A complex TypeScript Next.JS API Sample with Native Auth Support. This project cna be the base for very mature production ready APIs
 {% endembed %}
 
