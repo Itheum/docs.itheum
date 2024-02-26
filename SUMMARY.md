@@ -78,9 +78,10 @@
 * [Tech Support - Discord](developers/tech-support-discord.md)
 * [Release Notes](developers/release-notes/README.md)
   * [Data DEX](developers/release-notes/data-dex.md)
-  * [Explorer](developers/release-notes/explorer.md)
+  * [Itheum Explorer](developers/release-notes/itheum-explorer.md)
   * [Data NFT SDK](developers/release-notes/data-nft-sdk.md)
   * [Enterprise SDK](developers/release-notes/enterprise-sdk.md)
+  * [Data Marshal](developers/release-notes/data-marshal.md)
 
 ## Protocol
 

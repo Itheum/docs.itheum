@@ -1,5 +1,35 @@
 # Data NFT SDK
 
+## V2.7.0
+
+**Main Features / Changes**
+
+* Support Data Marshal Deputy Access (i.e. Open a Data NFT that's inside a Smart Contract)
+
+**Bug Fixing / Other Updates**
+
+* Add limit to max 50 items Data NFT IDs per call
+* Add override attributes and viewData url change based on override (a1441f1)&#x20;
+* Assign the dataMarshal to originalDataMarshal before override (f3b7957)&#x20;
+* Axios vulnerabilities (0bffa10)&#x20;
+* Override dataMarshal based on overrideList (bc6220d)
+
+***
+
+## V2.6.0
+
+<mark style="color:red;">! DO NOT USE V2.6.3 as it's unstable</mark>
+
+**Main Features / Changes**
+
+* Minor release. Enterprise related updates
+
+**Bug Fixing / Other Updates**
+
+* N/A
+
+***
+
 ## V2.5.0
 
 **Main Features / Changes**
