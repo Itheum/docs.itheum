@@ -13,4 +13,3 @@ If you write or produce any content/material describing features, products or in
 * NO biased or emotional/opinionated expressions
 * NO claims of "no registration," "no limits," "no fees," or "0 fees"
 * NO promises of profit or earnings ("make a profit" and similar wording)
-* NO use of superlatives like "best," "first," or "leading"
