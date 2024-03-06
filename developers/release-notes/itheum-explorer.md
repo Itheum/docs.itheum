@@ -1,4 +1,13 @@
-# Explorer
+# Itheum Explorer
+
+## V1.12
+
+**Main Features / Changes**
+
+* Various user interface improvements to enhance usability.
+* Introduced the Time Capsule Widget.
+
+***
 
 ## V1.11
 
