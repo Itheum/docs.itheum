@@ -32,7 +32,7 @@ The **`Itheum xPand Grants Program`** has allocated $ITHEUM 1,000,000 for ecosys
 
 #### Initial Phase (Program 1)
 
-In the first phase of the program called [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention") and is for projects that were “born” out of the [multiversx-xday-hackathon](../../../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"). For more details about the hackathon, please refer to [this link](https://docs.itheum.io/product-docs/developers/hackathon). For hackathon ideas please refer to [this link](https://docs.itheum.io/product-docs/developers/hackathon/project-ideas-greater-than-itheum).
+In the first phase of the program called [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention") and is for projects that were “born” out of the [multiversx-xday-hackathon](../../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"). For more details about the hackathon, please refer to [this link](https://docs.itheum.io/product-docs/developers/hackathon). For hackathon ideas please refer to [this link](https://docs.itheum.io/product-docs/developers/hackathon/project-ideas-greater-than-itheum).
 
 #### **Evaluation Criteria**
 

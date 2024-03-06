@@ -2,7 +2,7 @@
 
 ## **Program Overview**
 
-This is for projects that were “born” out of the [multiversx-xday-hackathon](../../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"). Selected candidates for this program will be our 1st cohort for [.](./ "mention") and this cohort will be taken through a special 5 week accelerator program to extend the work done by the teams as part of the MultiversX hackathon.&#x20;
+This is for projects that were “born” out of the [multiversx-xday-hackathon](../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"). Selected candidates for this program will be our 1st cohort for [.](./ "mention") and this cohort will be taken through a special 5 week accelerator program to extend the work done by the teams as part of the MultiversX hackathon.&#x20;
 
 {% hint style="warning" %}
 Please note that all principles, guidelines and rules captured in the overarching [itheum-xpand-grants-program](itheum-xpand-grants-program/ "mention") page apply on top of the specific details mentioned below.  But some sections below can contain details that have precedence over the overarching corresponding sections. e.g. The Disbursement Plan below will take precedence over the Disbursement Plan in the overarching[itheum-xpand-grants-program](itheum-xpand-grants-program/ "mention") page.
@@ -22,7 +22,7 @@ Specific evaluation criteria has been detailed in the [parent document here](htt
 
 ## **Application Process**
 
-1. Formally participate in the [multiversx-xday-hackathon](../../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention")
+1. Formally participate in the [multiversx-xday-hackathon](../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention")
 2. Fill in the [application form here](https://forms.gle/fm4krS2zxKWcKVsc9)
 
 

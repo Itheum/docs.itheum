@@ -5,7 +5,7 @@
 The following are some test data NFTs we have published for developers who would like to build use cases around PDF, JSON, nested streams etc.
 
 * Check out some ideas on what you can build \[[here](project-ideas-greater-than-itheum.md)]
-* Check out guides on the SDK \[[here](../../developers/software-development-kits-sdks/data-nft-sdk/)]
+* Check out guides on the SDK \[[here](../../../developers/software-development-kits-sdks/data-nft-sdk/)]
 
 ### 1. Data NFTs - Normal
 
@@ -72,4 +72,4 @@ The following are some test data NFTs we have published for developers who would
 
 ### 3. How do you obtain a data NFT?
 
-For details on how to obtain a data NFT, visit [Buying a data NFT](../../product/data-nft-marketplace/procuring-a-data-nft.md)
+For details on how to obtain a data NFT, visit [Buying a data NFT](../../../product/data-nft-marketplace/procuring-a-data-nft.md)

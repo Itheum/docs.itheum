@@ -93,14 +93,12 @@
       * [Cohorts vs Alpha Builders](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/cohorts-vs-alpha-builders.md)
     * [Program 1: MultiversX Post-Hackathon Accelerator](protocol/governance/itheum-xpand-dao/program-1-multiversx-post-hackathon-accelerator.md)
   * [Trailblazer DAO](protocol/governance/trailblazer-dao.md)
-
-***
-
-* [Hackathons and Dev Challenges](hackathons-and-dev-challenges/README.md)
-  * [MultiversX xDay Hackathon](hackathons-and-dev-challenges/multiversx-xday-hackathon/README.md)
-    * [Project Ideas > MultiversX Dev Tooling and Infra](hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-multiversx-dev-tooling-and-infra.md)
-    * [Project Ideas > Itheum](hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-itheum.md)
-    * [Test Data NFT Catalog](hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
+* [Hackathons and Dev Challenges](protocol/hackathons-and-dev-challenges/README.md)
+  * [MultiversX xDay Hackathon](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/README.md)
+    * [Project Ideas > MultiversX Dev Tooling and Infra](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-multiversx-dev-tooling-and-infra.md)
+    * [Project Ideas > Itheum](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-itheum.md)
+    * [Test Data NFT Catalog](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
+* [Itheum Ecosystem Actions Catalogue](protocol/itheum-ecosystem-actions-catalogue.md)
 
 ## Legal
 
