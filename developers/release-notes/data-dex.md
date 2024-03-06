@@ -1,5 +1,16 @@
 # Data DEX
 
+## V1.12
+
+**Main Features / Changes**
+
+* Improved validation in the minting form for better user experience.
+* Enhanced mobile view in the marketplace for smoother navigation.
+* Added a disclaimer when listing items below the floor price to inform users effectively.
+* Bonding functionality was introduced on devnet for testing purposes.
+
+***
+
 ## V1.11
 
 **Main Features / Changes**
