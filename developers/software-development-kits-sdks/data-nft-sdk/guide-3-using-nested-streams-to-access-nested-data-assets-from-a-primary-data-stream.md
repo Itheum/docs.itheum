@@ -4,7 +4,7 @@ This guide walks you through how to use Data Streams configured to be “nested 
 
 Firstly, what are nested streams and who are they needed? As detailed in the [data-streams-guides](../../../integrators/data-streams-guides/ "mention"), we see that Data NFTs provide "web3 licensed" access to Data Streams, i.e., Data NFTs are a license to use your data. In most cases, your Data Stream will be "dynamic," where it can evolve to have its data change over time. An example of a dynamic Data Stream is could be some on-chain analytics data you have sourced, maintained, and kept updated, similar to the [MultiversX Bubbles Data NFT](https://explorer.itheum.io/multiversx-bubbles). The Data Marshal can "stream out" the complete Data Stream once ownership of the Data NFT has been proved. The Data Marshal is also responsible for protecting the primary Data Stream link and aims never to expose the original data location (it only streams out the content).
 
-The "hide original URL location and stream" mechanism of the Data Marshal works well when those above-mentioned "dynamic" Data Streams are mostly also "self-contained" and "complete" and don't contain links within them that need to be "hidden" as they are part of the original outcome of the Data Stream. For example, image files, PDFs, SVG documents etc are most likely "complete" documents. So, in this situation, the Data Marshal does not need to hide and protect any secondary links located within the original data.
+The "hide original URL location and stream" mechanism of the Data Marshal works well when those above-mentioned "dynamic" Data Streams are mostly also "self-contained" and "complete" and don't contain links within them that need to be "hidden" as they are part of the original outcome of the Data Stream. For example, image files, PDFs, SVG documents, etc are most likely "complete" documents. So, in this situation, the Data Marshal does not need to hide and protect any secondary links located within the original data.
 
 But what if your use-case requires that you have nested links within the original Data Stream that you also want to "hide" and protect, and use the same "hide original URL location and stream" features of the Data Marshal?
 
@@ -12,7 +12,7 @@ This is where "nested streams" come into play, but to get your head around it - 
 
 ### Building a "Music Playlist" Data NFT
 
-You could build a music playlist or music player experience using Data NFTs, nested streams and the Itheum `Data NFT SDK`. In this use case, your primary Data Stream has a list of songs hosted in some location and would want the Data Marshal to mask/hide that data to protect the source/origin of the individual files. You can think of your primary "base" version of the Data Stream as a sort of manifest or instruction file that can use by the client app to unpack a complete user experience. Nested streams allow for this functionality; in the example of the music player, you can unpack the original Data Stream as usual, but if the origin Data Stream server has flagged it as the “nested stream,” the Data Marshal is smart enough to discover and hide the links within it that need to be protected.&#x20;
+You could build a music playlist or music player experience using Data NFTs, nested streams, and the Itheum `Data NFT SDK`. In this use case, your primary Data Stream has a list of songs hosted in some location and would want the Data Marshal to mask/hide that data to protect the source/origin of the individual files. You can think of your primary "base" version of the Data Stream as a sort of manifest or instruction file that can be used by the client app to unpack a complete user experience. Nested streams allow for this functionality; in the example of the music player, you can unpack the original Data Stream as usual, but if the origin Data Stream server has flagged it as the “nested stream,” the Data Marshal is smart enough to discover and hide the links within it that need to be protected.&#x20;
 
 You can then use the Itheum `Data NFT SDK` to iterate and stream the nested links while preserving the origin location of all the nested data assets. In the context of the music player, you get the primary "base" version of the nested stream, which provides all the data needed to render the music interaction (song titles, album art, etc.), but then you use the `Data NFT SDK` to play the actual music assets when the user clicks on play, next, back etc. We will explore the code needed to do this below.
 
@@ -21,8 +21,8 @@ You can then use the Itheum `Data NFT SDK` to iterate and stream the nested link
 > :checkered\_flag: <mark style="color:yellow;">🏎️</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Ready to start? Here are a few assumptions and pre-conditions**</mark>
 
 * You need **@itheum/sdk-mx-data-nft v2.1.0** or above to follow this guide.
-* This guide assumes that you are integrating with Itheum via an application built on the MultiversX blockchain, you use TypeScript/JavaScript as your programming language and that you use that use the **@multiversx/sdk-core** and **@multiversx/sdk-dapp** libraries to authenticate and sign and track on-chain transactions. Although, these libraries are optional and you can use any MultiversX tooling to interact with the blockchain.
-* To open a Data NFT and view it's data using using the `Data NFT SDK`, you have implemented MultiversX Native Auth integration with Itheum as per this the guide [guide-2-unlocking-data-nfts-via-multiversx-native-auth.md](guide-2-unlocking-data-nfts-via-multiversx-native-auth.md "mention")
+* This guide assumes that you are integrating with Itheum via an application built on the MultiversX blockchain, you use TypeScript/JavaScript as your programming language, and that you use that use the **@multiversx/sdk-core** and **@multiversx/sdk-dapp** libraries to authenticate and sign and track on-chain transactions. However, these libraries are optional and you can use any MultiversX tooling to interact with the blockchain.
+* To open a Data NFT and view its data using the `Data NFT SDK`, you have implemented MultiversX Native Auth integration with Itheum as per this guide [guide-2-unlocking-data-nfts-via-multiversx-native-auth.md](guide-2-unlocking-data-nfts-via-multiversx-native-auth.md "mention")
 * You have control of the origin Data Stream publishing system (see Step 1 setup section below), as you will need to set HTTP Response Headers on the Data Stream.
 
 ***
@@ -47,7 +47,7 @@ Let's begin...
 
 Your Data Stream could be hosted by any of the data hosting service options provided in[data-streams-guides](../../../integrators/data-streams-guides/ "mention"). If you are not requiring the behaviour of a "nested stream", you do not need to do anything extra above hosting your data and making it available as a public URL. But in the event you do need to configure your Data Stream as a nested stream, then your backend Data Stream server will need to send down a custom [HTTP Response Header](https://developer.mozilla.org/en-US/docs/Glossary/Response\_header).
 
-We will make the "Response Header" name configurable, but for now as we are still in "beta" mode, the target header looks needs to be : &#x20;
+We will make the "Response Header" name configurable, but for now, as we are still in "beta" mode, the target header needs to be : &#x20;
 
 ```
 x-amz-meta-marshal-deep-fetch = 1
@@ -55,7 +55,23 @@ x-amz-meta-marshal-deep-fetch = 1
 
 <figure><img src="https://lh6.googleusercontent.com/PuyHcRHyFCfyza6ww7VaR1oxWMaZoF3ZL2Z88sc2j_9nAqoANmWmvMxGX03QBmHaj2yM7ISmvMVsB6maZaJnt4KYv9_ZW43HtOEPN414l7skyUJ0_mB1lygXX70BsqIn5v6tPy8e-3D42oIrfSEaisk" alt="" width="563"><figcaption><p>Example of how the response header is sent by the Origin Data Stream server</p></figcaption></figure>
 
-When the Data Marshal sees this HTTP header during the transit traffic, it will respond as per the rules of a nested stream. If the header is not found, it defaults to the usual behaviour of a general Data Stream.
+{% hint style="success" %}
+**Cannot add custom HTTP Response Headers? No worries, we got you!**
+
+If you are using a static, decentralized data stream that's hosted on IPFS, IPNS, or even on a centralized location and you CANNOT add HTTP Response headers, you can still trigger the Nested Stream workflow for your data by adding a`dmf-nestedstream=1` parameter to your Data Stream URL when minting.\
+
+
+Here are some example Data Stream URLs with this parameter:\
+
+
+1. https://gateway.lighthouse.storage/ipfs/QmSpzKpcayVeAoMP89HAP5EijbAdUsg85PdGA4k4jxYqdh?dmf-nestedstream=1
+2. ipns://my-hash?dmf-nestedstream=1
+3. ipfs://my-CID?dmf-nestedstream=1
+{% endhint %}
+
+
+
+When the Data Marshal sees this HTTP header (or query string parameter) during the transit traffic, it will respond as per the rules of a nested stream. If the header is not found, it defaults to the usual behavior of a general Data Stream.
 
 Your nested stream should ideally follow a data format that is similar to the below sample JSON document that details the nested stream payload for the Music Player app use-case mentioned above.
 
@@ -119,15 +135,15 @@ https://itheum-static.s3.ap-southeast-2.amazonaws.com/hosteddataassets/musicblaz
 
 In the data format above, the most important items that need to be included are :
 
-* General JSON file skeleton structure seen above needs to be maintained.
+* The general JSON file skeleton structure seen above needs to be maintained.
 * The `data` key must exist as a first-level key and should have a list of data item objects.
 * Each data item in the `data` list MUST have a `idx` , `date` and `file` field.
 * `idx` can start with 0 or 1 depending on your choice. We prefer 1.
 * `date` should be in the format "2023-01-16T00:00:00Z"
-* The `file` should be a public Public URL that follows the standard [data-stream-url-rules.md](../../../integrators/data-streams-guides/data-stream-url-rules.md "mention")
+* The `file` should be a public URL that follows the standard [data-stream-url-rules.md](../../../integrators/data-streams-guides/data-stream-url-rules.md "mention")
 
 \
-When the Data Marshal sees the header as above, it will serve the contents of the file but it will filter out the `file` links to individual assets, but we will be able to programatically interact with the Data Marshal and fetch and stream these `file` links by using the `idx` index value.
+When the Data Marshal sees the header as above, it will serve the contents of the file but it will filter out the `file` links to individual assets, but we will be able to programmatically interact with the Data Marshal and fetch and stream these `file` links by using the `idx` index value.
 
 Let’s now see how we can interact with the data marshal and get it to fetch and serve individual assets.
 
@@ -149,7 +165,7 @@ This step was described in the guide section [#step-2-using-sdk-core-to-enable-m
 
 
 
-## Step 4: Obtain a Auth "Session Token"
+## Step 4: Obtain an Auth "Session Token"
 
 This step was also described in the guide section [#step-3-grab-a-native-auth-session-token](guide-2-unlocking-data-nfts-via-multiversx-native-auth.md#step-3-grab-a-native-auth-session-token "mention"), once you complete this you can come back to continue with the next steps.
 
@@ -159,13 +175,13 @@ This step was also described in the guide section [#step-3-grab-a-native-auth-se
 
 This step was also described in the guide section [#step-4-open-a-data-nft-and-view-data-via-a-native-auth-session](guide-2-unlocking-data-nfts-via-multiversx-native-auth.md#step-4-open-a-data-nft-and-view-data-via-a-native-auth-session "mention") and [#bonus-step-5-how-can-i-parse-non-json-data-streams](guide-2-unlocking-data-nfts-via-multiversx-native-auth.md#bonus-step-5-how-can-i-parse-non-json-data-streams "mention")once you complete these you can come back to continue with the next steps.
 
-Please note that in addition to the code described above where you call `dataNftToOpen.viewDataViaMVXNativeAuth`, you may also want to use the `stream: true` setting to ensure the JSON version of the "base" data streams out and does not "auto-download" in your browser. See next step for a code example on using the `stream` param.
+Please note that in addition to the code described above where you call `dataNftToOpen.viewDataViaMVXNativeAuth`, you may also want to use the `stream: true` setting to ensure the JSON version of the "base" data streams out and does not "auto-download" in your browser. See the next step for a code example of using the `stream` param.
 
 
 
 ## Step 6: Working with the Nested Stream
 
-If we followed all the steps as above, we now have access to the base version of the nested stream. If we print out the response from the previous, you will notice that you get the raw Data Stream contents, but as the Data Marshal has detected it to be a “nested stream”, it has extracted out and "hidden" all the `file` attributes from the `data` list. (Hint: compare the payload below with the original JSON document above to see the changes)
+If we followed all the steps above, we now have access to the base version of the nested stream. If we print out the response from the previous, you will notice that you get the raw Data Stream contents, but as the Data Marshal has detected it to be a “nested stream”, it has extracted out and "hidden" all the `file` attributes from the `data` list. (Hint: compare the payload below with the original JSON document above to see the changes)
 
 {% code fullWidth="true" %}
 ```json
