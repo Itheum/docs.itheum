@@ -19,6 +19,7 @@
 7. To assist in making your URLs unlisted and un-guessable, it's best you have random paths in your URL. e.g. https://mydomain.bar/sdahjasdkkasd/hkkasdk2321313ka.json
 8. Only have alphanumeric characters (a-z, 0-9) in your URL and do not include spaces or any symbols.&#x20;
 9. When you mint your Data Stream URL into a Data NFT, note that your URL is case sensitive as the Data Marshal considers origin URLs as case sensitive. e.g. https://mydomain.bar/sdahjasdkkasd/hkkasdk2321313ka.json and https://mydomain.bar/SDahjasdkkaSD/HKKasdk2321313KA.json are considered separate URLs
+10. Data Marshal starting V2 Brontes and above will also support `ipfs://{CID}` and `ipns:{HASH}` URLs
 
 
 
