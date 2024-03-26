@@ -134,6 +134,7 @@ async function MyAppComponent() {
     const res: ViewDataReturnType = await dataNftToOpen.viewDataViaMVXNativeAuth({
       mvxNativeAuthOrigins: ["http://localhost:3000"], // this should match the domain you are on as you run the app
       mvxNativeAuthMaxExpirySeconds: 3000, // this should match the expirySeconds value from Step 2
+      fwdHeaderKeys: "authorization", // forward the authorization header to the data stream server (so it can validate the sesison and get caller address etc)
       fwdHeaderMapLookup: {
         "authorization": `Bearer ${nativeAuthToken}`,
       },
@@ -153,7 +154,7 @@ async function MyAppComponent() {
     console.error(err);
   }
 
-  return <>JSON DATA from the Opened Data NFT is : {JSON.stringify(showData)}</>;
+  return `<>JSON DATA from the Opened Data NFT is : ${JSON.stringify(showData)}</>`;
 }
 ```
 {% endcode %}
