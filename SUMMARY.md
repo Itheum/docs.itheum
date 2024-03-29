@@ -114,8 +114,8 @@
 
 ## Legal
 
+* [Ecosystem Tools Terms](legal/ecosystem-tools-terms/README.md)
+  * [Liveliness Bonding: Penalties and Slashing Terms](legal/ecosystem-tools-terms/liveliness-bonding-penalties-and-slashing-terms.md)
 * [Content Guidelines](legal/content-guidelines.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
-* [Platform Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
-* [Platform Use Terms](legal/platform-use-terms/README.md)
-  * [Liveliness Bonding: Penalties and Slashing Terms](legal/platform-use-terms/liveliness-bonding-penalties-and-slashing-terms.md)
+* [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
