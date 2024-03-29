@@ -43,7 +43,7 @@
     7. IMAGE  (PNG, JPG, GIF)
 
 {% hint style="info" %}
-On top of the above rules, it important to note that the Data Streams are "unlocked" via the [data-marshal-network.md](../../product/data-marshal-network.md "mention") node network, so it's also important to understand some additional features/limitations the Data Marshal nodes may enforce on your Data Streams. Learn about these here: [data-marshal-node-endpoints.md](../../developers/data-marshal-node-endpoints.md "mention")
+On top of the above rules, it important to note that the Data Streams are "unlocked" via the [data-marshal-network.md](../../product/data-marshal-network.md "mention") node network, so it's also important to understand some additional features/limitations the Data Marshal nodes may enforce on your Data Streams. Learn about these here: [data-marshal-node-endpoints.md](../../developers/data-marshal-network/data-marshal-node-endpoints.md "mention")
 {% endhint %}
 
 

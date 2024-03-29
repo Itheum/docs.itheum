@@ -240,15 +240,16 @@ For example, let’s assume the user wants to play **Beats are best** with `idx`
 const res: ViewDataReturnType = await dataNftToOpen.viewDataViaMVXNativeAuth({
   mvxNativeAuthOrigins: ["http://localhost:3000"],
   mvxNativeAuthMaxExpirySeconds: 3000,
+  fwdHeaderKeys: "authorization", // forward the authorization header to the data stream server (so it can validate the sesison and get caller address etc)
   fwdHeaderMapLookup: {
     "authorization": `Bearer ${nativeAuthToken}`,
   },
-  stream: true, // this ensure the data streams and "does not download"
-  nestedIdxToStream: 1  // we want to stream the song "Beats are best" so we send it's "idx"
+  stream: true, // this ensures the data streams and "does not download"
+  nestedIdxToStream: 1  // We want to stream the song "Beats are best" so we send it's "idx"
 });
 ```
 
-And that's it... using the above interactive coding method, we can iterate and interact with the "base" version of the Data Stream. by doing so, we can build a fully functional Audio Player app.
+And that's it... using the above interactive coding method, we can iterate and interact with the "base" version of the Data Stream. By doing so, we can build a fully functional Audio Player app.
 
 
 

@@ -20,9 +20,10 @@
   * [FAQ - Data NFT Marketplace](product/data-nft-marketplace/faq-data-nft-marketplace.md)
 * [Itheum Explorer](product/itheum-explorer.md)
 * [Itheum Enterprise](product/itheum-enterprise.md)
+* [Data Marshal Network](product/data-marshal-network.md)
+* [Data Coalition DAOs (DC DAOs)](product/data-coalition-daos-dc-daos.md)
 * [Trailblazer](product/trailblazer/README.md)
   * [FAQ - Trailblazer](product/trailblazer/faq-trailblazer.md)
-* [Data Marshal Network](product/data-marshal-network.md)
 
 ## Integrators
 
@@ -30,6 +31,7 @@
   * [MultiversX DeFi Wallet](integrators/supported-wallets/multiversx-defi-wallet.md)
   * [Ledger Wallet](integrators/supported-wallets/ledger-wallet.md)
   * [xPortal Wallet](integrators/supported-wallets/xportal-wallet.md)
+  * [xAlias (Login with Google)](integrators/supported-wallets/xalias-login-with-google.md)
 * [Data DEX Guides](integrators/data-dex-guides/README.md)
   * [MultiversX Blockchain](integrators/data-dex-guides/multiversx-blockchain/README.md)
     * [Guide 1 : Get Started with the Data DEX on MultiversX](integrators/data-dex-guides/multiversx-blockchain/guide-1-get-started-with-the-data-dex-on-multiversx/README.md)
@@ -50,6 +52,7 @@
   * [How to List a Trailblazer](integrators/trailblazer-guides/how-to-list-a-trailblazer.md)
 * [Data Streams Guides](integrators/data-streams-guides/README.md)
   * [Data Stream URL Rules](integrators/data-streams-guides/data-stream-url-rules.md)
+  * [Zedge Storage](integrators/data-streams-guides/zedge-storage.md)
   * [Amazon Web Services (AWS)](integrators/data-streams-guides/amazon-web-services-aws/README.md)
     * [Storage : AWS S3](integrators/data-streams-guides/amazon-web-services-aws/storage-aws-s3/README.md)
       * [Data NFT Streaming Automation - Multiple files](integrators/data-streams-guides/amazon-web-services-aws/storage-aws-s3/data-nft-streaming-automation-multiple-files.md)
@@ -62,6 +65,8 @@
       * [Troubleshooting](integrators/data-streams-guides/amazon-web-services-aws/hosting-aws-s3-+-cloudflare/troubleshooting.md)
   * [Arweave - Akord](integrators/data-streams-guides/arweave-akord.md)
   * [MultiversX Native Auth Protected API](integrators/data-streams-guides/multiversx-native-auth-protected-api.md)
+* [Data Coalition DAOs (DC DAOs) Guides](integrators/data-coalition-daos-dc-daos-guides/README.md)
+  * [Appointer > Delegator Pattern for Data NFT Delegation](integrators/data-coalition-daos-dc-daos-guides/appointer-greater-than-delegator-pattern-for-data-nft-delegation.md)
 
 ## Developers
 
@@ -70,11 +75,14 @@
     * [Guide 1 : Minting a Custom Data NFT Collection with Authenticated Data Streams (via SDK)](developers/software-development-kits-sdks/data-nft-sdk/guide-1-minting-a-custom-data-nft-collection-with-authenticated-data-streams-via-sdk.md)
     * [Guide 2 : Unlocking Data NFTs via MultiversX Native Auth](developers/software-development-kits-sdks/data-nft-sdk/guide-2-unlocking-data-nfts-via-multiversx-native-auth.md)
     * [Guide 3 : Using Nested Streams to Access Nested Data Assets from a Primary Data Stream](developers/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md)
+    * [Guide 4: Use the Data NFT "Deputy" Feature to delegate access of your Data NFTs to a Smart Contract](developers/software-development-kits-sdks/data-nft-sdk/guide-4-use-the-data-nft-deputy-feature-to-delegate-access-of-your-data-nfts-to-a-smart-contract.md)
   * [Enterprise SDK](developers/software-development-kits-sdks/enterprise-sdk/README.md)
     * [Guide 1 : Using Itheum Enterprise to Mint a Data NFT Collection (e.g. NFT Loyalty Card Solution)](developers/software-development-kits-sdks/enterprise-sdk/guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md)
   * [Data Marshal Network SDK](developers/software-development-kits-sdks/data-marshal-network-sdk/README.md)
     * [Guide 1 : Make your Regular NFT Collection to be Data NFT-PH Compatible](developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md)
-* [Data Marshal Node Endpoints](developers/data-marshal-node-endpoints.md)
+* [Data Marshal Network](developers/data-marshal-network/README.md)
+  * [Data Marshal Node Endpoints](developers/data-marshal-network/data-marshal-node-endpoints.md)
+  * [Data Marshal Transit Flags and Headers](developers/data-marshal-network/data-marshal-transit-flags-and-headers.md)
 * [Tech Support - Discord](developers/tech-support-discord.md)
 * [Release Notes](developers/release-notes/README.md)
   * [Data DEX](developers/release-notes/data-dex.md)
@@ -98,6 +106,10 @@
     * [Project Ideas > MultiversX Dev Tooling and Infra](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-multiversx-dev-tooling-and-infra.md)
     * [Project Ideas > Itheum](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-itheum.md)
     * [Test Data NFT Catalog](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
+* [Itheum Life : Liveliness & Reputation Signalling](protocol/itheum-life-liveliness-and-reputation-signalling/README.md)
+  * [\<BiTS> XP System](protocol/itheum-life-liveliness-and-reputation-signalling/less-than-bits-greater-than-xp-system.md)
+  * [Data Creator Bonding](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-bonding.md)
+  * [Data Creator Staking](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-staking.md)
 * [Itheum Ecosystem Actions Catalogue](protocol/itheum-ecosystem-actions-catalogue.md)
 
 ## Legal

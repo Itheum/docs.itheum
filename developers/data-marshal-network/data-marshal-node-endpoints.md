@@ -1,10 +1,10 @@
 # Data Marshal Node Endpoints
 
-The Data Marshal is the node that brokers the trade of data between a Data Creator and a Data Consumer. Learn more about the [Data Marshal here](../product/data-marshal-network.md)
+The Data Marshal is the node that brokers the trade of data between a Data Creator and a Data Consumer. Learn more about the [Data Marshal here](../../product/data-marshal-network.md)
 
-When you mint a Data NFT via the [Data DEX DApp](https://stg.datadex.itheum.io/) (devnet) or via the [Data NFT SDK,](software-development-kits-sdks/data-nft-sdk/) you will be asked for a Data Marshal endpoint as one of the minting parameters. \
+When you mint a Data NFT via the [Data DEX DApp](https://stg.datadex.itheum.io/) (devnet) or via the [Data NFT SDK,](../software-development-kits-sdks/data-nft-sdk/) you will be asked for a Data Marshal endpoint as one of the minting parameters. \
 \
-For example, as you follow this [detailed guide for Minting Data NFTs via the Data NFT SDK](software-development-kits-sdks/data-nft-sdk/guide-1-minting-a-custom-data-nft-collection-with-authenticated-data-streams-via-sdk.md), you will see the following code snippet.
+For example, as you follow this [detailed guide for Minting Data NFTs via the Data NFT SDK](../software-development-kits-sdks/data-nft-sdk/guide-1-minting-a-custom-data-nft-collection-with-authenticated-data-streams-via-sdk.md), you will see the following code snippet.
 
 {% code lineNumbers="true" fullWidth="true" %}
 ```javascript
