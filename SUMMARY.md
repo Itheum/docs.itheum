@@ -52,6 +52,7 @@
   * [How to List a Trailblazer](integrators/trailblazer-guides/how-to-list-a-trailblazer.md)
 * [Data Streams Guides](integrators/data-streams-guides/README.md)
   * [Data Stream URL Rules](integrators/data-streams-guides/data-stream-url-rules.md)
+  * [Data Asset Storage Options](integrators/data-streams-guides/data-asset-storage-options.md)
   * [Zedge Storage](integrators/data-streams-guides/zedge-storage.md)
   * [Amazon Web Services (AWS)](integrators/data-streams-guides/amazon-web-services-aws/README.md)
     * [Storage : AWS S3](integrators/data-streams-guides/amazon-web-services-aws/storage-aws-s3/README.md)
