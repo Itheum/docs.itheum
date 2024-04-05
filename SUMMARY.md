@@ -108,7 +108,7 @@
     * [Project Ideas > Itheum](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/project-ideas-greater-than-itheum.md)
     * [Test Data NFT Catalog](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
 * [Itheum Life : Liveliness & Reputation Signalling](protocol/itheum-life-liveliness-and-reputation-signalling/README.md)
-  * [\<BiTS> XP System](protocol/itheum-life-liveliness-and-reputation-signalling/less-than-bits-greater-than-xp-system.md)
+  * [\<BiTz> XP System](protocol/itheum-life-liveliness-and-reputation-signalling/less-than-bitz-greater-than-xp-system.md)
   * [Data Creator Bonding](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-bonding/README.md)
     * [Liveliness Score States](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-bonding/liveliness-score-states.md)
   * [Data Creator Staking](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-staking.md)
