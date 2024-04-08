@@ -22,6 +22,6 @@ As detailed above, once a **“Bond Period” (e.g. 3 Months)** expires, you wil
 
 ## Liveliness Score Unavailable
 
-This state is an artifact of Livelines Scores being introduced AFTER some Data NFTs were already minted. In the rare situation that you do see this status message, it could mean that the Data Creator, who was most likely offered an opportunity to set up a Liveliness Score after the Creator Bonding feature was launched, has chosen to not proceed and therefore it can be considered that their Liveliness score has Expired.
+This state is an artifact of Livelines Scores being introduced AFTER some Data NFTs were already minted. In the rare situation that you do see this status message, it could mean that the Data Creator, who was most likely offered an opportunity to set up a Liveliness Score after the Creator Bonding feature was launched, has not yet made a decision on if they should proceed.
 
 <figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
