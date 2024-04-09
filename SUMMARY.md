@@ -77,6 +77,7 @@
     * [Guide 2 : Unlocking Data NFTs via MultiversX Native Auth](developers/software-development-kits-sdks/data-nft-sdk/guide-2-unlocking-data-nfts-via-multiversx-native-auth.md)
     * [Guide 3 : Using Nested Streams to Access Nested Data Assets from a Primary Data Stream](developers/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md)
     * [Guide 4: Use the Data NFT "Deputy" Feature to delegate access of your Data NFTs to a Smart Contract](developers/software-development-kits-sdks/data-nft-sdk/guide-4-use-the-data-nft-deputy-feature-to-delegate-access-of-your-data-nfts-to-a-smart-contract.md)
+    * [Guide 5: Preparing a Data Stream containing a password to protect a URL](developers/software-development-kits-sdks/data-nft-sdk/guide-5-preparing-a-data-stream-containing-a-password-to-protect-a-url.md)
   * [Enterprise SDK](developers/software-development-kits-sdks/enterprise-sdk/README.md)
     * [Guide 1 : Using Itheum Enterprise to Mint a Data NFT Collection (e.g. NFT Loyalty Card Solution)](developers/software-development-kits-sdks/enterprise-sdk/guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md)
   * [Data Marshal Network SDK](developers/software-development-kits-sdks/data-marshal-network-sdk/README.md)
