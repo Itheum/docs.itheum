@@ -101,35 +101,39 @@ then write a simple node.js script (e.g. job.js) which has the following code an
 
 {% code overflow="wrap" lineNumbers="true" fullWidth="true" %}
 ```javascript
-import { DataMarshal } from "@itheum/sdk-data-marshal-network";
+const { DataMarshal } = require("@itheum/sdk-data-marshal-network");
 
-// Initialization
-const dataMarshal = new DataMarshal("devnet"); // or "mainnet" based on where you are minting
+async function runJob() {
+  // Initialization
+  const dataMarshal = new DataMarshal("devnet"); // or "mainnet" based on where you are minting
 
-/* Get your encrypted Data Stream URL:
-Param 1: is your clear text, Data Stream URL that will be encrypted by the Data Marshal network
+  /* Get your encrypted Data Stream URL:
+  Param 1: is your clear text, Data Stream URL that will be encrypted by the Data Marshal network
+  
+  Param 2: This can be thought of as the "creator" or "owner" of the  Data Stream URL. In this case, it is "erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7". Note that this needs to be a valid MultiversX Wallet or the method will fail with an error similar to 'Error: Issue with data marshal generating payload'. 
+  
+  IMPORTANT!!! you need to make sure that you use this EXACT SAME Param 2 value, (i.e. "creator" or "owner" of the Data Stream URL) as the "itheum_creator" NFT attribute in the NFT metadata file, or else the Data Marshal network will not allow for the Data Stream to be viewed.
+  */
+  const encryptPayload = await dataMarshal.encryptDataStream(
+    "https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicSecureDataStreamDemo",
+      "erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7"
+    );
 
-Param 2: This can be thought of as the "creator" or "owner" of the  Data Stream URL. In this case, it is "erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7". Note that this needs to be a valid MultiversX Wallet or the method will fail with an error similar to 'Error: Issue with data marshal generating payload'. 
+  console.log(encryptPayload);
 
-IMPORTANT!!! you need to make sure that you use this EXACT SAME Param 2 value, (i.e. "creator" or "owner" of the Data Stream URL) as the "itheum_creator" NFT attribute in the NFT metadata file, or else the Data Marshal network will not allow for the Data Stream to be viewed.
-*/
-const encryptPayload = await dataMarshal.encryptDataStream(
-  "https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicSecureDataStreamDemo",
-  "erd1qmsq6ej344kpn8mc9xfngjhyla3zd6lqdm4zxx6653jee6rfq3ns3fkcc7"
-);
-
-console.log(encryptPayload);
-
-/*
-console logged value:
-{
-  messageHash: '9ae257fd4014bc84b35692832ac49a30d140712d2b0d4c53726d7847bf3d1378',
-  dataStreamEncrypted: 'eyJBIjoiOWFlMjU3ZmQ0MDE0YmM4NGIzNTY5MjgzN2JiMmE3MjEzODhkZTkxMGEzMGYyZTcwIiwiQiI6IjllZDM1NTFjMmRkZmYwOTFhNWRlOWI4YTUyMTIyNTkzYTQ3NzViZDkwZTg3ZDNiMjE0NDU0N2VhNzMxOGRiOGMiLCJDIjoiMDZiNWRkYjlhNjA1NzcyNWQ5NzdkMDdhOGUwZTFmZmJmMTUwYjdmNTY3ZGNiOWZiMmE0OThlZDc5OTQzNGMwZCIsIkQiOiJkMWY2NTJhMWZkZGRkOTY4MzdmODEzNjU5YzlmM2EwNGRiMDE3Nzc3ZDkxMDA1YWU2ODI2ZjdkMzZhNGE0YmRmYjM3NzA1MTZiZTg2YzQ3YjkxOWUwODFlNjU2YjY2MGQ0MWViZDJjOGRhOGZlZTcwN2QyZDkyMzY2NTkzMzUyYTM0ODhmMmU3NTRjYjk5NzYwMDgxMmNkZjI5NTZhMjRlZmU1NzdiOWUxODkxMzY3MmNhZGE4Mjc3N2M3NWMwZTg4YmIyMjA4NjQwNDcwNjczYTRmNjA4YzNhMGFmYzExNGUxNDA5YzQ0N2FjZDUxYTkyZjcxZjgxZDFlNDY3Zjc1MmEzNGZkM2U4ZTdkNzQ2NDFjZTQzY2YwMTg3OTA4YzY5YzU1NmZjODA4YjUxNzkwMzU0MDc4YWMyZDZjZTcxMjdjZGUxNDY0YjljM2Q1NDgxNjA3YjI1MjVlYzhjOThiZWY2ZmMwNTUxNjVmMzExYmU3MGVjNGI1NThhOTA4MDQ2MDU5ZGU1M2FhOTEzZGIwZDgwMzFlYTBhMTFlYWFiZjBjZmViOWJmYzgwMDhjNzc4YzIyNzY4ZGU1ZmFkYzBlIiwiRSI6Ijc1MWY4NjgzMjYxN2U0MGMwZmJlYTM3MDFmMzM3NGVlMDM5MmEzN2Y0MzA2ODU4NThiNjIzMDVlOTA1MWI5YTE1ODg0ZDFmNTRiMDNlYTk5MTM2NTc3YWRjYzgyYWQ3N2FiOTczZjZjNGFiMGRhMWZmNDNmNDI2NTE1NWRiZDBmIn0='
+  /*
+  console logged value:
+  {
+    messageHash: '9ae257fd4014bc84b35692832ac49a30d140712d2b0d4c53726d7847bf3d1378',
+    dataStreamEncrypted: 'eyJBIjoiOWFlMjU3ZmQ0MDE0YmM4NGIzNTY5MjgzN2JiMmE3MjEzODhkZTkxMGEzMGYyZTcwIiwiQiI6IjllZDM1NTFjMmRkZmYwOTFhNWRlOWI4YTUyMTIyNTkzYTQ3NzViZDkwZTg3ZDNiMjE0NDU0N2VhNzMxOGRiOGMiLCJDIjoiMDZiNWRkYjlhNjA1NzcyNWQ5NzdkMDdhOGUwZTFmZmJmMTUwYjdmNTY3ZGNiOWZiMmE0OThlZDc5OTQzNGMwZCIsIkQiOiJkMWY2NTJhMWZkZGRkOTY4MzdmODEzNjU5YzlmM2EwNGRiMDE3Nzc3ZDkxMDA1YWU2ODI2ZjdkMzZhNGE0YmRmYjM3NzA1MTZiZTg2YzQ3YjkxOWUwODFlNjU2YjY2MGQ0MWViZDJjOGRhOGZlZTcwN2QyZDkyMzY2NTkzMzUyYTM0ODhmMmU3NTRjYjk5NzYwMDgxMmNkZjI5NTZhMjRlZmU1NzdiOWUxODkxMzY3MmNhZGE4Mjc3N2M3NWMwZTg4YmIyMjA4NjQwNDcwNjczYTRmNjA4YzNhMGFmYzExNGUxNDA5YzQ0N2FjZDUxYTkyZjcxZjgxZDFlNDY3Zjc1MmEzNGZkM2U4ZTdkNzQ2NDFjZTQzY2YwMTg3OTA4YzY5YzU1NmZjODA4YjUxNzkwMzU0MDc4YWMyZDZjZTcxMjdjZGUxNDY0YjljM2Q1NDgxNjA3YjI1MjVlYzhjOThiZWY2ZmMwNTUxNjVmMzExYmU3MGVjNGI1NThhOTA4MDQ2MDU5ZGU1M2FhOTEzZGIwZDgwMzFlYTBhMTFlYWFiZjBjZmViOWJmYzgwMDhjNzc4YzIyNzY4ZGU1ZmFkYzBlIiwiRSI6Ijc1MWY4NjgzMjYxN2U0MGMwZmJlYTM3MDFmMzM3NGVlMDM5MmEzN2Y0MzA2ODU4NThiNjIzMDVlOTA1MWI5YTE1ODg0ZDFmNTRiMDNlYTk5MTM2NTc3YWRjYzgyYWQ3N2FiOTczZjZjNGFiMGRhMWZmNDNmNDI2NTE1NWRiZDBmIn0='
+  }
+  
+  - messageHash is a unique hash you can use to identify your Data Stream URL (you can use this as a "provenance" ID of sorts if needed)
+  - dataStreamEncrypted is the value you need to use for the "itheum_data_stream_url" NFT Attribute
+  */
 }
 
-- messageHash is a unique hash you can use to identify your Data Stream URL (you can use this as a "provenance" ID of sorts if needed)
-- dataStreamEncrypted is the value you need to use for the "itheum_data_stream_url" NFT Attribute
-*/
+runJob();
 ```
 {% endcode %}
 
