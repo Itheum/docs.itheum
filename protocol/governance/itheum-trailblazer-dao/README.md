@@ -1,4 +1,4 @@
-# Trailblazer DAO
+# Itheum Trailblazer DAO
 
 Tasked with offering specialized "Data and Creator Curation Services", the TrailBlazer DAO is key in ensuring organic growth in data creator and data creator activity within the ecosystem.
 
@@ -6,8 +6,7 @@ The Trailblazer DAO only operates within initiatives requiring a manual decision
 
 The Trailblazer DAO will, therefore, participate in clear "initiatives" that are detailed and structured.&#x20;
 
-
-
 **Here are the initiatives currently being governed by this DAO.**
 
-1. Initiative 1: Explore Data NFT-FT Trading: Royalties, Creator Curation, and Boosting in 3rd Party NFT Marketplaces
+1. Initiative 1: Manage Itheum Life : Creator Bonding
+2. Initiative 2: Manage Data NFT-FT 3rd party Marketplace Royalty Distribution (Coming Soon)
