@@ -28,8 +28,9 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 3. _Dataset Description:_ A brief description providing an overview of the dataset's contents or purpose
 4. _Number of copies:_ The total number of identical copies of the Data NFT that can be minted
 5. _Royalties:_ The percentage of future trades or transfers of the Data NFT that the creator will receive as a royalty
+6. Extra Asset URL: Additional context can be placed in the form of an extra Asset. This can be reflected in the Datadex. The uniquely generated Data NFT image will be observed in tandem with the extra asset image set.
 
-<figure><img src="../../.gitbook/assets/Section 2 mint.png" alt=""><figcaption><p>Please note that the Token Name, Dataset Title and Description cannot be edited after minting of the Data NFT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Please note that the Token Name, Dataset Title and Description cannot be edited after minting of the Data NFT</p></figcaption></figure>
 
 #### **Section 3:**
 

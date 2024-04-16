@@ -1,6 +1,6 @@
 # Data Creator Bonding
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>An Active Liveliness Score by a Data Creator</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption><p>An Active Liveliness Score by a Data Creator</p></figcaption></figure>
 
 As explained in the intro page [..](../ "mention"), Itheum “Liveliness” scores are a measurement of your reputation, participation, activity, and advocacy of the new data economy.
 
