@@ -1,2 +1,2 @@
-# Platform Use Terms
+# ⚖️ Ecosystem Tools Terms
 

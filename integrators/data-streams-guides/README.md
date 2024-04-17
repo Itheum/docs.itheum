@@ -4,7 +4,7 @@ description: >-
   the Data Stream via a Data NFT in the "web3" world
 ---
 
-# Data Streams Guides
+# 📙 Data Streams Guides
 
 Data Streams are dynamic data streams published by organizations or individuals and are hosted to exist in the web2 world (accessible via a web browser). But these streams can be wrapped behind a Data NFT, which then serves as the "license key" to unlock the Data Stream.
 

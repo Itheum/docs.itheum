@@ -1,4 +1,4 @@
-# Itheum Life : Liveliness & Reputation Signalling
+# 🥫 Itheum Life : Liveliness & Reputation Signalling
 
 ## The Problem to Solve:
 

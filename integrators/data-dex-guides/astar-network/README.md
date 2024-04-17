@@ -4,6 +4,10 @@ description: Astar Network is Japan's most popular smart contract platform.
 
 # Astar Network
 
+{% hint style="warning" %}
+Support for Astar Network is experimental and is in Alpha Devnet mode.
+{% endhint %}
+
 Itheum's technology has been deployed to Astar Network's Shibuya Testnet as part of the "Sony X Astar Network Web3 Incubation Program". You can learn more about Itheum's participation in this [program here](https://medium.com/itheum-newsletter/empowering-data-ownership-itheum-joins-sony-x-astar-network-web3-incubation-program-to-4768bb4fcba1)\
 
 

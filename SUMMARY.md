@@ -83,7 +83,7 @@
   * [Data Marshal Network SDK](developers/software-development-kits-sdks/data-marshal-network-sdk/README.md)
     * [Guide 1 : Make your Regular NFT Collection to be Data NFT-PH Compatible](developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md)
 * [🥋 Data Marshal Network](developers/data-marshal-network/README.md)
-  * [Data Marshal Node Endpoints](developers/data-marshal-network/data-marshal-node-endpoints.md)
+  * [Data Marshal Node Gateway Endpoints](developers/data-marshal-network/data-marshal-node-gateway-endpoints.md)
   * [Data Marshal Transit Flags and Headers](developers/data-marshal-network/data-marshal-transit-flags-and-headers.md)
 * [🛂 Tech Support - Discord](developers/tech-support-discord.md)
 * [🛒 Release Notes](developers/release-notes/README.md)

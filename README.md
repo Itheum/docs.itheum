@@ -2,7 +2,7 @@
 description: Welcome to the Itheum Protocol Official Docs
 ---
 
-# Getting Started
+# 👋 Getting Started
 
 ## What is Itheum?
 
