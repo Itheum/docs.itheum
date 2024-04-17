@@ -67,7 +67,7 @@
   * [Arweave - Akord](integrators/data-streams-guides/arweave-akord.md)
   * [MultiversX Native Auth Protected API](integrators/data-streams-guides/multiversx-native-auth-protected-api.md)
 * [📘 Data Coalition DAOs (DC DAOs) Guides](integrators/data-coalition-daos-dc-daos-guides/README.md)
-  * [Appointer > Delegator Pattern for Data NFT Delegation](integrators/data-coalition-daos-dc-daos-guides/appointer-greater-than-delegator-pattern-for-data-nft-delegation.md)
+  * [Appointer > Delegator Pattern for Data NFT "Deputizing"](integrators/data-coalition-daos-dc-daos-guides/appointer-greater-than-delegator-pattern-for-data-nft-deputizing.md)
 
 ## Developers
 
