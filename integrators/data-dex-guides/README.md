@@ -2,7 +2,7 @@
 description: Simple Multi-Chain guides on how you can use the Itheum Data DEX
 ---
 
-# Data DEX Guides
+# 📗 Data DEX Guides
 
 Itheum is the world's first decentralized data brokerage platform, and the [Data DEX](https://datadex.itheum.io/) is Itheum's decentralized data brokerage portal for individuals or organizations to claim ownership of their web2 data assets and trade them in a peer-to-peer data marketplace.&#x20;
 

@@ -1,4 +1,4 @@
-# Content Guidelines
+# 👮 Content Guidelines
 
 If you write or produce any content/material describing features, products or integrations relating to the Itheum Protocol, please strictly adhere to the Content Guidelines described below. They describe restrictions and guidelines to ensure compliance and integrity of your content when used in context of Itheum.
 

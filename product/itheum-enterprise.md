@@ -1,4 +1,4 @@
-# Itheum Enterprise
+# 🏢 Itheum Enterprise
 
 <figure><img src="../.gitbook/assets/image (119).png" alt="" width="563"><figcaption><p>Itheum Enterprise Management Dashboard: Full control over your very own Data NFT Collection</p></figcaption></figure>
 

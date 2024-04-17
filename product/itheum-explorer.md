@@ -1,4 +1,4 @@
-# Itheum Explorer
+# 🔍 Itheum Explorer
 
 The [Itheum Explorer](https://explorer.itheum.io/) is a standalone portal that provides tools to "explore" the potential of the Itheum Protocol. The key feature enabled by Itheum Explorer is that it allows for additional methods for accessing data within Data NFTs either visually via Data Widgets or File Viewers; this feature empowers Data Consumer with the ability to discover the potential of Data NFTs via a seamless web2 like user experience.
 

@@ -2,7 +2,7 @@
 description: 'Unveiling Data DEX: Your Gateway to the Itheum Protocol'
 ---
 
-# Data DEX
+# 📡 Data DEX
 
 In the ever-evolving landscape of web3 technologies, the Itheum protocol stands out as a revolutionary force in data ownership infrastructure. Simplifying access to this cutting-edge protocol is the Data DEX, a decentralized app serving as the entry point for users keen on exploring the vast possibilities within the Itheum ecosystem.
 

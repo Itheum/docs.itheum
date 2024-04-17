@@ -2,7 +2,7 @@
 description: 'Embracing Decentralization: Itheum''s Journey Towards a Unified DAO Ecosystem'
 ---
 
-# Governance
+# 🏛️ Governance
 
 In the ever-evolving landscape of blockchain technology, Itheum stands as a beacon of innovation and progress. At the heart of its vision lies a commitment to public goods, ensuring that the strides made in technology are accessible to all, devoid of exclusivity or privatization. In this pursuit, Itheum is forging ahead with its decentralized approach, gradually weaving a tapestry of DAOs (Decentralized Autonomous Organizations) that will shape the future of the platform.
 

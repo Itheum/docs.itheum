@@ -1,4 +1,4 @@
-# Trailblazer Guides
+# 📕 Trailblazer Guides
 
 The Trailblazer is a revolutionary Data NFT that enables Projects to engage with their community through exclusive news/information and events. As a Trailblazer holder, you'll unlock engaging experiences through a continuous data stream. A user will be able to access quests, news, perks, and rewards, enabling the user to deeply engage with the Project and stay informed. The [Itheum Trailblazer](https://datadex.itheum.io/datanfts/marketplace/DATANFTFT-e936d4-01) is one such Trailblazer that enables users to engage exclusively with [Itheum](https://www.itheum.io/).
 

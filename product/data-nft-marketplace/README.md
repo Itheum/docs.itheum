@@ -1,4 +1,4 @@
-# Data NFT Marketplace
+# 💹 Data NFT Marketplace
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Trade your Data NFTs in the Data NFT Marketplace</p></figcaption></figure>
 

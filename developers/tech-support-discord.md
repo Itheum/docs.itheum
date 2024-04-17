@@ -1,4 +1,4 @@
-# Tech Support - Discord
+# 🛂 Tech Support - Discord
 
 Our team will aim to provide as much developer support as possible, but please be aware that this may not always be possible due to our tech backlog.
 

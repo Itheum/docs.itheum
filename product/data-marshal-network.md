@@ -2,7 +2,7 @@
 description: A decentralized Data Broker that facilitates both data ownership and sharing
 ---
 
-# Data Marshal Network
+# 🔓 Data Marshal Network
 
 The Itheum Data Marshal Network is the cornerstone of the Itheum Data Brokerage protocol, a revolutionary initiative that challenges the status quo of data ownership and usage. In today's world, centralized data brokers often operate in the shadows, profiting from your data without your consent or knowledge, leaving you with no share of the value generated from this secretive trade. Itheum envisions a decentralized data brokerage network that grants data creators ownership of their data and liberates it from silos, enabling transparent and equitable data trading.
 

@@ -1,4 +1,4 @@
-# Data NFT
+# 🖼️ Data NFT
 
 <figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>"Supercharged NFTs" backed by your data</p></figcaption></figure>
 
