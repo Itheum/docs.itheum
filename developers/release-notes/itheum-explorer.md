@@ -1,5 +1,28 @@
 # Itheum Explorer
 
+## V1.14
+
+**Main Features / Changes**
+
+* Added the "Bober Game Room" widget, enhancing user engagement and entertainment options within Explorer.
+* Introduced a "Recent and Trending NFTs" section, providing users with easy access to the latest and most popular NFTs.
+* Resolved various bugs and QoL improvements for Bitz functionality, ensuring a smoother user experience.
+* Enhanced NF-Tunes functionality by adding support for multiple collections and addressing various bugs.
+* Added "Get Bitz Ready-to-Play" animation and dropdown, providing users with engaging visual elements and easy access to Bitz features.
+* Introduced support for extra assets and viewing of extra media assets.
+* Added support for DataNFT PH functionality, improving compatibility and interoperability across platforms.
+
+***
+
+## V1.13
+
+**Main Features / Changes**
+
+* Introduced the "Get Bitz - XP System" widget, enhancing user engagement and interaction.
+* Improved load times for NF-Tunes, ensuring faster access to music data.
+
+***
+
 ## V1.12
 
 **Main Features / Changes**
