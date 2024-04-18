@@ -1,5 +1,28 @@
 # Data DEX
 
+## V1.14
+
+**Main Features / Changes**
+
+* Upgraded the "Get Whitelisted" page to "Get Verified," reflecting changes in verification processes and improving clarity for users.
+* Implemented NFT pagination for the bonding admin dashboard, enabling easier navigation and management of bonded NFTs.
+* Introduced support for extra assets and viewing of extra media assets, expanding the range of supported content types.
+* Added support for DataNFT PH (Placeholder) functionality, improving compatibility and interoperability across platforms.
+* Added "Get Bitz Ready-to-Play" animation and dropdown, providing users with engaging visual elements and easy access to Bitz features.
+* Implemented enhanced bonding UI and upgraded smart contracts for improved functionality and within the Data Dex.
+
+***
+
+## V1.13
+
+**Main Features / Changes**
+
+* Implemented IPNS (InterPlanetary Name System) support, enabling creators to enter IPNS for their data NFTs.
+* Introduced "Get Bitz - XP System" Data NFT, offering a gamified experience for users.
+* Activated the bonding feature on production, allowing creators to bond ITHEUM to their data NFTs for added functionality.
+
+***
+
 ## V1.12
 
 **Main Features / Changes**
