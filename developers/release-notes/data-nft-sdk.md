@@ -1,5 +1,33 @@
 # Data NFT SDK
 
+## V3.1.0
+
+**Main Features / Changes**
+
+* Extra Asset support added to Data NFT.
+
+**Bug Fixing / Other Updates**
+
+* Image Preview moved out of traits.
+
+***
+
+## V3.0.0
+
+**Main Features / Changes**
+
+* Bond contract support and interface added.
+* View feature added for bonds and compensations.
+
+**Bug Fixing / Other Updates**
+
+* Data NFT PH can now parse new values.
+* Lock period is now optional.
+* Typo rectified in Smart contract.
+* Support added for Anti Spam Tax and Treasury Address.
+
+***
+
 ## V2.7.0
 
 **Main Features / Changes**
