@@ -5,7 +5,7 @@
 **Main Features / Changes**
 
 * Upgraded the "Get Whitelisted" page to "Get Verified," reflecting changes in verification processes and improving clarity for users.
-* Implemented NFT pagination for the bonding admin dashboard, enabling easier navigation and management of bonded NFTs.
+* Implemented NFT pagination for the bonding admin dashboard, enabling easier navigation and management of bonding with Data NFTs.
 * Introduced support for extra assets and viewing of extra media assets, expanding the range of supported content types.
 * Added support for DataNFT PH (Placeholder) functionality, improving compatibility and interoperability across platforms.
 * Added "Get Bitz Ready-to-Play" animation and dropdown, providing users with engaging visual elements and easy access to Bitz features.
