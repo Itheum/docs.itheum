@@ -1,3 +1,0 @@
-# Zedge Storage
-
-\[Coming Soon]
