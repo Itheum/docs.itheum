@@ -10,4 +10,10 @@ As a user who wants to mint a Data NFT:
 * I'd then like to come back to Zedge Storage, and update my data as I know "ipns://MY\_IPNS\_ID" will now point to my new updated IPFS CID
 {% endhint %}
 
-\[Guide Coming Soon]
+## Guide 1:
+
+Uploading Dynamic File on IPFS + IPNS using Zedge Storage: [Link](https://app.tango.us/app/workflow/Uploading-a-dynamic-file-on-zEdgeStorage-IPNS--f61c832efa00461b91de671f1e56514c)
+
+## Guide 2:
+
+Updating Dynamic File on IPFS + IPNS using Zedge Storage: \[Coming Soon]

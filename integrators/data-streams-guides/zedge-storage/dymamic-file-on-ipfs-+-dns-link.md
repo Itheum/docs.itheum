@@ -10,4 +10,10 @@ As a user who wants to mint a Data NFT:
 * I'd then like to come back to Zedge Storage, update my data and then change the connected CID on my domain name so that my domain points to the new file
 {% endhint %}
 
-\[Guide Coming Soon]
+## Guide 1:
+
+Uploading Dynamic File on IPFS + DNS Link using Zedge Storage: [Link](https://app.tango.us/app/workflow/Uploading-Dynamic-Files-on-zEdgeStorage-DNS-Link--142e086cfbf2469c89f13724dddc9a61)
+
+## Guide 2:
+
+Updating Dynamic File on IPFS + DNS Link using Zedge Storage: \[Coming Soon]
