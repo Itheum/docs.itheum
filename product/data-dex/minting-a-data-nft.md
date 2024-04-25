@@ -10,7 +10,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 2. Browse to [https://datadex.itheum.io/mintdata](https://datadex.itheum.io/mintdata)
 3. Click on "_Mint Dat NFT_"
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
 3. Users will be required to fill in the Metadata form to mint the Data NFT.
 
@@ -42,7 +42,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 4. Carefully review the Penalties and slashing terms.
 5. Agree to "Liveliness Bonding: Penalties and Slashing Terms"
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Section 4:**
 
