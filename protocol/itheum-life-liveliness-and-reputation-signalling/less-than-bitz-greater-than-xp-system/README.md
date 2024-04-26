@@ -4,7 +4,7 @@ description: Earn Itheum <BiTz> XP Points as your Explore and Use The Itheum Pro
 
 # \<BiTz> XP System
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 The Itheum \<BiTz> XP system was launched on April 1, 2024 (April Fools Day) as a Meme Data NFT Collection. It was introduced as a "Proof of XP" Data NFT Collection for the active participants of the Itheum Ecosystem. Unlike other XP systems, this platform is built on our own "Data NFT" technology and we just completed an airdrop of the IXPG1 collection for the most active members of the Itheum community!
 
