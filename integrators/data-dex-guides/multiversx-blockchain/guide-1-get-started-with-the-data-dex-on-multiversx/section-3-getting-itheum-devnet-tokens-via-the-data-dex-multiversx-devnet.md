@@ -21,15 +21,13 @@ Note that:
 
 Note that your ITHEUM token balance on your header will be showing 0. The ITHEUM token is the utility token of the Itheum protocol. It will be used across the Itheum ecosystem for features such as unlocking data access and governance and generally incentivize positive behavior across Itheum's protocol apps and tools.
 
-<figure><img src="https://lh5.googleusercontent.com/8klbOUnfignZVTStLfvUfNcbtanfv_OjBzzW0kDCqWxGBMs62KDh2B0LqUpmbWX4TJr_ShaZ_qEjYtQdlp5Z20YgKKpO1c_q5J662wKd6bp0SVfZE70APlLQ0bXHyVTtZQHKSNEpqIX3QnQk5s7P3JA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Step 5)** Let’s now get some Devnet ITHEUM tokens to use within the Data DEX.&#x20;
 
-Locate “ITHEUM Faucet” tile on the Dashboard and click “Send me 20 ITHEUM.”
+Locate “ITHEUM Faucet” tile on the Dashboard and click “Send me 120 ITHEUM.”
 
-
-
-<figure><img src="https://lh3.googleusercontent.com/l-31I7oPGwwY-AMV9AA5b6f73E9ee2tHAAtmbASfnjTosSkwUYSOrFMThG9EJC-vMBdi0NWjMIxRSXs8AX2ihCw0gC03sE8YhOSlZsDHgt0uIR_pJ9wksPjI1xi9p1BczRLCULo_DDYmQ5hBhzI7bKY" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6)** DeFi wallet will ask you to sign the transaction. Click on Confirm.
 
@@ -39,11 +37,11 @@ Locate “ITHEUM Faucet” tile on the Dashboard and click “Send me 20 ITHEUM.
 
 <figure><img src="https://lh5.googleusercontent.com/o4-mTr9DerKx5BUMISEIrAm44qRnaLe0_lZ3Cpvewj5d2SJsn9rqXiaMav321_2nUJjB6pK_-ZYepYWRHhtl9upryQM0F5MRXg0BPqeOW7y6c5y5Isb0BiV1vdU8mxf4PWHTnxhXR478tWr4wlNtXMk" alt="" width="375"><figcaption></figcaption></figure>
 
-**Step 8)** Once this is complete, you will receive 20 ITHEUM Devnet tokens that are now displayed in your dashboard header.
+**Step 8)** Once this is complete, you will receive 120 ITHEUM Devnet tokens that are now displayed in your dashboard header.
 
-<figure><img src="https://lh4.googleusercontent.com/cK_iFN_EyKrVkV2A5MTofsZZoB-FCDnxRC093mxsCnGTP1PR1pwIY-7TElIQJh_yBziIRCeOURhTayf0Zwt0vrc8-wYKo3ivk3sycObedSshWLZ0Ps4-PmlQK4ZyX7RK588S1iNZttGET2FrWsJ-OOA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**Step 9)** Let’s wait a few minutes and use the Faucet again to claim another 20 ITHEUM Testnet tokens.&#x20;
+**Step 9)** Let’s wait a few minutes and use the Faucet again to claim another 120 ITHEUM Testnet tokens.&#x20;
 
 _Bonus: You will notice that the Faucet has also given you some free “Claims” tokens. This is part of Itheum’s “Claims Portal,” where the protocol deposits any ecosystem tokens you are entitled to (e.g., Royalties from your Data NFTs trades will be sent here). You can claim these tokens in your wallet as well if you would like._
 
