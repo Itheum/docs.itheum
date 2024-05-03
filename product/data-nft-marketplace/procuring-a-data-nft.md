@@ -23,12 +23,6 @@ Review details of the Data NFT and select the amount to be procured. The click o
 
 <figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
-#### **Alternatively: Browse the marketplace and select the amount for purchase**
-
-To purchase a Data NFT, browse the [Data NFT Marketplace](https://datadex.itheum.io/) for a Data NFT of interest. Select the _Amount_ (This indicates the copies of the Data NFT you would like to buy if the Seller listed multiple) and click "_Purchase Data_".
-
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
 **Step 3) Read and Agree to terms of use**
 
 Upon invoking "_Purchase Data_" an uptime check is performed on the Data Stream. Read and agree to the "[_Terms of Use_](https://itheum.com/legal/datadex/termsofuse)" to _Proceed_. A clear breakdown of the fees and total costs is also provided for your review.
@@ -52,8 +46,6 @@ Browse the [Data NFT Marketplace](https://datadex.itheum.io/) select "Show all o
 &#x20;Select the _Amount_ (This indicates the copies of the Data NFT you would like to buy if the Seller listed multiple) and click "_Purchase Data_".
 
 <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
-**S**
 
 ## The End Result
 
