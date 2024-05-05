@@ -1,10 +1,10 @@
 # Section 3: Getting ITHEUM devnet tokens via the Data DEX - MultiversX Devnet
 
-**Step 1)** In the same browser as the one with your DeFi browser plugin wallet setup as above, navigate to the following devnet app: [https://stg.datadex.itheum.io](https://stg.datadex.itheum.io)&#x20;
+**Step 1)** In the same browser as the one with your DeFi browser plugin wallet setup as above, navigate to the following devnet app: [https://test.datadex.itheum.io](https://test.datadex.itheum.io/)&#x20;
 
 Note that:
 
-* Itheum’s devnet is located at: [https://stg.datadex.itheum.io](https://stg.datadex.itheum.io)&#x20;
+* Itheum’s devnet is located at: [https://test.datadex.itheum.io ](https://test.datadex.itheum.io/)
 * Itheum ‘s mainnet is located at: [https://datadex.itheum.io](https://stg.datadex.itheum.io)
 
 
