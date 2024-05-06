@@ -14,6 +14,4 @@ As a user who wants to mint a Data NFT:
 
 Uploading Dynamic File on IPFS + IPNS using Zedge Storage: [Link](https://app.tango.us/app/workflow/Uploading-a-dynamic-file-on-zEdgeStorage-IPNS--f61c832efa00461b91de671f1e56514c)
 
-## Guide 2:
-
-Updating Dynamic File on IPFS + IPNS using Zedge Storage: \[Coming Soon]
+Post upload users can update the dataset, steps are provided in the link above.
