@@ -18,6 +18,4 @@ As a user who wants to mint a Trailblazer Data NFT (which is a format that gener
 
 Uploading Dynamic File on IPFS + IPNS using Zedge Storage: [Link](https://app.tango.us/app/workflow/Creating-a-Trailblazer-Data-NFT-on--zEdgeStorage-with-IPNS-7a9773c8cd074c18aead979b1a1c733c)
 
-## Guide 2:
-
-Updating Dynamic File on IPFS + IPNS using Zedge Storage: \[Coming Soon]
+Post upload users can update the Trailblazer dataset, steps are provided in the link above.
