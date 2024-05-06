@@ -13,7 +13,3 @@ As a user who wants to mint a Data NFT:
 
 Uploading Static File on Zedge Storage: [Link](https://app.tango.us/app/workflow/Uploading-Static-Files-on-zEdgeStorage-7ce0e88360344df7b458c6ab8cc159d3)
 
-## Guide 2:
-
-Updating Statc File on Zedge Storage: \[Coming Soon]
-
