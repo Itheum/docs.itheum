@@ -18,9 +18,7 @@ As a user who wants to mint a Music Data NFT:
 
 Uploading Dynamic File on IPFS + IPNS using Zedge Storage: [Link](https://app.tango.us/app/workflow/Using-zEdgeStorage-for-Decentralized-Music-Data-Storage-with-IPNS-IPFS-36d0498d9ec5488e9e21c25bdafc671a)
 
-## Guide 2:
-
-Updating Dynamic File on IPFS + IPNS using Zedge Storage: \[Coming Soon]
+Post upload users can update the Music dataset, steps are provided in the link above.
 
 \
 **In the meantime, the following demo video shows you how to generate a Music Data NFT Compatible Dynamic Data Stream on IPFS + DNS Link and it's a good place to start...**
