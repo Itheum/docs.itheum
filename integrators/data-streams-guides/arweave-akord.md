@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Akord ](https://akord.com/)is a decentralized storage platform that stores data permanently and securely using blockchain technology. Akord can be used to store data, such as images, videos, and audio files. Upon hosting, a URL of the file is obtained for [minting a data NFT](../../product/data-dex/minting-a-data-nft.md).
+[Akord ](https://akord.com/)is a decentralized storage platform that stores data permanently and securely using blockchain technology. Akord can be used to store data, such as images, videos, and audio files. Upon hosting, a URL of the file is obtained for [minting a data NFT](../../product/data-dex/minting-a-data-nft/).
 
 To get started, create an account on [Akord here](https://akord.com/)
 
