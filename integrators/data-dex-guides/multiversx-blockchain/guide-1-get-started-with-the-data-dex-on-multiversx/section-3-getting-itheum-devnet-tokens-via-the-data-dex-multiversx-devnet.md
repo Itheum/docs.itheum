@@ -21,13 +21,13 @@ Note that:
 
 Note that your ITHEUM token balance on your header will be showing 0. The ITHEUM token is the utility token of the Itheum protocol. It will be used across the Itheum ecosystem for features such as unlocking data access and governance and generally incentivize positive behavior across Itheum's protocol apps and tools.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5)** Let’s now get some Devnet ITHEUM tokens to use within the Data DEX.&#x20;
 
 Locate “ITHEUM Faucet” tile on the Dashboard and click “Send me 120 ITHEUM.”
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 6)** DeFi wallet will ask you to sign the transaction. Click on Confirm.
 
@@ -39,7 +39,7 @@ Locate “ITHEUM Faucet” tile on the Dashboard and click “Send me 120 ITHEUM
 
 **Step 8)** Once this is complete, you will receive 120 ITHEUM Devnet tokens that are now displayed in your dashboard header.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Step 9)** Let’s wait a few minutes and use the Faucet again to claim another 120 ITHEUM Testnet tokens.&#x20;
 

@@ -10,8 +10,9 @@ The Owner has to set the following to list the NFT:
 
 * _Number_ of NFTs to list (If you had minted multiple copies, how many you would like to list in a single offer)
 * The List Price or _Unlock Fee_ per unit (if you had minted multiple copies and you would like to list multiple copies in a single offer, then this is the fee per copy)
+* Max buy per address limits the number of NFTs a single user can buy during 1 transaction.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon invoking the listing, the owner is prompted with a confirmation message that provides a summary and breakdown of the fee split.
 
