@@ -10,7 +10,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 2. Browse to [https://datadex.itheum.io/mintdata](https://datadex.itheum.io/mintdata)
 3. Click on "_Mint Dat NFT_"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
 3. Users will be required to fill in the Metadata form to mint the Data NFT.
 
@@ -19,7 +19,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 1. _Data Stream URL_: The Data Stream URL will be dynamically served to the holders of the Data NFT
 2. _Data Preview URL_: This URL will be publicly available. It is desirable to provide the potential buyer an insight into the main Data Stream so they get an idea of the data asset they are acquiring&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Section 2:**
 
@@ -34,15 +34,22 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 
 #### **Section 3:**
 
+1. Select a donation percentage, this would taken as a percentage from the total supply.. Note that donation is not necessary.
+2. Once the appropriate donation percentage is set click on "Next".
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### **Section 4:**
+
 1. Carefully read through the _Liveliness Bonding_ description.
 2. Review the _Bonding Amount_ and _Bonding Period_.
 3. Review the _Penalties and Slashing_ description.
 4. Carefully review the Penalties and slashing terms.
 5. Agree to "Liveliness Bonding: Penalties and Slashing Terms"
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-#### **Section 4:**
+#### **Section 5:**
 
 1. Read carefully and Agree to [_Terms of Use_](https://itheum.com/legal/datadex/termsofuse)
 2. Agree to _Anti-Spam Fee_ deduction (This fee is used to help screen out bad actors from providing spam datasets)
