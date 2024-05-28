@@ -10,7 +10,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 2. Browse to [https://datadex.itheum.io/mintdata](https://datadex.itheum.io/mintdata)
 3. Click on "_Mint Dat NFT_"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
 3. Users will be required to fill in the Metadata form to mint the Data NFT.
 
@@ -19,7 +19,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 1. _Data Stream URL_: The Data Stream URL will be dynamically served to the holders of the Data NFT
 2. _Data Preview URL_: This URL will be publicly available. It is desirable to provide the potential buyer an insight into the main Data Stream so they get an idea of the data asset they are acquiring&#x20;
 
-<figure><img src="../../../.gitbook/assets/Section 1 mint.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Section 2:**
 
@@ -30,9 +30,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 5. _Royalties:_ The percentage of future trades or transfers of the Data NFT that the creator will receive as a royalty
 6. _Extra Asset URL_: Additional context can be placed in the form of an extra Asset. This can be reflected in the Datadex. The uniquely generated Data NFT image will be observed in tandem with the extra asset image set.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Please note that the Token Name, Dataset Title and Description cannot be edited after minting of the Data NFT</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **Section 3:**
 
@@ -42,7 +40,7 @@ To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.i
 4. Carefully review the Penalties and slashing terms.
 5. Agree to "Liveliness Bonding: Penalties and Slashing Terms"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### **Section 4:**
 
