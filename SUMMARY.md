@@ -12,6 +12,7 @@
   * [Data NFT Generative Image Tool](product/data-nft/data-nft-generative-image-tool.md)
 * [📡 Data DEX](product/data-dex/README.md)
   * [Minting a Data NFT](product/data-dex/minting-a-data-nft/README.md)
+    * [Store Data and Mint a Data NFT - Step-by-Step Tutorial](product/data-dex/minting-a-data-nft/store-data-and-mint-a-data-nft-step-by-step-tutorial.md)
     * [Creator Donations For Community Airdrops](product/data-dex/minting-a-data-nft/creator-donations-for-community-airdrops.md)
   * [CanaryNet Guardrails](product/data-dex/canarynet-guardrails/README.md)
     * [Guardrail : Trading Data NFTs on 3rd Party NFT Marketplaces](product/data-dex/canarynet-guardrails/guardrail-trading-data-nfts-on-3rd-party-nft-marketplaces.md)

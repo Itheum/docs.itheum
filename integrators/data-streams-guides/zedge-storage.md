@@ -14,4 +14,8 @@
 
 You can access Zedge Storage on : [zedgestorage.com](https://zedgestorage.com)&#x20;
 
-Let's explore some simple guides on how you can get started with using Zedge Storage to host your Data NFT Data Streams...
+{% hint style="success" %}
+Watch this short video to see how easy it is to store your data in Zedge Storage and mint a Data NFT : [store-data-and-mint-a-data-nft-step-by-step-tutorial.md](../../product/data-dex/minting-a-data-nft/store-data-and-mint-a-data-nft-step-by-step-tutorial.md "mention")
+{% endhint %}
+
+Let's explore some other simple guides on how you can get started with using Zedge Storage to host your Data NFT Data Streams...
