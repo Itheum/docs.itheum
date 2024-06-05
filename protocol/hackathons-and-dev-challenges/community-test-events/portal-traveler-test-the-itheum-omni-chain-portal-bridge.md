@@ -21,7 +21,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 ### Base Rewards:
 
 * Completing all **Actions** steps below as detailed in the Test Steps below, will get you a total of 250 BiTz XP
-* Completing all **Actions** steps multiple times (up to 5), will get you a bonus 100 BiTz XO per try. e.g. if you complete it an extra 5 times, your will get a extra 500 BiTz XP!
+* Completing all **Actions** steps multiple times (up to 5), will get you a bonus 100 BiTz XP per try. e.g. if you complete it an extra 5 times, your will get a extra 500 BiTz XP!
 * Existing Mainnet BiTz XP holders, get a 2X boosted reward if they complete all steps, so you would get 500 BITz XP
   * To ensure you get your rewards and boosts, make sure you use your Mainnet wallet that holds the BiTz XP Data NFT. You can use this same wallet on devnet without an issue.
 * BiTz XP rewards will be sent to the participating wallets within 15 days after Phase 1 End Date.
@@ -49,39 +49,45 @@ Submit your bug reports here: \[GOOGLE FORM coming]
 
 #### Setup:
 
-<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../integrators/supported-wallets/multiversx-defi-wallet.md)and [xPortal App](../../../integrators/supported-wallets/xportal-wallet.md) Supported. Put your wallet in "devnet" mode if required (but this should happen automatically when you use the Portal as it's setup in devnet mode only).
+<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../integrators/supported-wallets/multiversx-defi-wallet.md)and [xPortal App](../../../integrators/supported-wallets/xportal-wallet.md) Supported. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
 
 <mark style="background-color:green;">**Step 2:**</mark> Setup a Solana Wallet like Phantom, and put your [Phantom wallet in "devnet" mode](https://www.youtube.com/watch?v=6o9lAZv2zAs)
 
-<mark style="background-color:green;">**Step 3:**</mark> Get some dEGLD (devnet EGLD), which is required for gas payment on MultiversX. Go here, [https://devnet-wallet.multiversx.com](https://devnet-wallet.multiversx.com/), login with your wallet from Step 1, and use the "Faucet" to get dEGLD. Alternately, you can use [https://r3d4.fr/faucet](https://r3d4.fr/faucet) to get dEGLD (Note! this is a 3rd party site so proceed with caution)
+<mark style="background-color:green;">**Step 3:**</mark> Get some dEGLD (DEVNET EGLD), which is required for gas payment on MultiversX. Go here, [https://devnet-wallet.multiversx.com](https://devnet-wallet.multiversx.com/), login with your wallet from Step 1, and use the "Faucet" to get dEGLD. Alternately, you can use [https://r3d4.fr/faucet](https://r3d4.fr/faucet) to get dEGLD (Note! this is a 3rd party site so proceed with caution)
 
-<mark style="background-color:green;">**Step 4:**</mark> Get some devnet SOL, which is required for gas payment on MultiversX. Go here: [https://faucet.solana.com/](https://faucet.solana.com/), paste your address from Step 1 and request SOL
+<mark style="background-color:green;">**Step 4:**</mark> Get some DEVNET SOL, which is required for gas payment on MultiversX. Go here: [https://faucet.solana.com/](https://faucet.solana.com/), paste your address from Step 1 and request SOL
 
-<mark style="background-color:green;">**Step 5:**</mark> Get devnet ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me devnet $ITHEUM" button to get 1,000 ITHEUM tokens.
+<mark style="background-color:green;">**Step 5:**</mark> Get DEVNET ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me ITHEUM" button to get 1,000 ITHEUM tokens.
 
-<mark style="background-color:green;">**Step 6:**</mark> Head over to the Omni-Chain Portal: [https://alpha-devnet.portal.itheum.io/](https://alpha-devnet.portal.itheum.io/) and click on "Bridge $ITHEM", login with your wallets from Step 1 and Step 2
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<mark style="background-color:green;">**Step 6:**</mark> Head over to the Omni-Chain Portal: [https://alpha-devnet.portal.itheum.io/](https://alpha-devnet.portal.itheum.io/) and click on "Bridge $ITHEUM", login with your wallets from Step 1 and Step 2
 
 <mark style="background-color:green;">**Step 7:**</mark> You should now see the following interface:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Actions:
 
-The following actions can be repeated as per Base Reward section above to get reward multipliers. The below assumes you begin the test with $ITHEUM tokens on MultiversX devnet.
+{% hint style="info" %}
+1. The following actions can be repeated as per Base Reward section above to get reward multipliers.&#x20;
+2. The below assumes you begin the test with 1,000 $ITHEUM tokens on MultiversX DEVNET.
+3. Before you begin the next actions, note down all your balances on both blockchains and at the end of all actions, confirm the balances are correct and as expected.
+{% endhint %}
 
 <mark style="background-color:orange;">**Action 1:**</mark> Bridge $100 ITHEUM from MultiversX to Solana, wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on MultiversX and credited on Solana)
 
-<mark style="background-color:orange;">**Action 2:**</mark> Bridge $250 ITHEUM from MultiversX to Solana, do not wait until the tokens move. Immediately move onto next action.
+<mark style="background-color:orange;">**Action 2:**</mark> Bridge $150 ITHEUM from MultiversX to Solana, wait until the transaction is successfully complete but do NOT wait until the tokens move by waiting 2-5 Epochs like in above action. Immediately move onto next action.
 
 <mark style="background-color:orange;">**Action 3:**</mark> Bridge remaining ITHEUM (e.g. $750 ITHEUM) from MultiversX to Solana, wait 2-5 Epochs and confirm your tokens from Action 2 and 3 have moved chains.
 
-_Now all your $ITHEUM should be on the Solana chain, and we will test a bridge back._
+_Now all your 1,000 $ITHEUM should be on the Solana chain, and we will test a bridge back._
 
-<mark style="background-color:orange;">**Action 4:**</mark> Bridge $100 ITHEUM from Solana to MultiversX , wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on Solana and credited on MuliversX)
+<mark style="background-color:orange;">**Action 4:**</mark> Bridge $100 ITHEUM from Solana to MultiversX , wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on Solana and credited on MultiversX)
 
-<mark style="background-color:orange;">**Action 5:**</mark> Bridge $250 ITHEUM from Solana to MultiversX, do not wait until the tokens move. Immediately move onto next action.
+<mark style="background-color:orange;">**Action 5:**</mark> Bridge $150 ITHEUM from Solana to MultiversX, wait until the transaction is successfully XOcomplete but do NOT wait until the tokens move by waiting 2-5 Epochs like in above action. Immediately move onto next action.
 
 <mark style="background-color:orange;">**Action 6:**</mark> Bridge remaining ITHEUM (e.g. $750 ITHEUM) from Solana to MultiversX, wait 2-5 Epochs and confirm your tokens from Action 5 and 6 have moved chains.
 
-_Now all your $ITHEUM should be back on the MultiversX chain, you can now repeat Actions._
+_Now all your 1,000 $ITHEUM should be back on the MultiversX chain, you can now repeat Actions._
 
