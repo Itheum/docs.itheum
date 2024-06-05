@@ -77,7 +77,7 @@ Submit your bug reports here: \[GOOGLE FORM coming]
 
 <mark style="background-color:orange;">**Action 1:**</mark> Bridge $100 ITHEUM from MultiversX to Solana, wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on MultiversX and credited on Solana)
 
-<mark style="background-color:orange;">**Action 2:**</mark> Bridge $150 ITHEUM from MultiversX to Solana, wait until the transaction is successfully complete but do NOT wait until the tokens move by waiting 2-5 Epochs like in above action. Immediately move onto next action.
+<mark style="background-color:orange;">**Action 2:**</mark> Bridge $150 ITHEUM from MultiversX to Solana, wait until the transaction is successfully complete but do NOT wait until the tokens actually bridge by waiting 2-5 Epochs like in above action, instead, immediately move onto next action.
 
 <mark style="background-color:orange;">**Action 3:**</mark> Bridge remaining ITHEUM (e.g. $750 ITHEUM) from MultiversX to Solana, wait 2-5 Epochs and confirm your tokens from Action 2 and 3 have moved chains.
 
@@ -85,9 +85,13 @@ _Now all your 1,000 $ITHEUM should be on the Solana chain, and we will test a br
 
 <mark style="background-color:orange;">**Action 4:**</mark> Bridge $100 ITHEUM from Solana to MultiversX , wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on Solana and credited on MultiversX)
 
-<mark style="background-color:orange;">**Action 5:**</mark> Bridge $150 ITHEUM from Solana to MultiversX, wait until the transaction is successfully XOcomplete but do NOT wait until the tokens move by waiting 2-5 Epochs like in above action. Immediately move onto next action.
+<mark style="background-color:orange;">**Action 5:**</mark> Bridge $150 ITHEUM from Solana to MultiversX, wait until the transaction is successfully complete but do NOT wait until the tokens actually bridge by waiting 2-5 Epochs like in above action, instead, immediately move onto next action.
 
 <mark style="background-color:orange;">**Action 6:**</mark> Bridge remaining ITHEUM (e.g. $750 ITHEUM) from Solana to MultiversX, wait 2-5 Epochs and confirm your tokens from Action 5 and 6 have moved chains.
 
 _Now all your 1,000 $ITHEUM should be back on the MultiversX chain, you can now repeat Actions._
+
+
+
+**Got Questions? Head over to our Discord :** [**itheum.io/discord** ](https://itheum.io/discord)
 
