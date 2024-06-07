@@ -15,8 +15,8 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 ### Test Dates:
 
-* Start Data: 6 June 2024
-* End Date:  10 June 2024
+* Start Data: 7 June (Friday) 2024
+* End Date:  11 June (Tuesday) 2024
 
 ### Base Rewards:
 
@@ -40,7 +40,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 * "Frontend" Bugs: These are bugs that are on the UI, the UI is a work in progress there there may be plenty of "small to medium" issues, but if you discover any major issue and it's confirmed by our team will get you 200 BiTz XP each
 
 {% hint style="info" %}
-Submit your bug reports here: \[GOOGLE FORM coming]
+Submit your bug reports using this [feedback form](https://forms.gle/utFkSfQyHbfjWdWv9)
 {% endhint %}
 
 
