@@ -49,7 +49,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 #### Setup:
 
-<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../integrators/supported-wallets/multiversx-defi-wallet.md)and [xPortal App](../../../integrators/supported-wallets/xportal-wallet.md) Supported. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
+<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../integrators/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
 
 <mark style="background-color:green;">**Step 2:**</mark> Setup a Solana Wallet like Phantom, and put your [Phantom wallet in "devnet" mode](https://www.youtube.com/watch?v=6o9lAZv2zAs)
 
@@ -59,13 +59,13 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 <mark style="background-color:green;">**Step 5:**</mark> Get DEVNET ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me ITHEUM" button to get 1,000 ITHEUM tokens.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <mark style="background-color:green;">**Step 6:**</mark> Head over to the Omni-Chain Portal: [https://alpha-devnet.portal.itheum.io/](https://alpha-devnet.portal.itheum.io/) and click on "Bridge $ITHEUM", login with your wallets from Step 1 and Step 2
 
 <mark style="background-color:green;">**Step 7:**</mark> You should now see the following interface:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Actions:
 
@@ -83,7 +83,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 _Now all your 1,000 $ITHEUM should be on the Solana chain, and we will test a bridge back._
 
-<mark style="background-color:orange;">**Action 4:**</mark> Bridge $100 ITHEUM from Solana to MultiversX , wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on Solana and credited on MultiversX)
+<mark style="background-color:orange;">**Action 4:**</mark> Bridge $100 ITHEUM from Solana to MultiversX , wait 2-5 Epochs and confirm your tokens have moved chains (i.e. $100 deducted from your balance on Solana and credited on MultiversX) - [_Getting a Request Blocked Warning by Phantom Error?_](portal-traveler-test-the-itheum-omni-chain-portal-bridge.md#getting-a-request-blocked-warning-by-phantom-error)
 
 <mark style="background-color:orange;">**Action 5:**</mark> Bridge $150 ITHEUM from Solana to MultiversX, wait until the transaction is successfully complete but do NOT wait until the tokens actually bridge by waiting 2-5 Epochs like in above action, instead, immediately move onto next action.
 
@@ -94,4 +94,16 @@ _Now all your 1,000 $ITHEUM should be back on the MultiversX chain, you can now 
 
 
 **Got Questions? Head over to our Discord :** [**itheum.io/discord** ](https://itheum.io/discord)
+
+
+
+#### Getting a Request Blocked Warning by Phantom Error?
+
+{% hint style="warning" %}
+Are you seeing this below warning by Phantom?&#x20;
+
+This is because the _https://alpha-devnet.portal.itheum.io_ domain is flagged a s "new domain" by Phantom and it is giving you this wanting as a precaution. Also note that as you are on Solana "devnet", no mainnet access is happening. If you are still concerned about safety, we recommend that you use a new Solana wallet just for this test, and ensure it's connected to "devnet".\
+\
+<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+{% endhint %}
 

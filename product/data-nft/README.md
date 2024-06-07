@@ -12,7 +12,7 @@ When minting a Data NFT, the "origin location" of the data asset being wrapped i
 
 ### Key Features of Data NFTs&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Dynamic**: The content behind Data NFTs can be updated at any time.
 * **Composable**: They can be used as “building blocks,” combining them to create cool new use cases.
