@@ -99,6 +99,7 @@
   * [Data NFT SDK](developers/release-notes/data-nft-sdk.md)
   * [Enterprise SDK](developers/release-notes/enterprise-sdk.md)
   * [Data Marshal Network](developers/release-notes/data-marshal-network.md)
+* [🐞 Bug Bounty](developers/bug-bounty.md)
 
 ## Protocol
 
