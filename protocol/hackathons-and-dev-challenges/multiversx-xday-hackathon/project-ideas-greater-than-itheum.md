@@ -34,7 +34,7 @@ Build a "Data Wallet" browser plugin using our SDK that lets users have the Data
 
 Build a simple "Data Wallet" mobile app using our SDK that lets users have the Data NFTs they own conveniently available as they need it. A multi-platform mobile app using a framework like React Native or Flutter will be perfect for a simple app to work across Android and iOS.&#x20;
 
-Bonus points if you can also use our SDK to implement a "Mint This into a Data NFT," where the user can seamlessly connect to another app on the device (e.g., Health app on iOS or Google Fit app on Android), takes in a snapshot of the user's health and wellness data, uploads that to a Data Stream ([centralized](../../../integrators/data-streams-guides/amazon-web-services-aws/) or [decentralized](../../../integrators/data-streams-guides/arweave-akord.md)) and then mints this into a Data NFT the user owns.&#x20;
+Bonus points if you can also use our SDK to implement a "Mint This into a Data NFT," where the user can seamlessly connect to another app on the device (e.g., Health app on iOS or Google Fit app on Android), takes in a snapshot of the user's health and wellness data, uploads that to a Data Stream ([centralized](../../../integrators/data-streams-guides/amazon-web-services-aws/) or [decentralized](../../../integrators/data-streams-guides/akord-arweave-blockchain.md)) and then mints this into a Data NFT the user owns.&#x20;
 
 </details>
 
@@ -52,7 +52,7 @@ Currently, you can only procure access to a Data NFT on the Data DEX by using $I
 
 One of the most requested features from Itheum users is a "seamless and secure" way to self host data and for generating a Data Stream that can be used in Data NFT minting. We offer manual solutions to generate Data Stream as per [these guides](../../../integrators/data-streams-guides/) but we want to improve the user experience by automating tools for this. \
 \
-The solution can enable the user to connect to their Arweave storage account, upload their files, and then seamlessly generate a "Data Stream" URL, which can be used to mint a Data NFT. You can explore tools like [Akord](https://akord.com/) (we also have a [manual guide for Akord](../../../integrators/data-streams-guides/arweave-akord.md) that you can read). Bonus points for any integration with Akord's "Vaults" that store encrypted data.
+The solution can enable the user to connect to their Arweave storage account, upload their files, and then seamlessly generate a "Data Stream" URL, which can be used to mint a Data NFT. You can explore tools like [Akord](https://akord.com/) (we also have a [manual guide for Akord](../../../integrators/data-streams-guides/akord-arweave-blockchain.md) that you can read). Bonus points for any integration with Akord's "Vaults" that store encrypted data.
 
 </details>
 

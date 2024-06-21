@@ -71,7 +71,7 @@
       * [Task 2: Convert your AWS S3 Bucket into a "website"](integrators/data-streams-guides/amazon-web-services-aws/hosting-aws-s3-+-cloudflare/task-2-convert-your-aws-s3-bucket-into-a-website.md)
       * [Task 3: Use Cloudflare to connect your Domain Name to your S3 Bucket securely](integrators/data-streams-guides/amazon-web-services-aws/hosting-aws-s3-+-cloudflare/task-3-use-cloudflare-to-connect-your-domain-name-to-your-s3-bucket-securely.md)
       * [Troubleshooting](integrators/data-streams-guides/amazon-web-services-aws/hosting-aws-s3-+-cloudflare/troubleshooting.md)
-  * [Arweave - Akord](integrators/data-streams-guides/arweave-akord.md)
+  * [Akord - Arweave blockchain](integrators/data-streams-guides/akord-arweave-blockchain.md)
   * [MultiversX Native Auth Protected API](integrators/data-streams-guides/multiversx-native-auth-protected-api.md)
 * [📘 Data Coalition DAOs (DC DAOs) Guides](integrators/data-coalition-daos-dc-daos-guides/README.md)
   * [Appointer > Delegator Pattern for Data NFT "Deputizing"](integrators/data-coalition-daos-dc-daos-guides/appointer-greater-than-delegator-pattern-for-data-nft-deputizing.md)

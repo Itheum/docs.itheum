@@ -1,10 +1,12 @@
-# Arweave - Akord
+# Akord - Arweave blockchain
 
 ## Introduction
 
-[Akord ](https://akord.com/)is a decentralized storage platform that stores data permanently and securely using blockchain technology. Akord can be used to store data, such as images, videos, and audio files. Upon hosting, a URL of the file is obtained for [minting a data NFT](../../product/data-dex/minting-a-data-nft/).
+[Akord](https://akord.com/) is an app, API, SDK and CLI enabling permanent data storage on the Arweave blockchain with one upfront payment.&#x20;
 
-To get started, create an account on [Akord here](https://akord.com/)
+Akord vaults can be used to store any data – images, videos, documents, audio, even websites and applications. After uploading a file, an Arweave gateway URL will be available (it normally takes 5-15 minutes for files to be committed on-chain), enabling the[ minting of a data NFT](https://docs.itheum.io/product-docs/product/data-dex/minting-a-data-nft).
+
+Below are different options for uploading assets and obtaining the Arweave gateway URL using the app and API.
 
 ## Steps for hosting a File on Akord
 
