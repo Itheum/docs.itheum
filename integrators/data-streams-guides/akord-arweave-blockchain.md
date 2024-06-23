@@ -53,6 +53,12 @@ The generated manifest.json will look like this with all transaction IDs listed 
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdj0vC9tIvP1qXil3M9waQTX4LjympuRdPQh4ltb2f52_ablVKF2t13ow5hnOOmsnjI9x351rR69wyrSyubEMGSDkfKO2uLmTnK4Uf5gm-lOENrSKTMGna2ugQz41Bkp-eXXBYuxRPU4CKLYEYcR34zXE5T?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
+All gateways follow the same scheme: https://{gateway host}/{tx-id}
+
+You’ll also find Akord documentation on how to [generate a manifest with the CLI](https://docs.akord.com/nft-projects/get-the-arweave-urls/generate-a-manifest-cli), along with[ a script for generating Arweave gateway URLs](https://docs.akord.com/nft-projects/get-the-arweave-urls/using-a-script) without using a manifest file.
+
+These Arweave gateway URLs can be used for Data NFT minting.
+
 ## The End Result
 
 Upon implementing the above steps, the final result will look like this.&#x20;
