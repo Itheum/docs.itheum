@@ -8,51 +8,45 @@ Akord vaults can be used to store any data – images, videos, documents, audio,
 
 Below are different options for uploading assets and obtaining the Arweave gateway URL using the app and API.
 
-## Steps for hosting a File on Akord
+## Upload with the Akord app
 
-### **1. Creating and configuring a vault on Akord**
+1\. [Create your account](https://v2.akord.com/signup) in a few minutes. Get 100 MB of free blockchain storage to test your workflow.
 
-A vault in Akord is a secure container for storing data. Following are the steps to create a vault on Akord.
+2\. Select “NFT assets” when you login as the template for creating your first vault:
 
-&#x20;a. Click on "New vault".
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXddrOKELCqyk3o_KVTUgZzbnfA8ffC-cYteyooSjr3xUqjlcHf0NGLeZSZd8bkX4owr8IFJbSfVPGkygx7aMLPGAVj9NZrZbl99xc6IDd4BMlXOXkvM63j6sDUbMelv30NHqv6SUM1LxPESjvFSHboVM2qG?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-* The vault is a container that will hold your assets. Each vault can be configured for permissions.
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;b. Select "Public", this will make the file accessible to the data Marshal.
+3. Give your vault a name and optionally add a description and tag, which can help your vault be discovered on-chain in the future:
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdOcG52TjsVPV8vvEFH0RdAvKtRH0gKVrtgnxhaohRASN4OAbWZr_5y0VGR53u9ZAZCvBunpqpd87eOjq0dNAmcrKS8Uu4BPTGel9mgzQUTR_qX04Mb3Az0a04WQGBDmWy52yjWhRiY367o_31uCspsfI0?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-&#x20;c. Fill in the details and create Vault.
+4. Drag and drop your assets into the main vault window or select the files by clicking “Upload a file”:
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfUBQv7r3SJIPc5YhXrOFcnFlB8wB5hEv0IiD0cnIu9KIPj7dzuaKg10Ok2jTJUbwgf6adUez9CAFWMYvj6cK30GHJj-GraG9BCFmENyENrfP9liE_ppyKqGX4QbT4ayB8gc8PpK68vi5-MOe-okXA6-IY?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-&#x20;d. The new vault is now available in the vaults section.
+5. Click the info icon on the right side of the row once the file is uploaded to the vault:
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeD-1qfieC-_mxCNZoA4R83Ms34X9e2ne0B81ULu5XUt3C-dJqgZ00WVnGgWIsesYrBB0BsTGAF-IKcZvjq7qu3UR9fI1FD2vYByOfhHBtFMAP0yvYUma4m8BL_PFfnQ0BcjO-VuWDoKQdf2fOx4nXJC7Kx?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-### **2. Uploading a file to the vault and obtaining URL for Mint**
+6. Get an Arweave gateway URL. There are two options – akrd.net, Akord’s own gateway, or arweave.net, another popular gateway in the ecosystem:
 
-&#x20;a. Browse into the vault created and click on "Upload file"
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfZWvEK4mmg0Hfkt4fhTavD_SBwbj-3WAXKUV9hOCTRXfGHzFZdfkDzNG27mFWoYHvQVQMYvvb9GPj_8BOhOQzVRG8s81L73uA0OxD22ptMG4Byc5GdCiSL6edUmTrm24l5RgtARLP-fpELbx3HC9vajvW2?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+7. &#x20;Generate a manifest if you have multiple NFTs (optional).
 
-&#x20;b. Select the file and click on "Upload"
+If you’re uploading many assets, you can generate an Arweave manifest that will contain all transaction IDs in one JSON.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+Click “Create JSON metadata” link in the top right of the vault, and select the Arweave manifest option
 
-&#x20;c. Click on "File Info". This will provide details of the file upload.
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcjwH0h_fu-eDg-oruIF38Pj3f2xf-O0h5ytmQ2NE7f1xibKF56bn46Q-HoJwzAxXt-stsKTj1coO8EppfUWl52VuziVYi90aWbHYk_Ev2LU7Nl-rzoeGzGuzbIJrg_LlRWAiGz7OrsL0BhCMRZ9pZRj3w?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+The generated manifest.json will look like this with all transaction IDs listed for any file in the vault:
 
-&#x20;d. Click on View transaction Icon. This will redirect to the file explorer.
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdj0vC9tIvP1qXil3M9waQTX4LjympuRdPQh4ltb2f52_ablVKF2t13ow5hnOOmsnjI9x351rR69wyrSyubEMGSDkfKO2uLmTnK4Uf5gm-lOENrSKTMGna2ugQz41Bkp-eXXBYuxRPU4CKLYEYcR34zXE5T?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;e. Copy the URL by clicking on the link icon next to "Data".
-
-**Note: This is a short URL and will need to be placed into a browser to obtain the full URL.**
 
 * Note that once the file is uploaded it takes a few moments to reflect on the Decentralized storage file explorer.
 * Upon copying the URL kindly place it in a new tab/window to check if the file is accessible.
