@@ -34,7 +34,14 @@ Below are different options for uploading assets and obtaining the Arweave gatew
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfZWvEK4mmg0Hfkt4fhTavD_SBwbj-3WAXKUV9hOCTRXfGHzFZdfkDzNG27mFWoYHvQVQMYvvb9GPj_8BOhOQzVRG8s81L73uA0OxD22ptMG4Byc5GdCiSL6edUmTrm24l5RgtARLP-fpELbx3HC9vajvW2?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
 
-7. &#x20;Generate a manifest if you have multiple NFTs (optional).
+* Note that once the file is uploaded it takes a few moments to reflect on the Decentralized storage file explorer.
+* Upon copying the URL kindly place it in a new tab/window to check if the file is accessible.
+
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+
+This URL can now be used for Data NFT minting.&#x20;
+
+7. Generate a manifest if you have multiple NFTs (optional).
 
 If you’re uploading many assets, you can generate an Arweave manifest that will contain all transaction IDs in one JSON.
 
@@ -45,15 +52,6 @@ Click “Create JSON metadata” link in the top right of the vault, and select 
 The generated manifest.json will look like this with all transaction IDs listed for any file in the vault:
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdj0vC9tIvP1qXil3M9waQTX4LjympuRdPQh4ltb2f52_ablVKF2t13ow5hnOOmsnjI9x351rR69wyrSyubEMGSDkfKO2uLmTnK4Uf5gm-lOENrSKTMGna2ugQz41Bkp-eXXBYuxRPU4CKLYEYcR34zXE5T?key=ED0qkWeun-F8aJUWm45Tow" alt=""><figcaption></figcaption></figure>
-
-
-
-* Note that once the file is uploaded it takes a few moments to reflect on the Decentralized storage file explorer.
-* Upon copying the URL kindly place it in a new tab/window to check if the file is accessible.
-
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-
-This URL can now be used for Data NFT minting.
 
 ## The End Result
 
