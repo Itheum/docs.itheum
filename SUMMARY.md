@@ -125,6 +125,7 @@
   * [Data Creator Bonding](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-bonding/README.md)
     * [Liveliness Score States](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-bonding/liveliness-score-states.md)
   * [Data Creator Staking](protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-staking.md)
+  * [Bonus BiTz for protocol usage](protocol/itheum-life-liveliness-and-reputation-signalling/bonus-bitz-for-protocol-usage.md)
 * [📄 Itheum Ecosystem Actions Catalogue](protocol/itheum-ecosystem-actions-catalogue.md)
 
 ## Legal
