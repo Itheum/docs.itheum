@@ -59,6 +59,41 @@ You’ll also find Akord documentation on how to [generate a manifest with the C
 
 These Arweave gateway URLs can be used for Data NFT minting.
 
+
+
+### Simple API upload
+
+Using this method, you can use the Akord API to upload to arweave.
+
+1\. [Create your account](https://v2.akord.com/signup) in a few minutes. Get 100 MB of free blockchain storage to test your workflow.
+
+2\. [Get your API key here](https://v2.akord.com/account/developers).
+
+3\. A simple API method in JavaScript:&#x20;
+
+```
+// Javascript
+
+const fs = require('fs').promises;
+const data = await fs.readFile('/path/to/your/file.txt', 'utf8'); //nodejs specific
+
+const response = await fetch('https://api.akord.com/files', {
+    method: 'POST',
+    headers: {
+        'Accept': 'application/json',
+        'Api-Key': 'your_api_key',
+        'Content-Type': 'text/plain'
+    },
+    body: data
+})
+
+```
+
+\
+**More API documentation**
+
+For code snippets in Bash and Python, example responses, and upload methods with tags and larger multipart upload guidelines, [check out the Akord docs](https://docs.akord.com/nft-projects/upload-with-app-api-or-cli/use-the-api-to-upload).&#x20;
+
 ## The End Result
 
 Upon implementing the above steps, the final result will look like this.&#x20;
