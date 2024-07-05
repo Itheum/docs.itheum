@@ -134,6 +134,7 @@
   * [Liveliness Bonding: Penalties and Slashing Terms](legal/ecosystem-tools-terms/liveliness-bonding-penalties-and-slashing-terms.md)
   * [BiTz XP](legal/ecosystem-tools-terms/bitz-xp/README.md)
     * [Give BiTz](legal/ecosystem-tools-terms/bitz-xp/give-bitz.md)
+  * [Omni-Chain Portal Bridge](legal/ecosystem-tools-terms/omni-chain-portal-bridge.md)
 * [👮 Content Guidelines](legal/content-guidelines.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
