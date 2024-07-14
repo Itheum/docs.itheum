@@ -150,4 +150,4 @@ Build a Personal Data Vault on Itheum Enterprise (launching soon), where users u
 
 
 
-Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../developers/tech-support-discord.md)
+Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../developers/tech-support-discord/)

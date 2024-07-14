@@ -12,7 +12,7 @@ In this guide, we will explore how you can get started with Itheum Enterprise by
 
 > :checkered\_flag: <mark style="color:yellow;">🏎️</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Ready to start? Here are a few assumptions and pre-conditions**</mark>
 
-* Itheum Enterprise is in "private beta" mode, so you need to be whitelisted to try it out. Reach out to us on [tech-support-discord.md](../../../developers/tech-support-discord.md "mention")
+* Itheum Enterprise is in "private beta" mode, so you need to be whitelisted to try it out. Reach out to us on [tech-support-discord](../../../developers/tech-support-discord/ "mention")
 * This guide also is specific to the **MuiltiversX Blockchain** and will require to have a wallet from the   [supported-wallets](../../supported-wallets/ "mention") to interact with the blockchain.
 * The Management Dashboard App will allow you to "deploy" your Data NFT Collection and then curate/manage multiple Data NFTs, if you'd like to mass-mint a large amount of Data NFTs, then you would need to use a "minting script" that can use the [data-nft-sdk](../../../developers/software-development-kits-sdks/data-nft-sdk/ "mention") (How you can write this "minting script" is detailed in the guide [guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md](../../../developers/software-development-kits-sdks/enterprise-sdk/guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md "mention")
 

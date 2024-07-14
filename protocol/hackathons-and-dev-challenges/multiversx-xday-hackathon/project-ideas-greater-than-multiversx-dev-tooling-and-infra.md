@@ -89,4 +89,4 @@ Create libraries, SDKs, toolkits, and resources aimed at simplifying MultiversX 
 </details>
 
 \
-Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../developers/tech-support-discord.md)
+Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../developers/tech-support-discord/)

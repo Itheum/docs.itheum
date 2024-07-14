@@ -26,6 +26,7 @@
 * [🗳️ Data Coalition DAOs (DC DAOs)](product/data-coalition-daos-dc-daos.md)
 * [🎏 Trailblazer](product/trailblazer/README.md)
   * [FAQ - Trailblazer](product/trailblazer/faq-trailblazer.md)
+* [🌉 Omni-Chain Portal Bridge](product/omni-chain-portal-bridge.md)
 
 ## Integrators
 
@@ -92,7 +93,8 @@
 * [🥋 Data Marshal Network](developers/data-marshal-network/README.md)
   * [Data Marshal Node Gateway Endpoints](developers/data-marshal-network/data-marshal-node-gateway-endpoints.md)
   * [Data Marshal Transit Flags and Headers](developers/data-marshal-network/data-marshal-transit-flags-and-headers.md)
-* [🛂 Tech Support - Discord](developers/tech-support-discord.md)
+* [🛂 Tech Support - Discord](developers/tech-support-discord/README.md)
+  * [Portal Bridge Support](developers/tech-support-discord/portal-bridge-support.md)
 * [🛒 Release Notes](developers/release-notes/README.md)
   * [Data DEX](developers/release-notes/data-dex.md)
   * [Itheum Explorer](developers/release-notes/itheum-explorer.md)

@@ -42,4 +42,4 @@ As you can see, by "extending" your NFT collection into a Data NFT-PH collection
 
 ### Ready to use Data NFT-PH?
 
-It's straightforward to do this; your first step is to read this [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../../../developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")and reach out to our team on [tech-support-discord.md](../../../developers/tech-support-discord.md "mention"), where we can help.
+It's straightforward to do this; your first step is to read this [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../../../developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")and reach out to our team on [tech-support-discord](../../../developers/tech-support-discord/ "mention"), where we can help.

@@ -10,7 +10,7 @@
     1. A) Unauthenticated URLs should always return the [200 OK HTTP Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200)
     2. B) Authenticated URLs should return the [403 FORBIDDEN HTTP Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403) if the authentication failed and 200 OK HTTP Code if the authentication scheme passes
 
-    _If you need any other HTTP code to be supported, reach out to us on_ [_Discord_](../../developers/tech-support-discord.md) _and we are open to discussing the use case._
+    _If you need any other HTTP code to be supported, reach out to us on_ [_Discord_](../../developers/tech-support-discord/) _and we are open to discussing the use case._
 5. If you are using a service like AWS S3 to host your URLs, it's recommended that you abstract the AWS S3 URL by putting domain name in front of it. This will future-proof your URLs and allow for the flexibility to move from AWS S3 to another origin. See [hosting-aws-s3-+-cloudflare](amazon-web-services-aws/hosting-aws-s3-+-cloudflare/ "mention") to learn more
 6. It is advisable to treat your Unauthenticated as "Unlisted" content URLs. A good example of "unlisted" content URLs are YouTube's "unlisted videos", where the videos are fully public but you can only reach them if you know the exact URL. To make them "Unlisted":
    1. A) use a system like robots.txt or other such methods to prevent them from being indexed by search engines
@@ -32,7 +32,7 @@
     2. content-type&#x20;
     3. x-cache (bespoke header your can send to inform the client if a CDN-based origin HIT or MISSED. [Example flags you can use](https://developers.cloudflare.com/cache/concepts/default-cache-behavior/#cloudflare-cache-responses))
 
-    _If you need any other pass-through headers supported, reach out to us on_ [_Discord_](../../developers/tech-support-discord.md) _and we are open to discussing the use case._
+    _If you need any other pass-through headers supported, reach out to us on_ [_Discord_](../../developers/tech-support-discord/) _and we are open to discussing the use case._
 12. Your origin server can stream out any file type and indicate it via the content-type header; we've provided some [code guidance on handling the following types](../../developers/software-development-kits-sdks/data-nft-sdk/guide-2-unlocking-data-nfts-via-multiversx-native-auth.md#bonus-step-5-how-can-i-parse-non-json-data-streams) which we've personally tested. (This is not an exhaustive list and other formats are also supported)
     1. JSON
     2. PDF
