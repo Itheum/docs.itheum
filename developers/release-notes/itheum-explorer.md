@@ -1,5 +1,25 @@
 # Itheum Explorer
 
+## V1.16
+
+**Main Features / Changes**
+
+* Repositioning of music Data NFT block in NF-Tunes
+* BiTz points can be easily entered when being given to bounties.
+* Support for various media in Data NFTs added.
+
+***
+
+## V1.15
+
+**Main Features / Changes**
+
+* All Addresses on BiTz UI now clickable.
+* BiTz Bounties updates.
+* Users can give their BiTz to bounties.
+
+***
+
 ## V1.14
 
 **Main Features / Changes**
