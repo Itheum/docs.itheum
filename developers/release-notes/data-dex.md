@@ -1,5 +1,25 @@
 # Data DEX
 
+## V1.16
+
+**Main Features / Changes**
+
+* &#x20;Auto logout on token expiry has been refined.
+* Bonding admin UI upgraded with miscellaneous changes.
+* NFT grouping refined too properly reflect Enterprise NFT grouping.
+
+***
+
+## V1.15
+
+**Main Features / Changes**
+
+* Minting form has been upgraded.
+* Compensation UI has been refined.
+* &#x20;Integrated PeerMe DAO for bond setting changes
+
+***
+
 ## V1.14
 
 **Main Features / Changes**
