@@ -104,8 +104,8 @@
   * [Enterprise SDK](developers/release-notes/enterprise-sdk.md)
   * [Data Marshal Network](developers/release-notes/data-marshal-network.md)
 * [🔐 Security](developers/security/README.md)
-  * [🐞 Bug Bounty](developers/security/bug-bounty.md)
-  * [Security Audit](developers/security/security-audit.md)
+  * [🐞 Bug Bounty](developers/bug-bounty.md)
+  * [ℹ️ Security Audit](developers/security/security-audit.md)
 
 ## Protocol
 
