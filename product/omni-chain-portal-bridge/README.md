@@ -20,4 +20,12 @@ description: >-
 
 
 
+### Video Tutorial : Bridge $ITHEUM tokens between MultiversX and Solana
+
+{% embed url="https://www.youtube.com/watch?v=i37j2L6GYTM" %}
+
+
+
+
+
 Want to know more about how the Bridge works? read our FAQ section next.
