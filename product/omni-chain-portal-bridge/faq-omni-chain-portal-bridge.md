@@ -18,7 +18,7 @@ One "UX" issue with an LP (Liquidity Pool) Bridge is that you have to manually m
 \
 When the bridge launched on 16 July 2024, we minted **20M tokens on Solana** and we will be burning 20M tokens on MultiversX (ETA for this to happen before the end of July 2024).
 
-You can transparently follow the  Mint / Burn transactions on [usditheum-token-bridge-related-transaction-audit.md](usditheum-token-bridge-related-transaction-audit.md "mention")
+You can transparently follow the  Mint / Burn transactions on [usditheum-token-multi-chain-max-supply-rebalancing-transactions-audit.md](usditheum-token-multi-chain-max-supply-rebalancing-transactions-audit.md "mention")
 
 4. **is the bridge centralized or decentralized and what are the plans in the future?**
 
@@ -26,7 +26,7 @@ The current bridge is an early version and is centralized and run by the core te
 
 5. **How is the $ITHEUM Max Supply of 1 Billion always "balanced" between the chains?**
 
-The supply is manually balanced and is transparently done with the transactions publicly displayed here for anyone to audit : [usditheum-token-bridge-related-transaction-audit.md](usditheum-token-bridge-related-transaction-audit.md "mention")
+The supply is manually balanced and is transparently done with the transactions publicly displayed here for anyone to audit : [usditheum-token-multi-chain-max-supply-rebalancing-transactions-audit.md](usditheum-token-multi-chain-max-supply-rebalancing-transactions-audit.md "mention")
 
 6. **What is an "Epoch"? and how long does it take to bridge tokens between MultiversX and Solana?**
 

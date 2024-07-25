@@ -28,7 +28,7 @@
   * [FAQ - Trailblazer](product/trailblazer/faq-trailblazer.md)
 * [🌉 Omni-Chain Portal Bridge](product/omni-chain-portal-bridge/README.md)
   * [FAQ - Omni-Chain Portal Bridge](product/omni-chain-portal-bridge/faq-omni-chain-portal-bridge.md)
-  * [$ITHEUM Token Bridge-Related Transaction Audit](product/omni-chain-portal-bridge/usditheum-token-bridge-related-transaction-audit.md)
+  * [$ITHEUM Token Multi-Chain Max Supply Rebalancing Transactions Audit](product/omni-chain-portal-bridge/usditheum-token-multi-chain-max-supply-rebalancing-transactions-audit.md)
 
 ## Integrators
 
