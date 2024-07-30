@@ -43,7 +43,7 @@ Any major bug discovered(related to APR or rewards calculations, security issues
 {% hint style="info" %}
 1. The following actions can be repeated.
 2. The below assumes you begin the test with 1,000 $ITHEUM tokens on MultiversX DEVNET.
-3. Before you begin the next actions, note down all your balances on both blockchains and at the end of all actions, confirm the balances are correct and as expected.
+3. Before you begin the next actions, note down all your balances.
 {% endhint %}
 
 <mark style="background-color:orange;">**Action 1:**</mark> Browse to [https://test.datadex.itheum.io/mintdata](https://test.datadex.itheum.io/mintdata) and mint a Data NFT. You can obtain data stream URLs from [https://github.com/Itheum/data-assets](https://github.com/Itheum/data-assets).
