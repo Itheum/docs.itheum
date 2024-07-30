@@ -125,7 +125,7 @@
     * [Test Data NFT Catalog](protocol/hackathons-and-dev-challenges/multiversx-xday-hackathon/test-data-nft-catalog.md)
   * [Community Test Events](protocol/hackathons-and-dev-challenges/community-test-events/README.md)
     * [Portal Traveler 🌀 : Test the Itheum Omni-Chain Portal (Bridge)](protocol/hackathons-and-dev-challenges/community-test-events/portal-traveler-test-the-itheum-omni-chain-portal-bridge.md)
-    * [Liveliness and Staking](protocol/hackathons-and-dev-challenges/community-test-events/liveliness-and-staking.md)
+    * [APR for Liveliness 🎖️: Test the Bonding + Staking Rewards Module](protocol/hackathons-and-dev-challenges/community-test-events/apr-for-liveliness-test-the-bonding-+-staking-rewards-module.md)
 * [🥫 Itheum Life : Liveliness & Reputation Signalling](protocol/itheum-life-liveliness-and-reputation-signalling/README.md)
   * [\<BiTz> XP System](protocol/itheum-life-liveliness-and-reputation-signalling/less-than-bitz-greater-than-xp-system/README.md)
     * [Give BiTz > Data Bounties](protocol/itheum-life-liveliness-and-reputation-signalling/less-than-bitz-greater-than-xp-system/give-bitz-greater-than-data-bounties.md)
