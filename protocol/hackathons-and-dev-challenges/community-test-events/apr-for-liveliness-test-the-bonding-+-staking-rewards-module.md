@@ -11,7 +11,7 @@ Be part of the first cohort of users who test the Itheum Protocol Staking Progra
 ### Test Dates:
 
 * Start Data: 31 July (Friday) 2024
-* End Date:  5 July (Tuesday) 2024
+* End Date:  5 August (Tuesday) 2024
 
 ### Base Rewards:
 
