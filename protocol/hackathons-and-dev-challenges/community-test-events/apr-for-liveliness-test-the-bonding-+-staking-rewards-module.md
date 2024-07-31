@@ -46,6 +46,7 @@ Be part of the first cohort of users who test the Itheum Protocol Staking Progra
 1. The following actions can be repeated.
 2. The below assumes you begin the test with 1,000 $ITHEUM tokens on MultiversX DEVNET.
 3. Before you begin the next actions, note down all your balances.
+4. Note that the last step, you will need to come back in 2 days to "claim your rewards" based on the staking rewards. It's important you give these 2 day interval as we need to verify the balances as per your test.
 {% endhint %}
 
 <mark style="background-color:orange;">**Action 1:**</mark> Browse to [https://test.datadex.itheum.io/mintdata](https://test.datadex.itheum.io/mintdata) and mint a Data NFT.\
@@ -93,7 +94,7 @@ Top up your **NFMe.ID Vault Data NFT** with 100 ITHEUM.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHaMtARsCb_1tYjxhkoiKKdBr58hpHVEOoh6W-Heng1U-D2jNxwOeNYBSCskHI5T_kJMB-aSOHLQmse_bvZI1n8IFNF-_zdmeETwaZhw2RPps_bb06RP1WvyUGzFY5RFWWWSxiThFmzmy82uMxtq_XkSg?key=OH8fLwS95lQR9XaMw4LPAg" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:orange;">**Action 6:**</mark> Review Liveliness and Rewards after a couple of days.
+<mark style="background-color:orange;">**Action 6:**</mark> Come back in **2 DAYS** and review Liveliness and Rewards after a couple of days.
 
 <mark style="background-color:blue;">**Task 4:**</mark>  Do all the below items (note that your will need a BEFORE vs AFTER screenshot, so you need two in total)
 
