@@ -48,7 +48,13 @@ Be part of the first cohort of users who test the Itheum Protocol Staking Progra
 3. Before you begin the next actions, note down all your balances.
 {% endhint %}
 
-<mark style="background-color:orange;">**Action 1:**</mark> Browse to [https://test.datadex.itheum.io/mintdata](https://test.datadex.itheum.io/mintdata) and mint a Data NFT. You can use any Test URLs from here:
+<mark style="background-color:orange;">**Action 1:**</mark> Browse to [https://test.datadex.itheum.io/mintdata](https://test.datadex.itheum.io/mintdata) and mint a Data NFT.\
+\
+Make sure you click on the "**Any Data Stream as a Data NFT-FT**" option.
+
+<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+
+In the first step of the minting form, you can use any Test URLs from here:
 
 | Data Stream URL                                                                                                                                                                                                                                              | Data Preview URL                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -71,7 +77,7 @@ Review your combined liveliness.
 
 As per previous action step, mint your **NFMe.ID Vault Data NFT** and confirm it's in your wallet.
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdpCdz4fwHx63iOwo3IXgrvgisUjW0IDvF4vdn_Qz4sQMbl6c7RjJjQjPmHjV0QEDHWBOZSyQXDM9VRDZote8xMBdzELGOmZIE11uFFnHUtKxqmCTseBAkcoxybrMpzidUctlN7b2NMe7qpaznCUBvmK3g?key=OH8fLwS95lQR9XaMw4LPAg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:orange;">**Action 4:**</mark> Once the **NFMe.ID Vault Data NFT** is minted, browse to Wallet -> Bonding: [https://test.datadex.itheum.io/datanfts/wallet/bonding](https://test.datadex.itheum.io/datanfts/wallet/bonding). Review your combined liveliness, which will be based on your Data NFTs with bonds.
 
