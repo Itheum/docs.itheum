@@ -142,6 +142,8 @@
   * [BiTz XP](legal/ecosystem-tools-terms/bitz-xp/README.md)
     * [Give BiTz](legal/ecosystem-tools-terms/bitz-xp/give-bitz.md)
   * [Omni-Chain Portal Bridge](legal/ecosystem-tools-terms/omni-chain-portal-bridge.md)
+  * [Gamer Passport](legal/ecosystem-tools-terms/gamer-passport/README.md)
+    * [Data Collection and Storage](legal/ecosystem-tools-terms/gamer-passport/data-collection-and-storage.md)
 * [👮 Content Guidelines](legal/content-guidelines.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
