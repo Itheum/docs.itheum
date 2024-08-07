@@ -7,7 +7,7 @@
 2. **Data Collection and Storage Notification**
    1. Prior to joining, you have been fully informed about the type of data collected and storage details, which are outlined at [data-collection-and-storage.md](data-collection-and-storage.md "mention"). By signing up for the Gamer Passport, you agree to these terms.
 3. **Rewards Program**
-   1. Rewards will be provided to participants, but the exact calculation method is at our discretion. Due to the early-stage nature of this application, rewards may be based on a combination of metrics such as duration in the program, amount of data generated and shared, gaming performance, app engagement, and other evolving metrics.
+   1. Rewards will be provided to participants, but the exact calculation method and distribution date is at our discretion. Due to the early-stage nature of this application, rewards may be based on a combination of metrics such as duration in the program, amount of data generated and shared, gaming performance, app engagement, and other evolving metrics.
 4. **Use of Collected Data**
    1. The data collected, as detailed at [data-collection-and-storage.md](data-collection-and-storage.md "mention"), will be used internally to create data analytics reports. These reports will be fully de-identified and may be publicly demonstrated to showcase the value of the Gamer Passport program. Data insights, analytics, and information will not be sold without prior consent from participants, likely through a collective vote regarding the decision and profit-sharing.
 5. **Opting Out**
