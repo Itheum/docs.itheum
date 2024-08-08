@@ -1,5 +1,20 @@
 # Itheum Explorer
 
+## V1.20
+
+**Main Features / Changes**
+
+* Fully functioning Gamer Passport onboarding page and dashboard page for gamers
+* Analytics section that shows protocol stats
+* A "Mini BiTz" game that the user can play by clicking on the Header BiTz score
+* Updated Homepage design to be more centred and focused on important CTA
+* Misc style and UX improvements and bug fixes (i.e. PDF inline not working)
+* Refactored Music Players to improve code quality
+
+More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.20](https://github.com/Itheum/explorer-dapp/releases/tag/v1.20)
+
+***
+
 ## V1.16
 
 **Main Features / Changes**
