@@ -109,6 +109,7 @@
 
 ## Protocol
 
+* [$ITHEUM Token](protocol/usditheum-token.md)
 * [🏛️ Governance](protocol/governance/README.md)
   * [Itheum xPand DAO](protocol/governance/itheum-xpand-dao/README.md)
     * [Itheum xPand Grants Program](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/README.md)

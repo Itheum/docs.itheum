@@ -38,7 +38,7 @@ Be part of the first cohort of users who test the Itheum Protocol Staking Progra
 
 <mark style="background-color:green;">**Step 3:**</mark> Get DEVNET ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me ITHEUM" button to get 1,000 ITHEUM tokens.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Get your devnet $ITHEUM from the faucet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Get your devnet $ITHEUM from the faucet</p></figcaption></figure>
 
 #### Actions:
 
