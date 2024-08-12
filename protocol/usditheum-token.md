@@ -5,7 +5,7 @@ description: Unlock Platform Wide Utility With the $ITHEUM utility token
 
 # $ITHEUM Token
 
-The $ITHEUM token is the central utility token for the Itheum protocol, It's purpose is to enable the community to engage, operate and govern the entire Itheum protocol. To learn more about the token and to explore how you can store, visualize and get the token, head over to [itheum.io/token](https://www.itheum.io/token)
+The $ITHEUM token is the central utility token for the Itheum protocol, It's purpose is to enable the community to engage, operate, and govern the entire Itheum protocol. To learn more about the token and to explore how you can store, visualize, and get the token, head over to [itheum.io/token](https://www.itheum.io/token)
 
 ## Token Utility
 
@@ -29,7 +29,7 @@ The $ITHEUM token is the central utility token for the Itheum protocol, It's pur
 
 * **Cliff (C):** The period when tokens are fully locked.
 * **Vest (V):** After the cliff is over, then the tokens can be claimed. The claimable tokens are then allocated at a fixed schedule over time. This is called a vesting schedule.
-* **Unlock (U):** The vested/allocated tokens then unlocks at certain points. This is when the token holder can get access to their vested tokens.
+* **Unlock (U):** The vested/allocated tokens then unlock at certain points. This is when the token holder can get access to their vested tokens.
 
 **Let's consider the following example:**
 
@@ -37,9 +37,9 @@ The $ITHEUM token is the central utility token for the Itheum protocol, It's pur
 
 1. Receive 5% of their tokens at the token generation event (TGE), which occurred on March 28, 2022.
 2. The remaining 95% of their tokens are released progressively over a vesting period of 24 months (V:24m).
-3. During the 24-month vesting period, purchasers will be able to get access to their tokens in 3 months blocks - this is called the unlock period (U:3m). The **1st unlock date for the purchasers will be June 28, 2022.**
+3. During the 24-month vesting period, purchasers will be able to get access to their tokens in 3-month blocks - this is called the unlock period (U:3m). The **1st unlock date for the purchasers will be June 28, 2022.**
 
-_**Unlock Dates:**_
+_**Unlock dates for example:**_
 
 * June 28, 2022 (start)
 * Sep 28, 2022
@@ -54,10 +54,11 @@ _**Unlock Dates:**_
 
 * Itheum needs a long-term commitment from our supporters and this assures we get this from the team, strategic partners, and advisors.
 * Itheum's token is a utility token that is used to "price" the access to data, effectively setting a "value" for data. To ensure stability for the network, Itheum will put in place the "3-month" unlock mechanism that applies after the cliff and vest dates pass.
+* The final vest (team/advisor) will conclude on March 28, 2025
 
 
 
-Vesting Status: **We are currently at Month 27 : July 2024**
+Vesting Status: **We are currently at Month 27: July 2024**
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>We are currently at Month 27 : July 2024</strong></p></figcaption></figure>
 
@@ -79,7 +80,7 @@ Vesting Status: **We are currently at Month 27 : July 2024**
 
 As with all blockchain-based projects; Itheum will have an allocation of tokens that are not for sale. These non-sale tokens will be allocated to various buckets to oversee the roadmap, community, partners, liquidity, security, and various incentives needed for the continued growth of the Itheum ecosystem and to ensure we build a platform that becomes a market leader, brings the best value to the community and eventually be governed by the community.&#x20;
 
-The non-sale allocation groups and their initiatives are as follows _(please be aware that the full initiatives under the groups an evolving topic of discussion between the protocol and community governance, but we aim to cover the following key items as a minimum)_:
+The non-sale allocation groups and their initiatives are as follows _(please be aware that the full initiatives under the groups are an evolving topic of discussion between the protocol and community governance, but we aim to cover the following key items as a minimum)_:
 
 ### Community (17%) & Ecosystem (23.5%)
 
@@ -92,16 +93,16 @@ The non-sale allocation groups and their initiatives are as follows _(please be 
 * Grants to build apps on Itheum's **App Store:** [**https://explorer.itheum.io**](https://explorer.itheum.io/)
 * Ongoing multi-chain liquidity reserves
 * Technical audits and white-hat hacking bounty programs, code reviews, and platform stability incentives
-* Home of the **Community Treasury**: holds the percentage of funds earned from Data NFT trade fees that will be reserved real-yield distribution to ITHEUM stakers and/or "buy-back and burn" programs
+* Home of the **Community Treasury**: holds the percentage of funds earned from Data NFT trade fees that will be reserved for real-yield distribution to ITHEUM stakers and/or "buy-back and burn" programs
 
 ### Data Partners (2.5% - this is part of the Ecosystem bucket)
 
 * Key partnerships to enable "data market-making" (i.e. to ensure there is a constant demand for data)
-* Recruitment of a **consumer data protection guild** - These are global SMEs (Subject Matter Experts) in data privacy, data regulation, personal data protection advocacy, academia, and law. The **consumer data protection guild** will be available for **Data Coalitions DOAs** to utilize as needed to ensure that data trade happening via Itheum is always in the best interest of all parties' rights
+* Recruitment of a **consumer data protection guild** - These are global SMEs (Subject Matter Experts) in data privacy, data regulation, personal data protection advocacy, academia, and law. The **consumer data protection guild** will be available for **Data Coalitions DOAs** to utilize as needed to ensure that data trade happening via Itheum is always in the best interest of all parties rights
 
 ### Treasury (17%)
 
-* Home of the **Foundation Treasury**: funds are used to support Itheum's roadmap for the long term and will be eventually be controlled by the **Itheum Foundation DAO**
+* Home of the **Foundation Treasury**: funds are used to support Itheum's roadmap for the long term and will eventually be controlled by the **Itheum Foundation DAO**
 * Funds to cover unexpected expenses that might come up relating to platform operations, stability, security, and growth
 
 ### Team & Advisors - 17.5%
@@ -111,19 +112,25 @@ The non-sale allocation groups and their initiatives are as follows _(please be 
 
 ## Reserve Wallets
 
-As detailed above, most or all of the Ecosystem, Community and Treasury buckets have vested but these tokens have not been fully publicly circulated and will first enter "reserve" wallets that will hold and release tokens as needed based on growth requirement of the protocol. It should be noted that the "circulating supply" on CoinGecko and CoinMarketCap exclude the values in the reserve buckets to ensure the public is transparently notified of "true" circulating supply. Large releases from these reserve buckets will need to be approved by the DAOs that are part of our [governance](governance/ "mention"). For transparency, we list below the reserve wallets:
+As detailed above, most or all of the Ecosystem, Community and Treasury buckets have vested but these tokens have not been fully publicly circulated and will first enter "reserve" wallets that will hold and release tokens as needed based on the growth requirement of the protocol. It should be noted that the "circulating supply" on CoinGecko and CoinMarketCap will exclude the values in the reserve buckets to ensure the public is transparently notified of the "true" circulating supply. Large releases from these reserve buckets will need to be approved by the DAOs that are part of our [governance](governance/ "mention"). For transparency, we list below the reserve wallets:
 
 | Wallet                                                                                                                                                                           | Chain      | Purpose                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------- |
-| [erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv](https://explorer.multiversx.com/accounts/erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv/tokens) | MultiversX | Primarily for Ecosystem growth initiatives, including for multi-chain bridging etc.                |
-| [erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn](https://explorer.multiversx.com/accounts/erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn/tokens) | MultiversX | Primarily for Community growth initiatives, airdrops etc.                                          |
+| [erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv](https://explorer.multiversx.com/accounts/erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv/tokens) | MultiversX | Primarily for Ecosystem growth initiatives, staking rewards etc.                                   |
+| [erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn](https://explorer.multiversx.com/accounts/erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn/tokens) | MultiversX | Primarily for Community growth initiatives, airdrops, marketings etc.                              |
 | [erd1d0cm5sv5v7agz58gnk04uwm6tlcjk04edkm74ldz4sqsc46w45lsh8jhg2](https://explorer.multiversx.com/accounts/erd1d0cm5sv5v7agz58gnk04uwm6tlcjk04edkm74ldz4sqsc46w45lsh8jhg2/tokens) | MultiversX | Treasury wallet to support roadmap implementation and for token growth like CEX, DEX listings etc. |
+| [erd1zg48ul7glwt9rlm4s43ztp9ruqme5qs9vlzp990zfjugnrfd8nts5wdtk6](https://explorer.multiversx.com/accounts/erd1zg48ul7glwt9rlm4s43ztp9ruqme5qs9vlzp990zfjugnrfd8nts5wdtk6)        | MultiversX | Primarily for Ecosystem growth initiatives and for "Data Partners"                                 |
+| [erd1y5v57zmgaslm0vexul4tqruwfyrwx7ye9076yl5hhhh37q4zv79sq2l24r](https://explorer.multiversx.com/accounts/erd1y5v57zmgaslm0vexul4tqruwfyrwx7ye9076yl5hhhh37q4zv79sq2l24r)        | MultiversX | Primarily for growth airdrops and campaigns etc.                                                   |
+| [erd1xd4tf6zdreq0r5vmm9ufalwpxc6lj9xl0sr4h23qpan6ushvkjzqn3n92z](https://explorer.multiversx.com/accounts/erd1xd4tf6zdreq0r5vmm9ufalwpxc6lj9xl0sr4h23qpan6ushvkjzqn3n92z)        | MultiversX | Primarily used to boost liquidity across supported chains                                          |
+| [erd1tzh2usat6je2tkhdhkmw0m4j2d6k453psxx3qmu0kdarcm5ad24q9c4fgm](https://explorer.multiversx.com/accounts/erd1tzh2usat6je2tkhdhkmw0m4j2d6k453psxx3qmu0kdarcm5ad24q9c4fgm)        | MultiversX | Primarily for Ecosystem growth initiatives.                                                        |
+| [erd1p6spfnqvp43xa72lhdjsn47ezjga3mtazujw27agkkt93e2gl7rqm6tvd8](https://explorer.multiversx.com/accounts/erd1p6spfnqvp43xa72lhdjsn47ezjga3mtazujw27agkkt93e2gl7rqm6tvd8)        | MultiversX | Primarily for Community growth initiatives, airdrops, marketings etc.                              |
+| [erd1lleupuxucr45ykt9rnydpslqmhczj3f0wg2e3hkgptgfr2uagj3s9vdcys](https://explorer.multiversx.com/accounts/erd1lleupuxucr45ykt9rnydpslqmhczj3f0wg2e3hkgptgfr2uagj3s9vdcys)        | MultiversX | Backup treasury wallet that is locked until final token vest completes in March 28 2025            |
 
 
 
 ## Token Disclaimer
 
-The ITHEUM token sits under the following Disclaimers, please read and familiazre yousefl with them before interacting with the token:
+The ITHEUM token sits under the following Disclaimers, please read and familiarize yourself with them before interacting with the token:
 
 * [https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
 * [https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#tokenomics-1](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#tokenomics-1)
