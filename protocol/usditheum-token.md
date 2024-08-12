@@ -109,6 +109,16 @@ The non-sale allocation groups and their initiatives are as follows _(please be 
 * Team (12%): Incentivise the core team and new team members to work and deliver the initial roadmap (until the community-run Itheum Foundation DAO is put into place)
 * Advisors (5.5%): Strategic advisors who will help Itheum bootstrap and reach optimum global growth
 
+## Reserve Wallets
+
+As detailed above, most or all of the Ecosystem, Community and Treasury buckets have vested but these tokens have not been fully publicly circulated and will first enter "reserve" wallets that will hold and release tokens as needed based on growth requirement of the protocol. It should be noted that the "circulating supply" on CoinGecko and CoinMarketCap exclude the values in the reserve buckets to ensure the public is transparently notified of "true" circulating supply. Large releases from these reserve buckets will need to be approved by the DAOs that are part of our [governance](governance/ "mention"). For transparency, we list below the reserve wallets:
+
+| Wallet                                                                                                                                                                           | Chain      | Purpose                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------- |
+| [erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv](https://explorer.multiversx.com/accounts/erd1zw9yjg8u8xkyynxumshv49c6fcn26wjlgc2tpnpqsg23504unz6sc6r7dv/tokens) | MultiversX | Primarily for Ecosystem growth initiatives, including for multi-chain bridging etc.                |
+| [erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn](https://explorer.multiversx.com/accounts/erd1wsk4cprpmjnkvpcy37s4r4n57qxa4m580dktal77sv6tm5ptk6eskuqhmn/tokens) | MultiversX | Primarily for Community growth initiatives, airdrops etc.                                          |
+| [erd1d0cm5sv5v7agz58gnk04uwm6tlcjk04edkm74ldz4sqsc46w45lsh8jhg2](https://explorer.multiversx.com/accounts/erd1d0cm5sv5v7agz58gnk04uwm6tlcjk04edkm74ldz4sqsc46w45lsh8jhg2/tokens) | MultiversX | Treasury wallet to support roadmap implementation and for token growth like CEX, DEX listings etc. |
+
 
 
 ## Token Disclaimer
