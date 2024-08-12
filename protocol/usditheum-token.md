@@ -1,6 +1,6 @@
 ---
-description: Unlock Platform Wide Utility With the $ITHEUM utility token
 icon: arrows-to-circle
+description: Unlock Platform Wide Utility With the $ITHEUM utility token
 ---
 
 # $ITHEUM Token
@@ -15,13 +15,47 @@ The $ITHEUM token is the central utility token for the Itheum protocol, It's pur
 
 ## Token Metrics
 
-<table data-header-hidden><thead><tr><th width="300"></th><th></th></tr></thead><tbody><tr><td><strong>Token Name</strong></td><td>ITHEUM</td></tr><tr><td><strong>Token Type, Token Official Links and Supported Blockchains</strong></td><td>$ITHEUM is a "Multi-Chain" Token, so it is split across multiple blockchains and can be bridged between the chains via permission-less bridges.<br><br>- MultiversX: ESDT Standard<br><a href="https://explorer.multiversx.com/tokens/ITHEUM-df6f26">https://explorer.multiversx.com/tokens/ITHEUM-df6f26</a><br><br>- Solana: SPL Standard<br><a href="https://solscan.io/token/iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwaV">https://solscan.io/token/iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwa</a></td></tr><tr><td><strong>Max Supply</strong></td><td>1,000,000,000</td></tr><tr><td><strong>Where to get, store and track $ITHEUM?</strong></td><td><a href="https://www.itheum.io/token#list">https://www.itheum.io/token#list</a></td></tr><tr><td><strong>Multi-Chain Bridge</strong></td><td>You can bridge the token between the supported blockchains here: <a href="https://portal.itheum.io/">https://portal.itheum.io</a></td></tr><tr><td><strong>CoinGecko Link</strong></td><td><a href="https://www.coingecko.com/en/coins/itheum">https://www.coingecko.com/en/coins/itheum</a></td></tr><tr><td><strong>CoinMarketCap Link</strong></td><td><a href="https://coinmarketcap.com/currencies/itheum/">https://coinmarketcap.com/currencies/itheum</a></td></tr><tr><td><strong>All-time high</strong></td><td>$0.7436</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="300"></th><th></th></tr></thead><tbody><tr><td><strong>Token Name</strong></td><td>ITHEUM</td></tr><tr><td><strong>Token Type, Token Official Links and Supported Blockchains</strong></td><td>$ITHEUM is a "Multi-Chain" Token, so it is split across multiple blockchains and can be bridged between the chains via permission-less bridges.<br><br>- MultiversX: ESDT Standard<br><a href="https://explorer.multiversx.com/tokens/ITHEUM-df6f26">https://explorer.multiversx.com/tokens/ITHEUM-df6f26</a><br><br>- Solana: SPL Standard<br><a href="https://solscan.io/token/iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwaV">https://solscan.io/token/iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwa</a></td></tr><tr><td><strong>Max Supply</strong></td><td>1,000,000,000</td></tr><tr><td><strong>Where to get, store and track $ITHEUM?</strong></td><td><a href="https://www.itheum.io/token#list">https://www.itheum.io/token#list</a></td></tr><tr><td><strong>Multi-Chain Bridge</strong></td><td>You can bridge the token between the supported blockchains here: <a href="https://portal.itheum.io/">https://portal.itheum.io</a></td></tr><tr><td><strong>CoinGecko Link</strong></td><td><a href="https://www.coingecko.com/en/coins/itheum">https://www.coingecko.com/en/coins/itheum</a></td></tr><tr><td><strong>CoinMarketCap Link</strong></td><td><a href="https://coinmarketcap.com/currencies/itheum/">https://coinmarketcap.com/currencies/itheum</a></td></tr><tr><td><strong>All-time high</strong></td><td>$0.7436</td></tr><tr><td><strong>Public Sale IDO Date and Details</strong></td><td><strong>28 March 2022</strong><br><br><a href="https://itheum.medium.com/save-the-date-itheum-ido-elrond-maiar-launchpad-5f8e9d65272c">https://itheum.medium.com/save-the-date-itheum-ido-elrond-maiar-launchpad-5f8e9d65272c</a></td></tr></tbody></table>
 
 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>$ITHEUM token allocation buckets</em></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><em>$ITHEUM token TGE unlock &#x26; bucket cliff/vests/unlock schedule</em></p></figcaption></figure>
+
+
+
+**Explanation of the Cliff / Vest / Unlock process:**
+
+* **Cliff (C):** The period when tokens are fully locked.
+* **Vest (V):** After the cliff is over, then the tokens can be claimed. The claimable tokens are then allocated at a fixed schedule over time. This is called a vesting schedule.
+* **Unlock (U):** The vested/allocated tokens then unlocks at certain points. This is when the token holder can get access to their vested tokens.
+
+**Let's consider the following example:**
+
+`Private Sale: 20% of max supply : V:24m / U:3m : TGE unlock 5%`
+
+1. Receive 5% of their tokens at the token generation event (TGE), which occurred on March 28, 2022.
+2. The remaining 95% of their tokens are released progressively over a vesting period of 24 months (V:24m).
+3. During the 24-month vesting period, purchasers will be able to get access to their tokens in 3 months blocks - this is called the unlock period (U:3m). The **1st unlock date for the purchasers will be June 28, 2022.**
+
+_**Unlock Dates:**_
+
+* June 28, 2022 (start)
+* Sep 28, 2022
+* Dec 28, 2022
+* Mar 28, 2023
+* Jun 28, 2023
+* Sep 28, 2023
+* Dec 28, 2023
+* March 28, 2024 (end)
+
+**Why did Itheum design the token distribution schedule this way?**
+
+* Itheum needs a long-term commitment from our supporters and this assures we get this from the team, strategic partners, and advisors.
+* Itheum's token is a utility token that is used to "price" the access to data, effectively setting a "value" for data. To ensure stability for the network, Itheum will put in place the "3-month" unlock mechanism that applies after the cliff and vest dates pass.
+
+
 
 Vesting Status: **We are currently at Month 27 : July 2024**
 
