@@ -1,8 +1,6 @@
 # Liveliness staking guide
 
-
-
-
+Liveliness staking enables Data Creators or users to mint Data NFTs and earn rewards by staking via bonds on their Data NFTs.
 
 1. [Mint a Data NFT](../data-dex/minting-a-data-nft/).
 2.  Upon minting your Data NFT, you will see it in the wallet and the bonding page. Review the current liveliness.&#x20;
