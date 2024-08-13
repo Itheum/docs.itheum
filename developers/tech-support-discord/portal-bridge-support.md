@@ -13,7 +13,7 @@ In the event you encounter technical issues when using the [portal-traveler-test
 * Describe your issue, enter as much information, and include as many links and screenshots as possible to provide the support team with the right context.&#x20;
 * If you are seeking help specifically with "Hold" transactions like the following:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note that some transactions show as Hold but may have still been processed (check your ITHEUM balances in your native blockchain wallet to confirm), if you confirm that the ITHEUM balance is NOT correct then this might just mean that a sudden spike in blockchain network congestion has caused your transaction to be processed with extra delay. Most legitimate transactions should clear within a few hours once the transaction is reviewed and the hold is cleared.
 

@@ -1,0 +1,2 @@
+# FAQ - Liveliness staking
+

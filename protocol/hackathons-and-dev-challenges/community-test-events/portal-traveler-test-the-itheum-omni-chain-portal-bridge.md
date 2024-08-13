@@ -59,7 +59,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 <mark style="background-color:green;">**Step 5:**</mark> Get DEVNET ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me ITHEUM" button to get 1,000 ITHEUM tokens.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <mark style="background-color:green;">**Step 6:**</mark> Head over to the Omni-Chain Portal: [https://alpha-devnet.portal.itheum.io/](https://alpha-devnet.portal.itheum.io/) and click on "Bridge $ITHEUM", login with your wallets from Step 1 and Step 2
 
