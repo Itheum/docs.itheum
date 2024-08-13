@@ -1,4 +1,4 @@
-# Guide 3: Get Started with Itheum Enterprise
+# Guide 2: Get Started with Itheum Enterprise
 
 {% hint style="warning" %}
 This feature is in Beta and only available on devnet.
@@ -26,7 +26,7 @@ In this detailed SDK guide, we will walk you through the process of:
 
 But to make the guide more practical, let's first detail the a real-world user story that we will aim to achieve by following this guide.\
 \
-[#in-a-hurry-watch-a-demo-video-of-this-guide](guide-3-get-started-with-itheum-enterprise.md#in-a-hurry-watch-a-demo-video-of-this-guide "mention") if you want a quick intro to getting started with Itheum Enterprise.\
+[#in-a-hurry-watch-a-demo-video-of-this-guide](guide-2-get-started-with-itheum-enterprise.md#in-a-hurry-watch-a-demo-video-of-this-guide "mention") if you want a quick intro to getting started with Itheum Enterprise.\
 
 
 ## Target User Story:

@@ -73,7 +73,7 @@ It should be noted that using [itheum-enterprise.md](../../../product/itheum-ent
 
 Itheum Enterprise mints complete regular NFT collections, making them Data NFT compatible "out of the box." But it also offers many more features like seamless NFT collection curation (pause, freeze, wipe), control transferability rights of the NFTs (i.e., make them soulbound or control where they can be used for traded), and a load of other features that make managing (Data) NFTs seamless. However, there are some limitations with the current version of Itheum Enterprise, where the product only allows for minting and managing NFT tokens and does not provide a way to run NFT launches or distributions via a "CandyMachine" type tool to mint and distribute.
 
-If you prefer to use or try Itheum Enterprise instead of making your own NFT collections Data NFT-PH compatible, then follow this guide: [guide-3-get-started-with-itheum-enterprise.md](../../../integrators/data-dex-guides/multiversx-blockchain/guide-3-get-started-with-itheum-enterprise.md "mention")
+If you prefer to use or try Itheum Enterprise instead of making your own NFT collections Data NFT-PH compatible, then follow this guide: [guide-2-get-started-with-itheum-enterprise.md](../../../integrators/data-dex-guides/multiversx-blockchain/guide-2-get-started-with-itheum-enterprise.md "mention")
 
 But, if you prefer to use your own NFT minting scripts or tools and NOT use Itheum Enterprise, then you can continue with the next part of this guide.
 {% endhint %}

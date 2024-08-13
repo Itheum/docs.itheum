@@ -46,6 +46,6 @@ Itheum Enterprise is in "private beta" mode, but you can [get whitelisted to use
 \
 Or try out Itheum Enterprise today in private beta mode (devnet), follow these guides:
 
-* Using the Management Console App :  [guide-3-get-started-with-itheum-enterprise.md](../integrators/data-dex-guides/multiversx-blockchain/guide-3-get-started-with-itheum-enterprise.md "mention")
+* Using the Management Console App :  [guide-2-get-started-with-itheum-enterprise.md](../integrators/data-dex-guides/multiversx-blockchain/guide-2-get-started-with-itheum-enterprise.md "mention")
 * Mint a Enterprise Data NFT collection using code : [guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md](../developers/software-development-kits-sdks/enterprise-sdk/guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md "mention")
 {% endhint %}
