@@ -2,13 +2,9 @@
 
 Organizations or entities can use the tool provided by the Data DEX to mint their Data NFTs and put them for trade in the Data NFT Marketplace. High-value datasets or Data Streams can be assembled for minting and these can be of various formats; JSON, PDF, JPG, PNG, GIF, MP3, MP4, CSV, and so on. Tags will further categorize these Data NFTs to enable consumers to locate and consume these datasets.
 
-{% hint style="info" %}
-To mint a Data NFT a user has to first be [whitelisted](https://datadex.itheum.io/getwhitelisted)
-{% endhint %}
-
 1. Head over to the [Data DEX](https://datadex.itheum.io/)
 2. Browse to [https://datadex.itheum.io/mintdata](https://datadex.itheum.io/mintdata)
-3. Click on "_Mint Dat NFT_"
+3. Click on "_Mint Data NFT_"
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="331"><figcaption></figcaption></figure>
 
