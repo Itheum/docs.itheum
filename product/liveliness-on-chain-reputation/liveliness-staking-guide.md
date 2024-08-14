@@ -18,7 +18,7 @@ Liveliness staking enables Data Creators or users to mint Data NFTs and earn rew
     <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 6.  Note down your current Itheum balance and rewards accrued. After some time  accruing rewards, click on Claim Rewards. Your ITHEUM balance should increase by the amount of rewards claimed. (The "Claim rewards" button enabled if rewards > 1)
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 7. &#x20;Note down your current “Combined Bonds Staked” and the Rewards Accrued. Aftersome time accruing rewards, click on Reinvest Rewards. The combined bond should be updated with the addition of the rewards. (The Reinvest rewards button enabled if rewards > 1)
 8.  Next, select the amount of ITHEUM you want to top up with and click on Top Up Now. Note that this amount will be considered in the total Bonds staked and the user will earn yield according to the APR. Note that the Data NFT is automatically renewed, and rewards are auto-claimed once the top-up action is invoked.
 

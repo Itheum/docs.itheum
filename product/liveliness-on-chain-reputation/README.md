@@ -1,4 +1,6 @@
-# Liveliness staking
+# Liveliness - On-Chain Reputation
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
