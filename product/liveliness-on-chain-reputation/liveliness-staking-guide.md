@@ -1,6 +1,10 @@
+---
+hidden: true
+---
+
 # Liveliness staking guide
 
-Liveliness staking enables Data Creators or users to mint Data NFTs and earn rewards by staking via bonds on their Data NFTs.
+Users can earn staking rewards for the Combined Liveliness (bonded ITHEUM) on all their Data NFTs. All Data NFTs are a fixed "minimum bond", to maximize your staking rewards you can also have a NFMeID Vault Data NFT, a special Data NFT that can be topped up. Let's explore how you can do the following.
 
 1. [Mint a Data NFT](../data-dex/minting-a-data-nft/).
 2.  Upon minting your Data NFT, you will see it in the wallet and the bonding page. Review the current liveliness.&#x20;
