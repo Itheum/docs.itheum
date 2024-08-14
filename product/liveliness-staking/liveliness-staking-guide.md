@@ -10,14 +10,18 @@ Liveliness staking enables Data Creators or users to mint Data NFTs and earn rew
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdq5-E4pj9Xt97bN0DFHzXwowG1BLNO9e-7IxYyNmg3bsqiRF_OhTtThvv8X_todBhgC_mquQG7LQFX8PVsfMyxZQD7d3IaPuPnZHN5ywoOeIxSJOY9bm3TBUpLjjhVqSfd0xNQ5MnHAwfs_SwJDd9vOFfd?key=pgp5AiPLLU0-_TXnCJUUDw" alt=""><figcaption></figcaption></figure>
 
-4.  Review your bonding page. The newly minted Data NFT is set as your Primary by default. Various parameters will be updated based on the number of Data NFTs or NFMeIDs minted. These parameters mainly include the APR, Bonds, and Liveliness.
+4.  Review your bonding page. The newly minted Data NFT is set as your Primary by default. Various parameters will be updated based on the number of Data NFTs or NFMe.IDs minted. These parameters mainly include the APR, Bonds, and Liveliness.
 
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfczVN3dB8qEq9tDVD_LKjf-c91KlzyfuDCxA11UIp6jtsRjPE5NoYHfIDjV8-PLhV0CJhIyHwVJnKyBOfr4byxC2vh6_fMlL66GLYihOVIiVwh-OZOKT1On7DJW9FBRJJ9Qtfk47vPwo5VTihxLV2XAPRf?key=pgp5AiPLLU0-_TXnCJUUDw" alt=""><figcaption></figcaption></figure>
 5.  Next, click on Renew Bond. After execution, the relevant Data NFT bond duration will be renewed to 100%. The current duration is set to 3 months.
 
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+6.  Note down your current Itheum balance and rewards accrued. After some time  accruing rewards, click on Claim Rewards. Your ITHEUM balance should increase by the amount of rewards claimed. (The "Claim rewards" button enabled if rewards > 1)
+
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-6. Note down your current Itheum balance and rewards accrued. After a period of time accruing rewards, click on Claim Rewards. Your ITHEUM balance should increase by the amount of rewards claimed.
-7. Note down your current “Combined Bonds Staked” and the Rewards Accrued. After a period of time accruing rewards, click on Reinvest Rewards. The combined bond should be updated with the addition of the rewards.
-8. Next, select the amount of ITHEUM you want to top up with and click on Top Up Now. Note that this amount will be considered in the total Bonds staked and the user will earn yield according to the APR. Note that the Data NFT is automatically renewed, and rewards are auto-claimed once the top-up action is invoked.
+7. &#x20;Note down your current “Combined Bonds Staked” and the Rewards Accrued. Aftersome time accruing rewards, click on Reinvest Rewards. The combined bond should be updated with the addition of the rewards. (The Reinvest rewards button enabled if rewards > 1)
+8.  Next, select the amount of ITHEUM you want to top up with and click on Top Up Now. Note that this amount will be considered in the total Bonds staked and the user will earn yield according to the APR. Note that the Data NFT is automatically renewed, and rewards are auto-claimed once the top-up action is invoked.
+
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 For details on the calculations involved in staking, read more [here](../../protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-staking.md).
