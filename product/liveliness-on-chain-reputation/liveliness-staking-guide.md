@@ -1,12 +1,8 @@
----
-hidden: true
----
+# Liveliness Staking Guide
 
-# Liveliness staking guide
+Users can earn staking rewards for the Combined Liveliness (bonded ITHEUM) on all their Data NFTs. All Data NFTs are a fixed "minimum bond", to maximize your staking rewards you can also have a NFMe.ID Vault Data NFT, a special Data NFT that can be topped up. Let's explore.
 
-Users can earn staking rewards for the Combined Liveliness (bonded ITHEUM) on all their Data NFTs. All Data NFTs are a fixed "minimum bond", to maximize your staking rewards you can also have a NFMeID Vault Data NFT, a special Data NFT that can be topped up. Let's explore how you can do the following.
-
-In the below sections we will dive into&#x20;
+In the below sections we will dive into:&#x20;
 
 1. Minting an NFMe.ID Vault: A user simply mints their NFMe vault. Users can mint multiple NFMe.id Vaults
 2. Minting a data NFT and setting it as the primary.
@@ -16,11 +12,11 @@ In the below sections we will dive into&#x20;
 
 In this section we will cover minting of a NFMe.id Vault. Please follow the below instructions:
 
-1. Navigate to the [minting page](https://test.datadex.itheum.io/mintdata)
+1. Navigate to the [minting page](https://datadex.itheum.io/mintdata)
 2.  Click on "Mint Data NFT" and go through the minting steps as mentioned [here](../data-dex/minting-a-data-nft/).&#x20;
 
     <figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
-3.  Once the NFMe.id Vault is minted you will see the below. Your newly minted NFMe.ID will be set as your Primary Data NFT.
+3.  Once the NFMe.id Vault is minted you will see the below in the [Liveliness page](https://datadex.itheum.io/datanfts/wallet/bonding). Your newly minted NFMe.ID will be set as your Primary Data NFT.
 
     <figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 4. Next we will topup the Primary NFMe.ID Vault Data NFT
@@ -39,13 +35,13 @@ In this section we will cover minting of  a normal Data NFT, reviewing the bondi
 2.  Click on "Mint Data NFT" and go through the minting steps as mentioned [here](../data-dex/minting-a-data-nft/).&#x20;
 
     <figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
-3.  Once the Dataset is minted, you will see it in addition to any previously minted NFMe.id Vaults or Data NFTs. The newly minted Data NFT will affect the Combined liveleness and Combined Combined bonds Staked, and can be reviewed as below.
+3.  Once the Dataset is minted, you will see it in addition to any previously minted NFMe.id Vaults or Data NFTs. This is viewable in the [Bonding section](https://datadex.itheum.io/datanfts/wallet/bonding). The newly minted Data NFT will affect the Combined liveleness and Combined Combined bonds Staked, and can be reviewed as below.
 
     <figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
-4.  Now we will look to set the newly minted Data NFT as our Primary NFMe.ID Vault Data NFT. We can then perform additional actions like Top-Up on it once set to primary. Click on the "Make this your Primary NFMe.ID"
+4.  &#x20;Now we will look to set the newly minted Data NFT as our Primary NFMe.ID Vault Data NFT. We can then perform additional actions like Top-Up on it once set to primary. Click on the "Make this your Primary NFMe.ID"
 
     <figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
-5.  Once the transaction is complete, the Data NFT will be set as your primary, you can choose to Top-Up this Data NFT.
+5.  &#x20;Once the transaction is complete, the Data NFT will be set as your primary, you can choose to Top-Up this Data NFT.
 
     <figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
