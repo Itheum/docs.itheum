@@ -1,8 +1,34 @@
 # Data Marshal Network
 
-As we test and ship devnet versions to mainnet, the release version notes appear below. You may see .patch versions appear and not rounded versions. i.e. V3.4.3 and no V3.4.0, this just means that there were patches on devnet that were added to a base version target before shipping to mainnet/production.
+As we test and ship devnet versions to mainnet, the release version notes appear below. You may see .patch versions appear and not rounded versions. i.e. V3.4.3 and not V3.4.0, this just means that there were patches on devnet that were added to a base version target before shipping to mainnet/production.
 
 ***
+
+## V3.7.0 (Brontes)
+
+**Main Features / Changes**
+
+* Data NFT watermarking now supports Solana address as "creator"
+
+**Bug Fixing / Other Updates**
+
+* N/A
+
+***
+
+## V3.6.0 (Brontes)
+
+**Main Features / Changes**
+
+* Solana Support! Compresses Data NFT support has been added so the Marshal nodes can no broker data on the Solana chain.
+
+**Bug Fixing / Other Updates**
+
+* Improvement for how Sentry reports errors and other fixes
+
+***
+
+
 
 ## V3.4.3 (Brontes)
 
