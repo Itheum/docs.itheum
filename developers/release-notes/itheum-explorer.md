@@ -5,7 +5,7 @@
 * Initial base version of NFTune Radio!
 * Misc UI / UX fixes and style upgrades
 
-More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.20](https://github.com/Itheum/explorer-dapp/releases/tag/v1.20)
+More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.21](https://github.com/Itheum/explorer-dapp/releases/tag/v1.21)
 
 
 
