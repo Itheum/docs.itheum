@@ -149,5 +149,6 @@
   * [Gamer Passport](legal/ecosystem-tools-terms/gamer-passport/README.md)
     * [Data Collection and Storage](legal/ecosystem-tools-terms/gamer-passport/data-collection-and-storage.md)
 * [👮 Content Guidelines](legal/content-guidelines.md)
+* [Itheum Data License](legal/itheum-data-license.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
