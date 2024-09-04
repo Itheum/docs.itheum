@@ -1,13 +1,20 @@
 # Itheum Explorer
 
+## V1.22
+
+* Initial base version of AI Workforce View!
+* Misc UI / UX fixes and style upgrades
+
+More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.22](https://github.com/Itheum/explorer-dapp/releases/tag/v1.22)
+
+***
+
 ## V1.21
 
 * Initial base version of NFTune Radio!
 * Misc UI / UX fixes and style upgrades
 
 More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.21](https://github.com/Itheum/explorer-dapp/releases/tag/v1.21)
-
-
 
 ***
 
