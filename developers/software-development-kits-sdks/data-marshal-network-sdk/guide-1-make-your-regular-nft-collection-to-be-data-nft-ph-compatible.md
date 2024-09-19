@@ -68,18 +68,6 @@ Once you have this Data Stream URL, just one more step is required to make your 
 
 ## Step 2: Include Custom Attributes in your NFT's Metadata File
 
-{% hint style="warning" %}
-It should be noted that using [itheum-enterprise.md](../../../product/itheum-enterprise.md "mention") to mint your Data NFT collection is probably the best option if you want the entire mint process handled for you via a user interface that is super easy to use and yet, powerful and flexible.&#x20;
-
-Itheum Enterprise mints complete regular NFT collections, making them Data NFT compatible "out of the box." But it also offers many more features like seamless NFT collection curation (pause, freeze, wipe), control transferability rights of the NFTs (i.e., make them soulbound or control where they can be used for traded), and a load of other features that make managing (Data) NFTs seamless. However, there are some limitations with the current version of Itheum Enterprise, where the product only allows for minting and managing NFT tokens and does not provide a way to run NFT launches or distributions via a "CandyMachine" type tool to mint and distribute.
-
-If you prefer to use or try Itheum Enterprise instead of making your own NFT collections Data NFT-PH compatible, then follow this guide: [guide-2-get-started-with-itheum-enterprise.md](../../../integrators/data-dex-guides/multiversx-blockchain/guide-2-get-started-with-itheum-enterprise.md "mention")
-
-But, if you prefer to use your own NFT minting scripts or tools and NOT use Itheum Enterprise, then you can continue with the next part of this guide.
-{% endhint %}
-
-
-
 Adding Data NFT compatibility to a regular NFT token is achieved by including some "custom metadata attribute fields" in your NFT's JSON Metadata file. It should be noted that these Attributes are "non-sensitive" (i.e. not sensitive data like keys or identity etc).\
 
 

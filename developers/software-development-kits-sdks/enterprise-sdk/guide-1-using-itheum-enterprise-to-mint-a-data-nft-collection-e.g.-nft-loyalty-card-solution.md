@@ -1,7 +1,7 @@
 # Guide 1 : Using Itheum Enterprise to Mint a Data NFT Collection (e.g. NFT Loyalty Card Solution)
 
-{% hint style="warning" %}
-This feature is in Beta and only available on devnet.
+{% hint style="danger" %}
+Itheum Enterprise is in "devnet" mode so you can't use it on the MutiversX Mainnet. If you want lauch your own Data NFTs on MutiversX Mainnet, we recommend that you use the Data NFT-PH standard as described in this guide [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")
 {% endhint %}
 
 This guide walks you through the entire process of using Itheum Enterprise and the Data NFT-Lease technology to Mint a Data NFT Collection that is used to power a complete enterprise-ready NFT Loyalty Card platform.

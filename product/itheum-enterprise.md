@@ -41,11 +41,6 @@ Itheum Enterprise plays a pivotal role in catalyzing the global adoption of the 
 In conclusion, Itheum Enterprise is more than just a suite of tools; it's a gateway for enterprises to champion data sovereignty while benefiting from the efficiencies of blockchain technology. With Itheum Enterprise, businesses can embrace CSR initiatives, expand their customer base, and contribute to the emerging era where data sovereignty prevails over data exploitation.\
 
 
-{% hint style="info" %}
-Itheum Enterprise is in "private beta" mode, but you can [get whitelisted to use it today](https://datadex.itheum.io/getwhitelisted).\
-\
-Or try out Itheum Enterprise today in private beta mode (devnet), follow these guides:
-
-* Using the Management Console App :  [guide-2-get-started-with-itheum-enterprise.md](../integrators/data-dex-guides/multiversx-blockchain/guide-2-get-started-with-itheum-enterprise.md "mention")
-* Mint a Enterprise Data NFT collection using code : [guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md](../developers/software-development-kits-sdks/enterprise-sdk/guide-1-using-itheum-enterprise-to-mint-a-data-nft-collection-e.g.-nft-loyalty-card-solution.md "mention")
+{% hint style="danger" %}
+Itheum Enterprise is in "devnet" mode so you can't use it on the MutiversX Mainnet. If you want lauch your own Data NFTs on MutiversX Mainnet, we recommend that you use the Data NFT-PH standard as described in this guide [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")
 {% endhint %}
