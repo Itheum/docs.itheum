@@ -1,4 +1,4 @@
-# Liveliness - On-Chain Reputation
+# 🔋 Liveliness - On-Chain Reputation
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
