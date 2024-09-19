@@ -28,12 +28,12 @@
 * [🔋 Liveliness - On-Chain Reputation](product/liveliness-on-chain-reputation/README.md)
   * [Liveliness Staking Guide](product/liveliness-on-chain-reputation/liveliness-staking-guide.md)
   * [FAQ - Liveliness staking](product/liveliness-on-chain-reputation/faq-liveliness-staking.md)
+* [🤖 NFMe ID Vaults](product/nfme-id-vaults.md)
 * [🔓 Data Marshal Network](product/data-marshal-network.md)
 * [🗳️ Data Coalition DAOs (DC DAOs)](product/data-coalition-daos-dc-daos.md)
 * [🏢 Itheum Enterprise](product/itheum-enterprise.md)
 * [🎏 Trailblazer](product/trailblazer/README.md)
   * [FAQ - Trailblazer](product/trailblazer/faq-trailblazer.md)
-* [🤖 NFMe ID Vaults](product/nfme-id-vaults.md)
 
 ## Integrators
 

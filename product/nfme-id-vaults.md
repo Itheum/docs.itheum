@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-theum launched Data NFTs on the mainnet, inviting top creators from across the ecosystem to license and share their work. The response was great—we onboarded on-chain analysts, DeFi educators, musicians, game developers, and more. But we noticed a gap: not everyone was a content creator.
+Itheum launched Data NFTs on the mainnet, inviting top creators from across the ecosystem to license and share their work. The response was great—we onboarded on-chain analysts, DeFi educators, musicians, game developers, and more. But we noticed a gap: not everyone was a content creator.
 
 To bridge this, we created the NFMe ID Vault and Liveliness Staking, making it easy for anyone to join the Data Economy. With a few clicks, you can mint your NFMe ID Vault, build your Web3 reputation, and earn rewards.
 
