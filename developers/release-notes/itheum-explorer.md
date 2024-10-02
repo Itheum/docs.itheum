@@ -1,5 +1,12 @@
 # Itheum Explorer
 
+## V1.24
+
+* Proof of Concept for Data NFT Stream caching
+* Helmet for page specefic SEO
+
+***
+
 ## V1.22
 
 * Initial base version of AI Workforce View!
