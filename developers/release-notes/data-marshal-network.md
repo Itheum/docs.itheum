@@ -4,6 +4,18 @@ As we test and ship devnet versions to mainnet, the release version notes appear
 
 ***
 
+## V3.10.0 (Brontes)
+
+**Main Features / Changes**
+
+* Proof of concept for optional data stream caching (not finalized)
+
+**Bug Fixing / Other Updates**
+
+* N/A
+
+***
+
 ## V3.7.0 (Brontes)
 
 **Main Features / Changes**
