@@ -97,7 +97,7 @@ Mint a second NFMe.ID
 
 1. BEFORE SCREENSHOT: Take a screenshot similar to the example above that shows your "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**
 2. Report your UTC time from [https://www.timeanddate.com/worldclock/timezone/utc](https://www.timeanddate.com/worldclock/timezone/utc)&#x20;
-3. Note down your $ITHEUM balance in the top right corner of the app, so we can verify that your $ITHEUM balance increases when you Withdraw your Bond. Also not your "Combined Bond Staked".
+3. Note down your $ITHEUM balance in the top right corner of the app, so we can verify that your $ITHEUM balance increases when you Withdraw your Bond. Also note your "Combined Bond Staked".
 4. Click on "Withdraw Bond" button from one of your Bonds, and review the $ITHEUM balance and confirm the difference in your ITHEUM Balance and "Combined Bond Staked".
 5. AFTER SCREENSHOT: Take a screenshot similar to the example above that shows your new "Y**our Liveliness Rewards**" and **"Your Data NFT Liveliness Bonds"**
 
