@@ -34,7 +34,7 @@ Be part of the first cohort of users who test the Itheum Protocol Minting and St
 
 <mark style="background-color:green;">**Step 2:**</mark> Get some SOL (DEVNET SOL), which is required for gas payment on Solana.Login with your wallet from Step 1,  use [https://faucet.solana.com/](https://faucet.solana.com/) to get Sol.
 
-<mark style="background-color:green;">**Step 3:**</mark> Get DEVNET ITHEUM tokens, Head on to Itheum Discord and request for ITHEUM tokes on Channel XYZ.
+<mark style="background-color:green;">**Step 3:**</mark> Get DEVNET ITHEUM tokens, Head on to Itheum Discord and request for ITHEUM devnet tokens.
 
 Actions:
 
