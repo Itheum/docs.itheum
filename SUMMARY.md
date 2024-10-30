@@ -121,6 +121,7 @@
       * [Announcement Guidelines](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/announcement-guidelines.md)
       * [Cohorts vs Alpha Builders](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/cohorts-vs-alpha-builders.md)
     * [Program 1: MultiversX Post-Hackathon Accelerator](protocol/governance/itheum-xpand-dao/program-1-multiversx-post-hackathon-accelerator.md)
+    * [Program 2: xPand DAO Music Data NFT Growth](protocol/governance/itheum-xpand-dao/program-2-xpand-dao-music-data-nft-growth.md)
   * [Itheum Trailblazer DAO](protocol/governance/itheum-trailblazer-dao/README.md)
     * [Version 1: How it Works](protocol/governance/itheum-trailblazer-dao/version-1-how-it-works.md)
 * [💪 Hackathons and Dev Challenges](protocol/hackathons-and-dev-challenges/README.md)
