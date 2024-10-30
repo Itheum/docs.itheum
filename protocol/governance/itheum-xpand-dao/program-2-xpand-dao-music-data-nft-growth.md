@@ -10,6 +10,11 @@ Artists can earn up to:
 
 * **5,000 ITHEUM** at Music Data NFT collection launch.
 * **2,500 ITHEUM** for every 500 Data NFT claims.
+* Artists will also receive **Droplet Donations** and other incentives.
+
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc11DCp_hJDYlWd8GyjP9KVbybQXalwZC8TGZgH1ySJdqdTQ--NPQ_8OmjmK-yqpOhdfDYNruIumMW-LhsvMPWY-XBsIuXbwpaGA7kfhY9EPmwDrk5MuBXvXPdXmG_BSTbhVVmFZbqKossRtwt3ftGpveA?key=yw-PjBj_U3LnBUM97OBPVw" alt=""><figcaption></figcaption></figure>
 
 ## **Artist Launch Perks**
 
@@ -19,11 +24,4 @@ Artists can earn up to:
 
 ## **Application Process**
 
-**Application Process**
-
-* Artists submit applications to collaborate on the **NF-Tunes** platform.
-* Selected artists participate in the xPand DAO growth program.
-
-**xPand DAO Incentives**
-
-Includes **extra bonuses** from **Droplets Donations** and exclusive Itheum rewards.
+Artists can register their interest and submit an application for NF-Tunes using [this form](https://forms.gle/xdARJPW3Sqh7LgTB9).
