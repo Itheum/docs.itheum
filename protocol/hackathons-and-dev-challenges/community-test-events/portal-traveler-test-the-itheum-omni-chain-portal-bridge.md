@@ -1,5 +1,13 @@
 # Portal Traveler 🌀 : Test the Itheum Omni-Chain Portal (Bridge)
 
+.&#x20;
+
+{% hint style="info" %}
+This event has been concluded.
+{% endhint %}
+
+## **Program Overview**
+
 ## Introduction
 
 Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Portal! The Portal Traveler test event aims to stress test Itheum's Omni-Chain bridge, that enables for the bridging of $ITHEUM tokens and other protocol assets (e.g. Data NFTs) between blockchains. Testing during the phases detailed below will earn you BiTz XP points, which can unlock further rewards.

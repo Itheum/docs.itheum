@@ -1,5 +1,13 @@
 # APR for Liveliness 🎖️: Test the Bonding + Staking Rewards Module
 
+.&#x20;
+
+{% hint style="info" %}
+This Event has been concluded.
+{% endhint %}
+
+## **Program Overview**
+
 ## Introduction
 
 Be part of the first cohort of users who test the Itheum Protocol Staking Program! This test event aims to stress test Itheum's new staking mechanism that allows gaining an APR for bonding ITHEUM tokens to Data NFTs.&#x20;
