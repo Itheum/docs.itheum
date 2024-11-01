@@ -1,5 +1,11 @@
 # Program 1: MultiversX Post-Hackathon Accelerator
 
+.&#x20;
+
+{% hint style="info" %}
+This program has been concluded.
+{% endhint %}
+
 ## **Program Overview**
 
 This is for projects that were “born” out of the [multiversx-xday-hackathon](../../hackathons-and-dev-challenges/multiversx-xday-hackathon/ "mention"). Selected candidates for this program will be our 1st cohort for [.](./ "mention") and this cohort will be taken through a special 5 week accelerator program to extend the work done by the teams as part of the MultiversX hackathon.&#x20;
