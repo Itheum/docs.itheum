@@ -1,4 +1,4 @@
-# Minting and Bonding on Solana.
+# Minting and Bonding on Solana
 
 ## Introduction
 
@@ -68,7 +68,7 @@ Review your combined liveliness.
 
 Mint a second NFMe.ID
 
-<mark style="background-color:blue;">**Task 2:**</mark> Top up your **NFMe.ID Vault Data NFT** with 100 ITHEUM.
+<mark style="background-color:blue;">**Task 2:**</mark> Top up your **NFMe.ID Vault Data NFT** with 2000 ITHEUM.
 
 <mark style="background-color:blue;">**Task 3:**</mark> Take a screenshot that shows your new "Y**our Liveliness Rewards**" "**Your NFMe.ID Vault Data NFT**".
 
@@ -79,8 +79,9 @@ Mint a second NFMe.ID
 1. BEFORE SCREENSHOT: Take a screenshot similar to the example above that shows your "Y**our Liveliness Rewards**" and **"Your Data NFT Liveliness Bonds"**
 2. Report your UTC time from [https://www.timeanddate.com/worldclock/timezone/utc](https://www.timeanddate.com/worldclock/timezone/utc)&#x20;
 3. Note down your $ITHEUM balance in the top right corner of the app, so we can verify that your $ITHEUM balance goes up when your claims your rewards
-4. Click on "Claim rewards" button in "Y**our Liveliness Rewards**" box, and review the $ITHEUM balance and confirm your new balance is correct with the claimed rewards.
-5. AFTER SCREENSHOT: Take a screenshot similar to the example above that shows your new "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**
+4. If the Liveliness has expired you can Renew your bond.
+5. Click on "Claim rewards" button in "Y**our Liveliness Rewards**" box, and review the $ITHEUM balance and confirm your new balance is correct with the claimed rewards.
+6. AFTER SCREENSHOT: Take a screenshot similar to the example above that shows your new "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**
 
 <mark style="background-color:orange;">**Action 4:**</mark> Come back in 1 **DAY** and review Liveliness and Rewards after a couple of days.
 
@@ -90,8 +91,9 @@ Mint a second NFMe.ID
 2. BEFORE SCREENSHOT: Take a screenshot similar to the example above that shows your "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**
 3. Report your UTC time from [https://www.timeanddate.com/worldclock/timezone/utc](https://www.timeanddate.com/worldclock/timezone/utc)&#x20;
 4. Note down your $ITHEUM balance in the top right corner of the app, so we can verify that your $ITHEUM balance stays the same when you reinvest your rewards. Your Bond should increase.
-5. Click on "Reinvest Rewards" button in "Y**our Liveliness Rewards**" box, and review the $ITHEUM balance and confirm your new Bond is correct with the Reinvested rewards.
-6. AFTER SCREENSHOT: Take a screenshot similar to the example above that shows your new "Y**our Liveliness Rewards**" and **"Your Data NFT Liveliness Bonds"**
+5. If the Liveliness has expired you can Renew your bond.
+6. Click on "Reinvest Rewards" button in "Y**our Liveliness Rewards**" box, and review the $ITHEUM balance and confirm your new Bond is correct with the Reinvested rewards.
+7. AFTER SCREENSHOT: Take a screenshot similar to the example above that shows your new "Y**our Liveliness Rewards**" and **"Your Data NFT Liveliness Bonds"**
 
 <mark style="background-color:blue;">**Task 6:**</mark> Withdraw Bond: Do all the below items (note that your will need a BEFORE vs AFTER screenshot, so you need two in total)
 
