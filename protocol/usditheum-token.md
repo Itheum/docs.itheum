@@ -58,9 +58,9 @@ _**Unlock dates for example:**_
 
 
 
-Vesting Status: **We are currently at Month 27: July 2024**
+Vesting Status: **We are currently at Month 30: Oct 2024**
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>We are currently at Month 27 : July 2024</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>We are currently at Month 30 : Oct 2024</strong></p></figcaption></figure>
 
 
 
@@ -68,9 +68,9 @@ Vesting Status: **We are currently at Month 27: July 2024**
 
 | Program                                   | Chain      | Description                                                                                                                                                                                       | Link                                                                                                                                                                           |
 | ----------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Liveliness Bonding + Staking Rewards**  | MultiversX | <p>Native staking system of the Itheum protocol.<br><br>You need to bond $ITHEUM tokens to mint Data NFTs, and the bonded token earn staking rewards and real-yield from the Itheum protocol</p>  | [https://datadex.itheum.io/liveliness](https://datadex.itheum.io/liveliness)                                                                                                   |
 | **MetaStaking**                           | MultiversX | Native staking system for MultiversX xExchange DEX. Stake LP & Tokens to earn more of the same token as rewards.                                                                                  | [https://xexchange.com/metastaking](https://xexchange.com/metastaking)                                                                                                         |
-| **Liveliness Bonding + Staking Rewards**  | MultiversX | <p>Native staking system of the Itheum protocol.<br><br>You need to bond $ITHEUM tokens to mint Data NFTs, and the bonded token earn staking rewards and real-yield from the Itheum protocol</p>  | \[ Launching Aug 2024 ]                                                                                                                                                        |
-| **Liveliness Bonding + Staking Rewards**  | Solana     | <p>Native staking system of the Itheum protocol.<br><br>You need to bond $ITHEUM tokens to mint Data NFTs, and the bonded token earn staking rewards and real- yield from the Itheum protocol</p> | \[ Launching Sep 2024 ]                                                                                                                                                        |
+| **Liveliness Bonding + Staking Rewards**  | Solana     | <p>Native staking system of the Itheum protocol.<br><br>You need to bond $ITHEUM tokens to mint Data NFTs, and the bonded token earn staking rewards and real- yield from the Itheum protocol</p> | [https://datadex.itheum.io/liveliness](https://datadex.itheum.io/liveliness)                                                                                                   |
 | **xExchange LP Farming**                  | MultiversX | Farm your EGLD/ITHEUM LP tokens and earn $EGLD and $ITHEUM token rewards                                                                                                                          | [https://xexchange.com/farms](https://xexchange.com/farms)                                                                                                                     |
 | **Raydium LP Farming**                    | Solana     | Farm your SOL/ITHEUM LP tokens and earn $SOL and $ITHEUM token rewards                                                                                                                            | [https://raydium.io/liquidity-pools/?token=iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwaV](https://raydium.io/liquidity-pools/?token=iTHSaXjdqFtcnLK4EFEs7mqYQbJb6B7GostqWbBQwaV) |
 
