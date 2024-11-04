@@ -145,6 +145,9 @@
 ## Legal
 
 * [⚖️ Ecosystem Tools Terms](legal/ecosystem-tools-terms/README.md)
+  * [Datadex](legal/ecosystem-tools-terms/datadex/README.md)
+    * [Terms Of Use](legal/ecosystem-tools-terms/datadex/terms-of-use.md)
+    * [Privacy Policy](legal/ecosystem-tools-terms/datadex/privacy-policy.md)
   * [Liveliness Bonding: Penalties and Slashing Terms](legal/ecosystem-tools-terms/liveliness-bonding-penalties-and-slashing-terms.md)
   * [BiTz XP](legal/ecosystem-tools-terms/bitz-xp/README.md)
     * [Give BiTz](legal/ecosystem-tools-terms/bitz-xp/give-bitz.md)
