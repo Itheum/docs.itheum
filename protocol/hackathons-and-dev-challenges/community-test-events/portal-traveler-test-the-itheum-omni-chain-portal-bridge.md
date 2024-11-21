@@ -67,13 +67,13 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 <mark style="background-color:green;">**Step 5:**</mark> Get DEVNET ITHEUM tokens, Go here: [https://test.datadex.itheum.io/](https://test.datadex.itheum.io/), login with your wallet from Step 1, Click on "Dash" on the top menu, and click on the "Send me ITHEUM" button to get 1,000 ITHEUM tokens.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <mark style="background-color:green;">**Step 6:**</mark> Head over to the Omni-Chain Portal: [https://alpha-devnet.portal.itheum.io/](https://alpha-devnet.portal.itheum.io/) and click on "Bridge $ITHEUM", login with your wallets from Step 1 and Step 2
 
 <mark style="background-color:green;">**Step 7:**</mark> You should now see the following interface:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Actions:
 
@@ -112,6 +112,6 @@ Are you seeing this below warning by Phantom?&#x20;
 
 This is because the _https://alpha-devnet.portal.itheum.io_ domain is flagged a s "new domain" by Phantom and it is giving you this wanting as a precaution. Also note that as you are on Solana "devnet", no mainnet access is happening. If you are still concerned about safety, we recommend that you use a new Solana wallet just for this test, and ensure it's connected to "devnet".\
 \
-<img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="original">
 {% endhint %}
 

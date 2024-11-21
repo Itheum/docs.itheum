@@ -55,6 +55,7 @@
     * [Guide 2 : Procure Data NFTs from the peer-to-peer Data NFT Marketplace on Astar Network](integrators/data-dex-guides/astar-network/guide-2-procure-data-nfts-from-the-peer-to-peer-data-nft-marketplace-on-astar-network.md)
     * [Guide 3: Use the “Web3 Gamer Passport” App on the Astar Network to trade your PlayStation Data](integrators/data-dex-guides/astar-network/guide-3-use-the-web3-gamer-passport-app-on-the-astar-network-to-trade-your-playstation-data.md)
   * [Liveliness Staking Guide](integrators/data-dex-guides/liveliness-staking-guide.md)
+  * [Liveliness Staking Guide - Solana](integrators/data-dex-guides/liveliness-staking-guide-solana.md)
 * [📕 Trailblazer Guides](integrators/trailblazer-guides/README.md)
   * [How to Acquire a Trailblazer](integrators/trailblazer-guides/how-to-acquire-a-trailblazer.md)
   * [How to view a Trailblazer](integrators/trailblazer-guides/how-to-view-a-trailblazer.md)

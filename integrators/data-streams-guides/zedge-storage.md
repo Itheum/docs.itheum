@@ -10,7 +10,7 @@
 4. Seamless generation and management of [trailblazer](../../product/trailblazer/ "mention") Data Streams!
 5. Seamless generation and management of Music Data NFT Data Streams that work with the [NF-Tunes](https://explorer.itheum.io/nftunes) web3 music player
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can access Zedge Storage on : [zedgestorage.com](https://zedgestorage.com)&#x20;
 

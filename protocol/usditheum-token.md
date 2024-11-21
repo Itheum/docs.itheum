@@ -19,9 +19,9 @@ The $ITHEUM token is the central utility token for the Itheum protocol, It's pur
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><em>$ITHEUM token allocation buckets</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><em>$ITHEUM token allocation buckets</em></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><em>$ITHEUM token TGE unlock &#x26; bucket cliff/vests/unlock schedule</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><em>$ITHEUM token TGE unlock &#x26; bucket cliff/vests/unlock schedule</em></p></figcaption></figure>
 
 
 
@@ -60,7 +60,7 @@ _**Unlock dates for example:**_
 
 Vesting Status: **We are currently at Month 30: Oct 2024**
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>We are currently at Month 30 : Oct 2024</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><strong>We are currently at Month 30 : Oct 2024</strong></p></figcaption></figure>
 
 
 

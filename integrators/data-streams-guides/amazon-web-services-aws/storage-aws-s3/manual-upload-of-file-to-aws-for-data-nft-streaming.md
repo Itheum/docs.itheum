@@ -50,6 +50,6 @@ In the case that you are using [nested streams](../../../../developers/software-
 * _This step is not mandatory, but may ben helpful to instruct the Data Marshal clearly that the file type is JSON._ For Type select "System defined", for the corresponding Key value select "Content-Type" and for the corresponding Value enter "application/json".&#x20;
 * Save Changes
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Data Marshal will now be able to handle nested streams for this json file. Learn more about [nested streams here](../../../../developers/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md).
