@@ -2,6 +2,33 @@
 
 As we test and ship devnet versions to mainnet, the release version notes appear below. You may see .patch versions appear and not rounded versions. i.e. V3.4.3 and not V3.4.0, this just means that there were patches on devnet that were added to a base version target before shipping to mainnet/production.
 
+
+
+## V3.12.2 (Brontes)
+
+**Main Features / Changes**
+
+**This release has a lot of smaller changes, and one big one... namely the following**
+
+* Big Update: caching support for data streams if requested, powered by redis
+* Enable Data NFT-PH types to work, if the min required fields are on top level OR inside the nested attributes level
+* Better Solana cNFT handling and usage reporting to reporting plugin
+
+**Bug Fixing / Other Updates**
+
+* MVX RPC comes from ENV so we can update as needed
+* Better error reporting to Sentry plugin to reduce the "false negative" and "noise"
+
+***
+
+
+
+{% hint style="info" %}
+3.13 release noted above cover the key updates since last update. Also please note that moving forward, only the Brontes node will be supported and the older Achilles node will be decommissioned as it's no longer used by network participants.&#x20;
+{% endhint %}
+
+
+
 ***
 
 ## V3.10.0 (Brontes)
