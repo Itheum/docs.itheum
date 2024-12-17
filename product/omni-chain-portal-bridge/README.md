@@ -6,7 +6,7 @@ description: >-
 
 # 🌉 Omni-Chain Portal Bridge
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Bridge Itheum Protocol Assets between MultiversX and Solana (other chains coming)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge Itheum Protocol Assets between MultiversX and Solana (other chains coming)</p></figcaption></figure>
 
 * The Omni-Chain Portal Bridge is the itheum Protcol's official bridge and the Mainnet version is available at [http://portal.itheum.io ](https://portal.itheum.io/)
 * It currently allows any user to bridge $ITHEUM tokens between MultiversX and Solana (in both directions)

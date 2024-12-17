@@ -14,7 +14,7 @@ What would be useful is if the Smart Contract could specify a 3rd Party "end-use
 
 * [data-coalition-daos-dc-daos.md](../../product/data-coalition-daos-dc-daos.md "mention") - DAOs that manage your data
 * **Data Leasing platforms** - Smart Contract platforms that can lease data for you (monthly subscriptions, pay-per-use, etc) by deputizing a 3rd party to use the data.
-* **Complex Data NFT liquid staking/re-staking/**fractionalization **platforms** - send your Data NFTs to a 3rd party Smart Contract which then delegates it to other Smart Contracts for nested usage of your Data NFTs (e.g. fractionalization of data ownership, liquid staking / re-staking of Data NFTs)
+* **Complex Data NFT liquid staking/re-staking/**&#x66;ractionalization **platforms** - send your Data NFTs to a 3rd party Smart Contract which then delegates it to other Smart Contracts for nested usage of your Data NFTs (e.g. fractionalization of data ownership, liquid staking / re-staking of Data NFTs)
 * ... and many more.
 
 ***
@@ -35,7 +35,7 @@ What would be useful is if the Smart Contract could specify a 3rd Party "end-use
 * The deputy can now programmatically open a Data NFT that is stored inside the Appointer Smart Contract. It does this by using the Data NFT SDK. _To understand this, let's go step-by-step on how to implement and test..._
 
 1. Launch the Appointer SC as above.
-2. Mint a Data NFT on devnet ([test.datadex.itheum.io](http://test.datadex.itheum.io/)), log in, and go to `Mint > Mint Data NFT` form. Here is a [test Data Stream you can use](https://raw.githubusercontent.com/Itheum/data-assets/main/Health/H1\_\_Signs\_of\_Anxiety\_in\_American\_Households\_due\_to\_Covid19/preview.json) OR use any other Data Stream you want.
+2. Mint a Data NFT on devnet ([test.datadex.itheum.io](http://test.datadex.itheum.io/)), log in, and go to `Mint > Mint Data NFT` form. Here is a [test Data Stream you can use](https://raw.githubusercontent.com/Itheum/data-assets/main/Health/H1__Signs_of_Anxiety_in_American_Households_due_to_Covid19/preview.json) OR use any other Data Stream you want.
 3. Move the test Data NFTs to your Appointer SC.
 4. Set a `deputyAddress` on the Appointer SC. _Check the basic_ [_SC template for the Appointer_](https://github.com/Itheum/core-mx-deputy-appointer-interface-sc) _Smart Contract._&#x20;
 5. You then use the wallet of `deputyAddress` to open the Data NFT of the Appointer SC.

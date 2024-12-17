@@ -25,7 +25,7 @@ In this section we will cover minting of a NFMe.id Vault. Please follow the belo
     <figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 6. You can review your revised APR and Combined Bonds Staked.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### II. Claim rewards for Bonds Staked over a period of time.
 

@@ -4,6 +4,11 @@
 
 ## Product
 
+* [AI Data Workforce](product/ai-data-workforce/README.md)
+  * [Token Utility for the AI Data Workforce](product/ai-data-workforce/token-utility-for-the-ai-data-workforce.md)
+  * [Join the App](product/ai-data-workforce/join-the-app.md)
+  * [Liveliness Staking Rewards](product/ai-data-workforce/liveliness-staking-rewards.md)
+  * [Badges](product/ai-data-workforce/badges.md)
 * [🖼️ Data NFT](product/data-nft/README.md)
   * [Data NFT Types](product/data-nft/data-nft-types/README.md)
     * [Data NFT-FT](product/data-nft/data-nft-types/data-nft-ft.md)
@@ -33,6 +38,7 @@
 * [🏢 Itheum Enterprise](product/itheum-enterprise.md)
 * [🎏 Trailblazer](product/trailblazer/README.md)
   * [FAQ - Trailblazer](product/trailblazer/faq-trailblazer.md)
+* [Unlock Rewards by Joining the AI Workforce](product/unlock-rewards-by-joining-the-ai-workforce.md)
 
 ## Integrators
 

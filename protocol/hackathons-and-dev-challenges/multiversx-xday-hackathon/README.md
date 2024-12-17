@@ -23,7 +23,7 @@ Please note that this Hackathon has been completed.&#x20;
 
 This is our contribution to boost development activity within the MultiversX and the Itheum Ecosystems, we are proud to sponsor the "Infrastructure and Dev Tooling" Track.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 There are **3 Sub-Streams** in which you can participate to boost usage, integration and adoption of MultiversX and Itheum technology and the rewards and prices will be distributed based on your outcomes with these streams. Let's explore:
 
@@ -63,4 +63,4 @@ The Hackathon is being run by Encode Club. To participate, head over here and re
 
 ## Rules and FAQs?
 
-Head over here for a [list of rules and FAQs](https://www.encode.club/multiversx-hackathon#block-yui\_3\_17\_2\_1\_1694526850047\_39820)
+Head over here for a [list of rules and FAQs](https://www.encode.club/multiversx-hackathon#block-yui_3_17_2_1_1694526850047_39820)
