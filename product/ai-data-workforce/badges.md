@@ -18,3 +18,13 @@ Badges are earned based on your actions and contributions within the AI Data Wor
 | **Bitz Pro**    | Top 10 position on monthly leaderboard for BiTz XP donators. | Donate BiTz tokens consistently to make the Top 10 leaderboard.                                            |
 | **Stream Pro**  | Top 10 position on monthly leaderboard for Data Streamers.   | Stream enough data to secure a Top 10 position. Users can climb up the leaderboard by listening to music.  |
 | **Creator God** | Creator who received the most BiTz donations in a month.     | Gain the highest number of BiTz donations as a creator.                                                    |
+
+
+
+#### **Let’s Get You Your First Badge! 🚀**
+
+Earning badges like **BiTzer** or **XP Elite** is an exciting way to kickstart your journey in the Itheum ecosystem. By earning **BiTz XP**, you gain the power to **vote for music content** in **NF-Tunes**. Your votes actively influence how **AI Agents** remix base tracks from musicians, helping create entirely new, dynamic music experiences.
+
+Below is a video of the journey&#x20;
+
+(Enter Video here)
