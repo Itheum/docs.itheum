@@ -3,7 +3,7 @@
 ## Burn Details
 
 {% hint style="success" %}
-15% of the ITHEUM max supply will be burned over three months, equating to 150,000,000 ITHEUM tokens. This reduces the max supply from 1 billion to 850 million.
+15% of the ITHEUM max supply will be burned over a maximum 3 months (90 days), equating to 150,000,000 ITHEUM tokens. This reduces the max supply from 1 billion to 850 million. The total burn can be sped up to 1.5 months (45 days) if public usage of the protocol triggers a "boosted burn" rate.&#x20;
 {% endhint %}
 
 **Where the tokens come from - Breakdown:**
@@ -15,11 +15,12 @@
 
 **Daily Burn Rate:**
 
-* The daily burn rate can be tracked live here:[ Token Analytics Dashboard](https://explorer.itheum.io/analytics).
-* A daily **base burn rate** of 0.0X% is applied. However, based on the last seven days’ usage of Data NFTs and the growth of Liveliness TVL, a **boosted burn rate** of up to 0.0X% can be applied.
-* With the max burn rate, the entire burn process could be completed in 1.5 months instead of 3 months.
+* The daily burn can be tracked live here:[ Token Analytics Dashboard](https://explorer.itheum.io/analytics)
+* A daily **base burn rate** of 0.16% (1,666,667 tokens) is applied. However, based on the last seven days’ usage of Data NFTs and the growth of Liveliness TVL, a **boosted burn rate** of up to 0.33% (3,333,333 tokens) can take effect — speeding up the daily burn.
+* With the boosted burn rate, the entire burn process could be completed in 45 days instead of 90 days.
+* Once 150,000,000 ITHEUM tokens are burned, regardless on if this happens at any time within 90 days, then the this burn program will end
 
-This **dynamic mechanism** empowers the community to actively participate in accelerating the burn by engaging with the Itheum protocol.
+This **dynamic boosted mechanism** empowers the community to actively participate in accelerating the burn by engaging with the Itheum protocol.
 
 
 
@@ -52,4 +53,5 @@ Community engagement directly influences the burn rate. By using Itheum products
 2. NFMe ID with Liveliness Bond:
 3. Mint or top up NFMe IDs:[ AI Workforce](https://ai-workforce.itheum.io/). Earn 40% APR staking rewards while contributing to TVL growth.
 
+\
 What are you waiting for, go and speed up the burn!
