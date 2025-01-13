@@ -16,7 +16,7 @@
 **Daily Burn Rate:**
 
 * The daily burn can be tracked live here:[ Token Analytics Dashboard](https://explorer.itheum.io/analytics)
-* A daily **base burn rate** of 0.16% (1,666,667 tokens) is applied. However, based on the last seven days’ usage of Data NFTs and the growth of Liveliness TVL, a **boosted burn rate** of up to 0.33% (3,333,333 tokens) can take effect — speeding up the daily burn.
+* A daily **base burn rate** of 0.16% (1,666,667 tokens) is applied. However, based on some usage metrics of the protocol, a **boosted burn rate** of up to 0.33% (3,333,333 tokens) can take effect — speeding up the daily burn.
 * With the boosted burn rate, the entire burn process could be completed in 45 days instead of 90 days.
 * Once 150,000,000 ITHEUM tokens are burned, regardless on if this happens at any time within 90 days, then the this burn program will end
 
