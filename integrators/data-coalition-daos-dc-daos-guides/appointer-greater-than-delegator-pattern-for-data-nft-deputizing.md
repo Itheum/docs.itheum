@@ -1,8 +1,8 @@
 # Appointer > Delegator Pattern for Data NFT "Deputizing"
 
-This pattern is core to how [data-coalition-daos-dc-daos.md](../../r-and-d/data-coalition-daos-dc-daos.md "mention")work, but fundamentally this pattern can be used by any Smart Contract to enable it to "manage" Data NFTs on behalf of someone else who owns the Data NFTs, whilst allowing an external (approved) entity to open the Data NFTs to view the Data Stream.
+This pattern is core to how [data-coalition-daos-dc-daos.md](../../product/data-coalition-daos-dc-daos.md "mention")work, but fundamentally this pattern can be used by any Smart Contract to enable it to "manage" Data NFTs on behalf of someone else who owns the Data NFTs, whilst allowing an external (approved) entity to open the Data NFTs to view the Data Stream.
 
-[data-nft](../../infrastructure/data-nft/ "mention")s are minted by multiple entities; individuals, enterprises or 3rd party app developers using the [data-nft-sdk](../../developers/software-development-kits-sdks/data-nft-sdk/ "mention"). Ultimately, all these Data NFTs end up in "end-user wallets" (externally owned wallets). These Data NFTs can then be listed on NFT marketplaces and other NFT platforms by transferring your Data NFTs to these 3rd party Smart Contracts to give them "temporary ownership". However, given the specific method the Data Marshal Network uses to authenticate ownership of a Data NFT expects the "true" owner to make the "open this Data NFT" request, it's not possible for a Smart Contract with "temporary ownership" to open a Data NFT. It's also NOT useful for a Smart Contract to open a Data NFT as it cannot do anything with the data in its execution environment.&#x20;
+[data-nft](../../product/data-nft/ "mention")s are minted by multiple entities; individuals, enterprises or 3rd party app developers using the [data-nft-sdk](../../developers/software-development-kits-sdks/data-nft-sdk/ "mention"). Ultimately, all these Data NFTs end up in "end-user wallets" (externally owned wallets). These Data NFTs can then be listed on NFT marketplaces and other NFT platforms by transferring your Data NFTs to these 3rd party Smart Contracts to give them "temporary ownership". However, given the specific method the Data Marshal Network uses to authenticate ownership of a Data NFT expects the "true" owner to make the "open this Data NFT" request, it's not possible for a Smart Contract with "temporary ownership" to open a Data NFT. It's also NOT useful for a Smart Contract to open a Data NFT as it cannot do anything with the data in its execution environment.&#x20;
 
 {% hint style="success" %}
 What would be useful is if the Smart Contract could specify a 3rd Party "end-user wallet" (externally owned wallet) to be able to open the Data NFT and do something useful with the Data. In this aspect, the Smart Contract "Appoints" an external "Deputy" addresses and appoints it to be able to open any Data NFT in the Smart contract possession.
@@ -12,7 +12,7 @@ What would be useful is if the Smart Contract could specify a 3rd Party "end-use
 
 ### Th**is pattern enables some powerful new use cases for Data NFTs:**
 
-* [data-coalition-daos-dc-daos.md](../../r-and-d/data-coalition-daos-dc-daos.md "mention") - DAOs that manage your data
+* [data-coalition-daos-dc-daos.md](../../product/data-coalition-daos-dc-daos.md "mention") - DAOs that manage your data
 * **Data Leasing platforms** - Smart Contract platforms that can lease data for you (monthly subscriptions, pay-per-use, etc) by deputizing a 3rd party to use the data.
 * **Complex Data NFT liquid staking/re-staking/**&#x66;ractionalization **platforms** - send your Data NFTs to a 3rd party Smart Contract which then delegates it to other Smart Contracts for nested usage of your Data NFTs (e.g. fractionalization of data ownership, liquid staking / re-staking of Data NFTs)
 * ... and many more.

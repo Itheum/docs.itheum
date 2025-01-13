@@ -1,6 +1,6 @@
 # How to view a Trailblazer
 
-The owner of an Itheum Trailblazer can choose to view the raw data of the Data NFT or explore an intuitive interface that presents the Data Stream in a more absorbable format. This refined view is available on the [Itheum Explorer](../../apps/itheum-explorer.md). Once you procure a data NFT you can either:
+The owner of an Itheum Trailblazer can choose to view the raw data of the Data NFT or explore an intuitive interface that presents the Data Stream in a more absorbable format. This refined view is available on the [Itheum Explorer](../../product/itheum-explorer.md). Once you procure a data NFT you can either:
 
 **I. View Raw Data on the Data Dex:**
 

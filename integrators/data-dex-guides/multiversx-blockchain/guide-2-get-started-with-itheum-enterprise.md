@@ -4,7 +4,7 @@
 This feature is in Beta and only available on devnet.
 {% endhint %}
 
-[itheum-enterprise.md](../../../r-and-d/itheum-enterprise.md "mention") is a product that "wraps" around the [data-nft-lease.md](../../../infrastructure/data-nft/data-nft-types/data-nft-lease.md "mention") type of Data NFTs, but provides a powerful yet simple user interface, full flexibility, and control over your Data NFT-LEASE collection. It provides a seamless way to mint your own NFT collection, attach data to your NFTs (i.e. make them Data NFTs), and then curate, administer and manage your NFT collection - an end-to-end lifecycle for Data NFT management.\
+[itheum-enterprise.md](../../../product/itheum-enterprise.md "mention") is a product that "wraps" around the [data-nft-lease.md](../../../product/data-nft/data-nft-types/data-nft-lease.md "mention") type of Data NFTs, but provides a powerful yet simple user interface, full flexibility, and control over your Data NFT-LEASE collection. It provides a seamless way to mint your own NFT collection, attach data to your NFTs (i.e. make them Data NFTs), and then curate, administer and manage your NFT collection - an end-to-end lifecycle for Data NFT management.\
 \
 In this guide, we will explore how you can get started with Itheum Enterprise by using the "Management Dashboard", a "no-code" app to interact with the Itheum Enterprise product.
 

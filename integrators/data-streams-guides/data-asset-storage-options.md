@@ -17,6 +17,6 @@ To get you started in your Data Asset storage journey, you can pick some recomme
 ## Store Data and Mint a Data NFT - Step-by-Step Tutorial
 
 {% hint style="success" %}
-Watch this short video to see how easy it is to store your data and mint a Data NFT : [store-data-and-mint-a-data-nft-step-by-step-tutorial.md](../../apps/data-dex/minting-a-data-nft/store-data-and-mint-a-data-nft-step-by-step-tutorial.md "mention")
+Watch this short video to see how easy it is to store your data and mint a Data NFT : [store-data-and-mint-a-data-nft-step-by-step-tutorial.md](../../product/data-dex/minting-a-data-nft/store-data-and-mint-a-data-nft-step-by-step-tutorial.md "mention")
 {% endhint %}
 

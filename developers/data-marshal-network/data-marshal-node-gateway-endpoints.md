@@ -1,6 +1,6 @@
 # Data Marshal Node Gateway Endpoints
 
-The Data Marshal is the node that brokers the trade of data between a Data Creator and a Data Consumer. Learn more about the [Data Marshal here](../../infrastructure/data-marshal-network.md)
+The Data Marshal is the node that brokers the trade of data between a Data Creator and a Data Consumer. Learn more about the [Data Marshal here](../../product/data-marshal-network.md)
 
 When you mint a Data NFT via the [Data DEX DApp](https://stg.datadex.itheum.io/) (devnet) or via the [Data NFT SDK,](../software-development-kits-sdks/data-nft-sdk/) you will be asked for a Data Marshal gateway endpoint as one of the minting parameters. \
 \

@@ -6,7 +6,7 @@ This guide is specific to using Itheum's Data NFTs in combination with the Multi
 
 ## Introduction
 
-If you want a backend service or API that needs to be the Data Stream API for a single Data NFT or for an entire collection of Data NFTs part of [itheum-enterprise.md](../../r-and-d/itheum-enterprise.md "mention"), then this guide will provide you with a template and some steps to get you started fast.\
+If you want a backend service or API that needs to be the Data Stream API for a single Data NFT or for an entire collection of Data NFTs part of [itheum-enterprise.md](../../product/itheum-enterprise.md "mention"), then this guide will provide you with a template and some steps to get you started fast.\
 \
 Here is how it works:
 

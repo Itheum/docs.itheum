@@ -28,7 +28,11 @@ Itheum transforms this paradigm by creating a bridge between humans and AI agent
 
 With Itheum’s latest protocol upgrade, we’ve built the data infrastructure that enables AI agents to grow smarter while empowering people to monetize their data and attention.
 
+<figure><img src=".gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
 **This is data for the AI era.**\
 It’s time to unlock the true value of your data—powered by Itheum.\
 \
-let's explorer the key products of Itheum...
+**Want to learn more?**\
+\> Explorer the [short Lite paper here](https://api.itheumcloud.com/files_misc/Itheum-Protocol-One-Pager-Litepaper.pdf)\
+\> or let's explorer the key products of Itheum...

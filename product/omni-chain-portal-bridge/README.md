@@ -4,7 +4,7 @@ description: >-
   (other chains coming)
 ---
 
-# 🌉 Omni-Chain Portal Bridge
+# 🌉 Token Bridge
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge Itheum Protocol Assets between MultiversX and Solana (other chains coming)</p></figcaption></figure>
 

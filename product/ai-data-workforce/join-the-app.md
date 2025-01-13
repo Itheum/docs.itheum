@@ -1,4 +1,4 @@
-# Join the App
+# Join the Workforce
 
 Becoming part of the AI Data Workforce is simple and straightforward and you can join for free (intial onboarding steps are completely free to you). The app will guide you step by step as you unlock the power of co-creating new data with AI Agents.
 

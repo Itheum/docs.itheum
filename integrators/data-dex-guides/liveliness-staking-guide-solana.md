@@ -13,7 +13,7 @@ In the below sections we will dive into:&#x20;
 In this section we will cover minting of a NFMe.id Vault. Please follow the below instructions:
 
 1. Navigate to the [minting page](https://datadex.itheum.io/mintdata)
-2.  Click on "Mint Data NFT" and go through the minting steps as mentioned [here](../../apps/data-dex/minting-a-data-nft/).&#x20;
+2.  Click on "Mint Data NFT" and go through the minting steps as mentioned [here](../../product/data-dex/minting-a-data-nft/).&#x20;
 
     <figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 3.  Once the NFMe.id Vault is minted you will see the below in the [Liveliness page](https://datadex.itheum.io/datanfts/wallet/bonding). Your newly minted NFMe.ID , you can set this as your Primary Data NFT to claim rewards. You can change this Primary Data NFT to other data NFTs that you have minted.
@@ -47,4 +47,4 @@ In this section we will review the Rewards that have been accrued and actions to
     1. In the case you decide to "Reinvest Rewards":  Note down your current “Combined Bonds Staked” and the Rewards Accrued. Click on Reinvest Rewards. The combined bond should be updated with the addition of the rewards. (The Reinvest rewards button enabled if rewards > 1)
     2. Note that if your liveliness is below 95% you will able to reinvest only a portion of your rewards
 
-For details on the calculations involved in staking, read more [here](../../infrastructure/liveliness-on-chain-reputation/liveliness-staking.md).
+For details on the calculations involved in staking, read more [here](../../protocol/itheum-life-liveliness-and-reputation-signalling/data-creator-staking.md).
