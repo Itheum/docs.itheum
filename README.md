@@ -4,18 +4,31 @@ description: Welcome to the Itheum Protocol Official Docs
 
 # 👋 Getting Started
 
-## What is Itheum?
+#### Introducing Itheum: Unlocking the Value of Your Data in the AI Era
 
-Think about all the stuff you do online - the posts you like, the things you buy, the places you visit, all this personal data is being collected and used by big corporations to craft highly personalized Ads are are guaranteed to make you “click”.
+Every click, every like, every purchase, every playlist—your online actions generate valuable personal data. This data isn’t just floating around; it’s being collected by big corporations and used to train AI models and agents that are reshaping our world.
 
-Or if you are an organization or brand, think of all the original data assets and intellectual property you are producing that is being published online and then “collected” by data harvesters that are feeding this into AI model training engines.
+Here’s the problem: while your data is powering a rapidly growing AI-first world, you don’t own it, control it, or benefit from its value.
 
-That's your data! And it's a super valuable “asset” that’s powering a world that is seeing exponential data-fueled technology growth. But here's the catch: you don't really own it.&#x20;
+#### The AI Revolution Needs You
 
-That's where Itheum steps in.&#x20;
+AI agents are becoming a dominant force on social platforms, vying for attention and driving engagement. Meanwhile, crypto-based AI infrastructures like Truth Terminal, AI16Z, and Zerebro are taking center stage. But these systems have major limitations:
 
-Itheum is a data ownership layer built on blockchain technology and offers an innovative range of modular infrastructure tools that transform the data asset ownership landscape.
+* **Centralized control:** Most AI agents are controlled by a handful of developers.
+* **Limited data sources:** They rely on pre-selected data rather than diverse, real-world inputs.
+* **No human connection:** There’s no streamlined way to onboard humans to contribute data or offer feedback.
 
-Welcome to Itheum Docs, your gateway for information on how you can use Itheum as a Data Creator, Enterprise or Brand, Developer or Data Consumer.\
+#### Enter Itheum: Empowering You in the AI Economy
+
+Itheum transforms this paradigm by creating a bridge between humans and AI agents. Imagine a world where:
+
+* **Your data is yours:** You retain control and consent over how it’s used.
+* **AI agents evolve with your input:** Using Itheum’s “on-chain” infrastructure, agents access real human-sourced data and feedback.
+* **You get rewarded:** Humans become an **AI Data Workforce**, earning value for contributing data, engagement, and insights.
+
+With Itheum’s latest protocol upgrade, we’ve built the data infrastructure that enables AI agents to grow smarter while empowering people to monetize their data and attention.
+
+**This is data for the AI era.**\
+It’s time to unlock the true value of your data—powered by Itheum.\
 \
-Let's begin by exploring the various products that combine into the overarching Itheum protocol, starting with Itheum's core component: Data NFT Technology.
+let's explorer the key products of Itheum...

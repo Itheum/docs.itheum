@@ -1,8 +1,8 @@
-# Data Creator Staking
+# Liveliness Staking
 
 ## Introduction
 
-**Data Creator Staking module enables creators and consumers to earn by participating in the ITHEUM ecosystem.**
+**The Liveliness Staking module enables creators and consumers to earn by participating in the ITHEUM ecosystem.**
 
 **Upon creating a Data NFT or NFMe ID Vault, the user will be able to see it in the bonding page. They will also be able to see statistics of the staking program.**
 

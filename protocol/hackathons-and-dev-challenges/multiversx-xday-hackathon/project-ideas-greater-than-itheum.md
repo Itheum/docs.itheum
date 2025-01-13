@@ -124,7 +124,7 @@ Mint a [Nested Streams](../../../developers/software-development-kits-sdks/data-
 
 <summary>Build a Ticketing App using Itheum Enterprise</summary>
 
-[itheum-enterprise.md](../../../product/itheum-enterprise.md "mention") will be launches within the shortly. Use the [enterprise-sdk](../../../developers/software-development-kits-sdks/enterprise-sdk/ "mention") to build a ticketing app; allowing the issuance of a ticket as a Data NFT that includes the generation of a barcode for permissioned entry a stream of data and rewards linked to the Data NFT as a Data Stream.
+[itheum-enterprise.md](../../../r-and-d/itheum-enterprise.md "mention") will be launches within the shortly. Use the [enterprise-sdk](../../../developers/software-development-kits-sdks/enterprise-sdk/ "mention") to build a ticketing app; allowing the issuance of a ticket as a Data NFT that includes the generation of a barcode for permissioned entry a stream of data and rewards linked to the Data NFT as a Data Stream.
 
 </details>
 

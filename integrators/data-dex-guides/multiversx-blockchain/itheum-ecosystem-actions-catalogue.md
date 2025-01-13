@@ -1,4 +1,4 @@
-# 📄 Itheum Ecosystem Actions Catalogue
+# Itheum Ecosystem Actions Catalogue
 
 ### Brief
 

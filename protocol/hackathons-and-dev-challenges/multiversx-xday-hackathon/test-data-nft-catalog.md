@@ -72,4 +72,4 @@ The following are some test data NFTs we have published for developers who would
 
 ### 3. How do you obtain a data NFT?
 
-For details on how to obtain a data NFT, visit [Buying a data NFT](../../../product/data-nft-marketplace/procuring-a-data-nft.md)
+For details on how to obtain a data NFT, visit [Buying a data NFT](../../../apps/data-nft-marketplace/procuring-a-data-nft.md)

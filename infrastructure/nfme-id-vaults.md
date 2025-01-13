@@ -28,7 +28,7 @@ In other words, by bonding your $ITHEUM, you boost your Web3 reputation and earn
 
 **Learn More Here:**&#x20;
 
-* Mint a NFMe ID by following this guide: [liveliness-staking-guide.md](../integrators/data-dex-guides/liveliness-staking-guide.md "mention")
+* Mint a NFMe ID by following this guide: [liveliness-staking-guide-multiversx.md](../integrators/liveliness-staking-guides/liveliness-staking-guide-multiversx.md "mention")
 * More details on the product: [https://itheum.medium.com/introducing-nfme-id-mint-stake-earn-while-boosting-your-web3-liveliness-reputation-score-f15f69cfd729](https://itheum.medium.com/introducing-nfme-id-mint-stake-earn-while-boosting-your-web3-liveliness-reputation-score-f15f69cfd729)
 
 

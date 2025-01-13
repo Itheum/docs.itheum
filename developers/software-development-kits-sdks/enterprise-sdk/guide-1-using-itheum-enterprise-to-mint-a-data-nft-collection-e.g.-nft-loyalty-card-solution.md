@@ -8,13 +8,13 @@ This guide walks you through the entire process of using Itheum Enterprise and t
 
 #### What is Data NFT-Lease?&#x20;
 
-Itheum has 2 types of Data NFTs, the first is available on mainnet and called Data NFT-FT. These are fully transferable tokens that follow the SFT token design. They are intended to be a licensing mechanism for non-sensitive data assets like files and documents. It’s very easy to get started to mint and trade your data assets as Data NFT-FTs. But as the name indicates, they are “fully transferable” and are a licence type similar to perpetual licensing for data usage. But for more complex use-cases where you want to limit some transferability and oversee more control of the Data NFTs, you would use Data NFT-Lease. This standard follows the pure NFT pattern of tokenization of data licensing. It allows creators more flexibility on the use-cases that can be enabled by Data NFT technology. You will be able to create use-cases like loyalty cards, data vaults, identity platforms etc. Data NFTs part of the Data NFT-Lease design have the term “Lease” because of their ability to have their transferability controlled by the issuer as part of Itheum Enterprise, this means the tokens can be made “soulbound” based on various strategic requirements. This makes them “regulation friendly” if needed as well as being useful for sensitive use-cases (as you can prevent tradeability) or allow them to only be “leased” via some lending mechanism. This falls into alignment with more enterprise use-cases. Learn more here: [data-nft-lease.md](../../../product/data-nft/data-nft-types/data-nft-lease.md "mention")
+Itheum has 2 types of Data NFTs, the first is available on mainnet and called Data NFT-FT. These are fully transferable tokens that follow the SFT token design. They are intended to be a licensing mechanism for non-sensitive data assets like files and documents. It’s very easy to get started to mint and trade your data assets as Data NFT-FTs. But as the name indicates, they are “fully transferable” and are a licence type similar to perpetual licensing for data usage. But for more complex use-cases where you want to limit some transferability and oversee more control of the Data NFTs, you would use Data NFT-Lease. This standard follows the pure NFT pattern of tokenization of data licensing. It allows creators more flexibility on the use-cases that can be enabled by Data NFT technology. You will be able to create use-cases like loyalty cards, data vaults, identity platforms etc. Data NFTs part of the Data NFT-Lease design have the term “Lease” because of their ability to have their transferability controlled by the issuer as part of Itheum Enterprise, this means the tokens can be made “soulbound” based on various strategic requirements. This makes them “regulation friendly” if needed as well as being useful for sensitive use-cases (as you can prevent tradeability) or allow them to only be “leased” via some lending mechanism. This falls into alignment with more enterprise use-cases. Learn more here: [data-nft-lease.md](../../../infrastructure/data-nft/data-nft-types/data-nft-lease.md "mention")
 
 #### What is Itheum Enterprise?
 
 Itheum enterprise wraps the Data NFT-Lease technology to provide more governance and control over the NFT collections and also provide a mechanism for having protocol upgrades in the form of smart contract upgrades broadcast to all itheum enterprise users, who can then choose to opt-into specific upgrades.
 
-Learn more here what itheum enterprise is aiming to solve here: [itheum-enterprise.md](../../../product/itheum-enterprise.md "mention")
+Learn more here what itheum enterprise is aiming to solve here: [itheum-enterprise.md](../../../r-and-d/itheum-enterprise.md "mention")
 
 ***
 
@@ -95,7 +95,7 @@ Data Stream:
 * The GIFTXED1 is actually the “token name” you pick when you mint the token. The number 1 on the end can be the incrementing number that makes the token name unique. Note that you CAN’t use the Data NFT Identifier on this as you won’t know it for “sure” until AFTER you mint the NFT. You could “guess" it based on auto incrementing Nonce but maybe this may have some issues related to it.
 * In our example, based on the “token name” sent to the NFT image service, we get a unique image generated on the fly. E.g.\
   \
-  ![](https://lh7-us.googleusercontent.com/OcUxmh15Ky4dk92\_4lTxL1\_u4T-AnJqpmVNrZsf\_6fS2bGae97iIYWuxMNvZB2TbDv\_UhDHxCd7gcgX\_LF74cIm-25AbozSdt7FW4DC38OihJqkWY0lVHZ4ukFC00lxkwV8buIMj4A9ZFGhYR3CTRZI)
+  ![](https://lh7-us.googleusercontent.com/OcUxmh15Ky4dk92_4lTxL1_u4T-AnJqpmVNrZsf_6fS2bGae97iIYWuxMNvZB2TbDv_UhDHxCd7gcgX_LF74cIm-25AbozSdt7FW4DC38OihJqkWY0lVHZ4ukFC00lxkwV8buIMj4A9ZFGhYR3CTRZI)
 
 **Our Metadata Service:**\
 Similar to the image, we use a dynamic URL based on the “token name”: [https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicMetadataDemo/GIFTXED1\
