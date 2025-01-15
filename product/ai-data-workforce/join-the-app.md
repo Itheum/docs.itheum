@@ -10,8 +10,9 @@ Becoming part of the AI Data Workforce is simple and straightforward and you can
 
 #### **Watch How It Works**
 
-Learn how to join and progress through the stages in this quick introduction video:\
-&#xNAN;_(Place video here)_
+Learn how to join and progress through the stages in this quick introduction video:
+
+{% embed url="https://youtu.be/QXkTXkDMJp4" %}
 
 ***
 
