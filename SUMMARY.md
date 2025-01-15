@@ -7,6 +7,7 @@
 * [🚆 AI Data Workforce](product/ai-data-workforce/README.md)
   * [Token Utility for the AI Data Workforce](product/ai-data-workforce/token-utility-for-the-ai-data-workforce.md)
   * [Join the Workforce](product/ai-data-workforce/join-the-app.md)
+  * [Liveliness Staking Rewards](infrastructure/ai-data-workforce/liveliness-staking-rewards.md)
 * [🖼️ Data NFT](product/data-nft/README.md)
   * [Data NFT Types](product/data-nft/data-nft-types/README.md)
     * [Data NFT-FT](product/data-nft/data-nft-types/data-nft-ft.md)
