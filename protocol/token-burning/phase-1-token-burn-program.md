@@ -25,7 +25,14 @@ This **dynamic boosted mechanism** empowers the community to actively participat
 
 ## How the Burn Program Was Proposed and Passed
 
-The discussion and vote is currently underway on the Itheum Ecosystem DAO and is expected to be voted on soon. Participate here : [https://peerme.io/itheum-ecosystem-dao](https://peerme.io/itheum-ecosystem-dao)
+The idea for the token burn program originated within our DAO on November 11th 2024. We invited the community to contribute to the discussion, ensuring alignment with our decentralized governance ethos.
+
+* DAO Discussion Link:[ https://peerme.io/discuss/exploring-the-role-of-token-scarcity-in-strengthening-ecosystem-value](https://peerme.io/discuss/exploring-the-role-of-token-scarcity-in-strengthening-ecosystem-value)
+* X Announcement Link : [https://x.com/itheum/status/1859245625201533059](https://x.com/itheum/status/1859245625201533059)
+
+{% hint style="success" %}
+The [proposal was put to a vote on](https://peerme.io/proposals/Dv2dV4BGwz4b) Jan 15, 2025 and was passed with overwhelming support, garnering 2023100.8370 votes for YES vs 0.0000 votes for NO.  [X Announcement Link is here](https://x.com/itheum/status/1880510801569804538). The program officially comes into effect on January 18, 2025.
+{% endhint %}
 
 
 
@@ -54,3 +61,23 @@ Community engagement directly influences the burn rate. By using Itheum products
 
 \
 What are you waiting for, go and speed up the burn!
+
+
+
+## Burn Process & Burn Audit
+
+* Token burning will happen weekly (or worse case fortnightly). Each burn event will be called a "round"
+* Our community will be publicly notified on the burn rate for the week and how it was calculated (as the burn amount is dynamic and linked to protocol usage)
+* To ensure it's all done transparently and can be monitored by anyone, burn transactions can be seen on the official Itheum burn wallet : [https://explorer.multiversx.com/accounts/erd17exmcvh0wm2xx9ngas84vd3jyc4zgf6scg75tmncff6k3qnxux0qzw0mrf](https://explorer.multiversx.com/accounts/erd17exmcvh0wm2xx9ngas84vd3jyc4zgf6scg75tmncff6k3qnxux0qzw0mrf)
+* Burn transactions per round are as follows:
+
+| Round | Date        | Total Burned | Burn TX                                                                                                                                                                                                                        |
+| ----- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1     | 30 Jan 2025 | 19,724,229   | [https://explorer.multiversx.com/transactions/5ed0dd5412eb833427803462e3f6e56b087c18bc0cc8fa6efc4556699570c1b4](https://explorer.multiversx.com/transactions/5ed0dd5412eb833427803462e3f6e56b087c18bc0cc8fa6efc4556699570c1b4) |
+| 2     | coming      |              |                                                                                                                                                                                                                                |
+| N     | coming      |              |                                                                                                                                                                                                                                |
+
+
+
+
+
