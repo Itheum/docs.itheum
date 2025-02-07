@@ -41,7 +41,6 @@
 
 ## Integrators
 
-* [⚙️ Aithra Network](integrators/aithra-network.md)
 * [🔋 Liveliness Staking Guides](integrators/liveliness-staking-guides/README.md)
   * [Liveliness Staking Guide : Solana](integrators/data-dex-guides/liveliness-staking-guide-solana.md)
   * [Liveliness Staking Guide : MultiversX](integrators/data-dex-guides/liveliness-staking-guide.md)
