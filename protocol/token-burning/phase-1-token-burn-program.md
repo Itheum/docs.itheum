@@ -74,8 +74,11 @@ What are you waiting for, go and speed up the burn!
 | Round | Date        | Total Burned | Burn TX                                                                                                                                                                                                                        |
 | ----- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | 30 Jan 2025 | 19,724,229   | [https://explorer.multiversx.com/transactions/5ed0dd5412eb833427803462e3f6e56b087c18bc0cc8fa6efc4556699570c1b4](https://explorer.multiversx.com/transactions/5ed0dd5412eb833427803462e3f6e56b087c18bc0cc8fa6efc4556699570c1b4) |
-| 2     | 30 Jan 2025 | 13,817,066   | [https://explorer.multiversx.com/transactions/214479ba115319ec335eb5bf10c560879817edb60a299ddcf69bbdd36c987cca](https://explorer.multiversx.com/transactions/214479ba115319ec335eb5bf10c560879817edb60a299ddcf69bbdd36c987cca) |
-| N     | coming      |              |                                                                                                                                                                                                                                |
+| 2     | 7 Feb 2025  | 13,817,066   | [https://explorer.multiversx.com/transactions/214479ba115319ec335eb5bf10c560879817edb60a299ddcf69bbdd36c987cca](https://explorer.multiversx.com/transactions/214479ba115319ec335eb5bf10c560879817edb60a299ddcf69bbdd36c987cca) |
+| 3     | 14 Feb 2025 | 16,962,094   | [https://explorer.multiversx.com/transactions/d0917f310d65bc815390cae71cbc6ee8fb70af79274d9f2c3f5c79c13545382c](https://explorer.multiversx.com/transactions/d0917f310d65bc815390cae71cbc6ee8fb70af79274d9f2c3f5c79c13545382c) |
+| More  | Coming...   |              |                                                                                                                                                                                                                                |
+|       |             |              |                                                                                                                                                                                                                                |
+|       |             |              |                                                                                                                                                                                                                                |
 
 
 
