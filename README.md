@@ -4,6 +4,13 @@ description: Welcome to the Itheum Protocol Official Docs
 
 # 👋 Getting Started
 
+{% hint style="warning" %}
+Itheum is implementing deflationary tokenomics and conducting weekly $ITHEUM token burns triggered by increasing protocol usage. The aim is to increase token scarcity and align the token with our use case for agentic data tokenization and on-chain human and AI reputation, which requires strong market demand to perform its key utility.\
+\
+\> Read about the burn program here: [phase-1-token-burn-program.md](protocol/token-burning/phase-1-token-burn-program.md "mention")\
+\> Follow the weekly burns on our X: [https://x.com/itheum](https://x.com/itheum)
+{% endhint %}
+
 #### Introducing Itheum: Unlocking the Value of Your Data in the AI Era
 
 Every click, every like, every purchase, every playlist—your online actions generate valuable personal data. This data isn’t just floating around; it’s being collected by big corporations and used to train AI models and agents that are reshaping our world.
