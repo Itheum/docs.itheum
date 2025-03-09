@@ -78,8 +78,9 @@ What are you waiting for, go and speed up the burn!
 | 3              | 14 Feb 2025 | 16,962,094   | [https://explorer.multiversx.com/transactions/d0917f310d65bc815390cae71cbc6ee8fb70af79274d9f2c3f5c79c13545382c](https://explorer.multiversx.com/transactions/d0917f310d65bc815390cae71cbc6ee8fb70af79274d9f2c3f5c79c13545382c) |
 | 4              | 22 Feb 2025 | 18,028,277   | [https://explorer.multiversx.com/transactions/9f3d2a3d6690d2e46bc072e52018198d2161f618dd2e4fd9a69510eda05db7e0](https://explorer.multiversx.com/transactions/9f3d2a3d6690d2e46bc072e52018198d2161f618dd2e4fd9a69510eda05db7e0) |
 | 5              | 1 Mar 2025  | 17,018,567   | [https://explorer.multiversx.com/transactions/3f134a5836ec8ae3ca013f93e8e9c189f40592ba6c01a402a9484f0ee95c3cec](https://explorer.multiversx.com/transactions/3f134a5836ec8ae3ca013f93e8e9c189f40592ba6c01a402a9484f0ee95c3cec) |
-| More Coming... |             |              |                                                                                                                                                                                                                                |
+| 6              | 10 Mar 2025 | 13,921,474   | [https://explorer.multiversx.com/transactions/39f7001a37f9f4d891356545742d3679abd61fb477d50dcbbe4062dad57a1f27](https://explorer.multiversx.com/transactions/39f7001a37f9f4d891356545742d3679abd61fb477d50dcbbe4062dad57a1f27) |
 |                |             |              |                                                                                                                                                                                                                                |
+| More Coming... |             |              |                                                                                                                                                                                                                                |
 
 
 
