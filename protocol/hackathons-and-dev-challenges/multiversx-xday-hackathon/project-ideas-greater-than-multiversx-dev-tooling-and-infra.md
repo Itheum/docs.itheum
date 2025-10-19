@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Project Ideas > MultiversX Dev Tooling and Infra
 
 Here are some ideas to get your "creative juices" flowing. Note that these are just ideas and not "instructions," so use these to get some inspiration for your original ideas!
@@ -89,4 +75,4 @@ Create libraries, SDKs, toolkits, and resources aimed at simplifying MultiversX 
 </details>
 
 \
-Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../developers/tech-support-discord/)
+Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../pre-aithra/tech-support-discord/)

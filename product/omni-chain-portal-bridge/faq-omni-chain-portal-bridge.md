@@ -46,4 +46,4 @@ Or you can monitor the specific bridge direction status here:
 
 8. How can I get support if my transaction is on Hold or not showing?
 
-There is a dedicated support process for bridge users, you can learn more here [portal-bridge-support.md](../../developers/tech-support-discord/portal-bridge-support.md "mention")
+There is a dedicated support process for bridge users, you can learn more here [portal-bridge-support.md](../../pre-aithra/tech-support-discord/portal-bridge-support.md "mention")

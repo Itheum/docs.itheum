@@ -16,7 +16,7 @@ description: >-
 * Token Transactions generally bridge from one chain to the other in around 3-6 EPOCHs, and each epoch is 3 mins, so your tokens should transfer between 9 - 18 minutes. Sometimes it will be faster and at times with high congestion, it can be slower.&#x20;
 * Currently, there is a small fee (0.05 EGLD ) to move ITHEUM from MultiversX to Solana but a zero fee to move tokens from Solana to MultiversX. This can change in the future.
 * Do you want to test the Bridge before using it on Mainnet? You can our devnet bridge on [https://alpha-devnet.portal.itheum.io](https://alpha-devnet.portal.itheum.io/) and try it out. On MultiversX this uses the "devnet" and on Solana it uses the "testnet".&#x20;
-* If you have any issuers during bridging you can use our dedicated Support process as per [portal-bridge-support.md](../../developers/tech-support-discord/portal-bridge-support.md "mention")
+* If you have any issuers during bridging you can use our dedicated Support process as per [portal-bridge-support.md](../../pre-aithra/tech-support-discord/portal-bridge-support.md "mention")
 
 
 

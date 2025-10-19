@@ -57,7 +57,7 @@ Be part of the first cohort of users who test the Itheum Protocol Omni-Chain Por
 
 #### Setup:
 
-<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../integrators/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
+<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../pre-aithra/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
 
 <mark style="background-color:green;">**Step 2:**</mark> Setup a Solana Wallet like Phantom, and put your [Phantom wallet in "devnet" mode](https://www.youtube.com/watch?v=6o9lAZv2zAs)
 
