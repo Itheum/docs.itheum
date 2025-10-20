@@ -15,9 +15,9 @@ Itheum is implementing deflationary tokenomics and conducting weekly $ITHEUM tok
 On Oct 2025, the Itheum protocol upgraded to V3 (codename Itheum Aithra), which was a major re-focus and pivot.
 {% endhint %}
 
-## Itheum: Hyper-Digital, AGI-Ready Data
+<figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+## Itheum: Hyper-Digital, AGI-Ready Data
 
 Since 2018, **Itheum** has been driven by one mission - to build a world where data is **owned, not extracted**.
 

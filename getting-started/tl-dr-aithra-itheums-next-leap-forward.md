@@ -1,5 +1,7 @@
 # TL;DR - Aithra: Itheum’s Next Leap Forward
 
+<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+
 Since 2018, Itheum has been building toward a world where data is owned, not extracted. With Itheum Aithra (V3), we unify seven years of learnings - from healthcare data ownership to Data NFTs to AI privacy - into one mission: to create a full-stack Abstraction + Unification layer for data tokenization, storage, encryption, and IP licensing that powers the hyper-digital AGI data economy.
 
 
