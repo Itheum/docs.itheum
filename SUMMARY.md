@@ -1,18 +1,21 @@
 # Table of contents
 
 * [👋 Getting Started](README.md)
-  * [TL;DR - Aithra: Itheum’s Next Leap Forward](getting-started/tl-dr-aithra-itheums-next-leap-forward.md)
-  * [The Journey So Far - Learning Through Evolution](getting-started/the-journey-so-far-learning-through-evolution.md)
-  * [The Next Evolution: Introducing Itheum Aithra (V3)](getting-started/the-next-evolution-introducing-itheum-aithra-v3.md)
-  * [Core Thesis and Extended Vision](getting-started/core-thesis-and-extended-vision.md)
-  * [Architecture and Technology Overview](getting-started/architecture-and-technology-overview/README.md)
-    * [Workspace UI](getting-started/architecture-and-technology-overview/workspace-ui.md)
-    * [SDK / MCP](getting-started/architecture-and-technology-overview/sdk-mcp.md)
-  * [Commercialization Model and Token Utility](getting-started/commercialization-model-and-token-utility.md)
-  * [Building the Ecosystem: Consumer Apps and Distribution](getting-started/building-the-ecosystem-consumer-apps-and-distribution.md)
-  * [Itheum Aithra Roadmap](getting-started/itheum-aithra-roadmap.md)
-  * [Sunsetting Earlier Versions (V0–V2)](getting-started/sunsetting-earlier-versions-v0-v2.md)
-  * [Itheum Aithra – Community FAQ](getting-started/itheum-aithra-community-faq.md)
+
+## Itheum Aithra
+
+* [TL;DR - Aithra: Itheum’s Next Leap Forward](itheum-aithra/tl-dr-aithra-itheums-next-leap-forward.md)
+* [The Journey So Far - Learning Through Evolution](itheum-aithra/the-journey-so-far-learning-through-evolution.md)
+* [The Next Evolution: Introducing Itheum Aithra (V3)](itheum-aithra/the-next-evolution-introducing-itheum-aithra-v3.md)
+* [Core Thesis and Extended Vision](itheum-aithra/core-thesis-and-extended-vision.md)
+* [Architecture and Technology Overview](itheum-aithra/architecture-and-technology-overview/README.md)
+  * [Workspace UI](itheum-aithra/architecture-and-technology-overview/workspace-ui.md)
+  * [SDK / MCP](itheum-aithra/architecture-and-technology-overview/sdk-mcp.md)
+* [Commercialization Model and Token Utility](itheum-aithra/commercialization-model-and-token-utility.md)
+* [Building the Ecosystem: Consumer Apps and Distribution](itheum-aithra/building-the-ecosystem-consumer-apps-and-distribution.md)
+* [Itheum Aithra Roadmap](itheum-aithra/itheum-aithra-roadmap.md)
+* [Sunsetting Earlier Versions (V0–V2)](itheum-aithra/sunsetting-earlier-versions-v0-v2.md)
+* [Itheum Aithra – Community FAQ](itheum-aithra/itheum-aithra-community-faq.md)
 
 ## Protocol
 
