@@ -1,8 +1,8 @@
 # Itheum Aithra – Community FAQ
 
-## 1. Will Data NFTs still function on MultiversX after this transition?
+## 1. Will Data NFTs still function on MultiversX?
 
-Yes. The Data Streams behind each minted Data NFT are maintained by their original data creators. Many of the early Data Streams tied to MultiversX Data NFTs have already been disabled by their creators, meaning those NFTs have effectively downgraded into standard NFTs.\
+**Yes**. The Data Streams behind each minted Data NFT are maintained by their original data creators. Many of the early Data Streams tied to MultiversX Data NFTs have already been disabled by their creators, meaning those NFTs have effectively downgraded into standard NFTs.\
 \
 Newer Data NFTs - for example, those used in music applications - that rely on decentralized storage continue to work. It’s important to understand that decentralized data streams aren’t designed to live forever; most decentralized storage networks recycle unused space over time.\
 \
@@ -10,24 +10,11 @@ In short: as long as your Data NFTs are active and being used, they will continu
 
 ## 2. How can I use my Data NFTs if the Data DEX and Explorer are reaching EOS?
 
-The decision to sunset the Data DEX and Explorer was based on very low usage. However, the NFTs themselves remain fully functional as standard NFTs.\
+The decision to move the Data DEX and Explorer to **End-of-Support (EOS)** was primarily based on very low usage of these tools. However, the Data NFTs themselves remain fully functional as standard NFTs.\
 \
-If you wish to open or interact with a Data NFT without those UIs, you can use the Itheum SDK to build a small script to unlock and load your data.\
-Documentation: https://docs.itheum.io/product-docs/developers/software-development-kits-sdks/data-nft-sdk/guide-2-unlocking-data-nfts-via-multiversx-native-auth.\
+If you wish to open or interact with a Data NFT without those UIs, you can use the Itheum SDK to build a small script to unlock and load your data: [Documentation](https://docs.itheum.io/product-docs/developers/software-development-kits-sdks/data-nft-sdk/guide-2-unlocking-data-nfts-via-multiversx-native-auth.)\
 \
 Additionally, ecosystem tools like xFabric continue to support certain Data NFT types (e.g., Music NFTs). So long as those third-party integrations exist, older Data NFTs can still be accessed and consumed.
-
-## 3. If the bridge between MultiversX and Solana is shutting down, how can people move their $ITHEUM tokens?
-
-The MultiversX ↔ Solana bridge is being paused due to very low usage, which makes maintaining it a security risk at this stage.\
-\
-That said, there are still multiple ways to move $ITHEUM between chains. Users can swap $ITHEUM into native tokens such as $EGLD or $SOL, transfer across exchanges (CEXs or DEXs), and then swap back into $ITHEUM on the destination chain.\
-\
-The Itheum Portal Bridge isn’t being permanently decommissioned - it can be reactivated if market dynamics evolve or usage demand increases.
-
-## 4. If $ITHEUM is now defined as a governance token, how was the decision made to burn additional tokens?
-
-We’re currently trialing a governance platform that allows community-driven voting on major protocol matters. The additional burn proposal is undergoing community review and voting within that governance framework.
 
 ## 5. Is the $ITHEUM token itself reaching End-of-Life (EOS)?
 
@@ -39,7 +26,7 @@ That said, additional utilities can be proposed and reintroduced by community vo
 
 ## 6. Will there be any $ITHEUM token buybacks?
 
-Usage of the open-source infrastructure will generate revenue in crypto-native network tokens such as SOL, SUI, and USDC. A portion of these funds will be allocated toward protocol operations and builder grants. Another portion may be used for buybacks and burns, depending on governance decisions.\
+Usage of the [open-source infrastructure ](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview)will generate revenue in crypto-native network tokens such as SOL, SUI, and USDC. A portion of these funds will be allocated toward protocol operations and builder grants. Another portion may be used for buybacks and burns, depending on governance decisions.\
 \
 In essence, as protocol usage grows, the entire ecosystem benefits
 
@@ -53,7 +40,7 @@ No - Itheum is not removing support for MultiversX and has always been a multi-c
 \
 Much of our V1 and V2 tech stack - including smart contracts deployed on MultiversX - remains active and immutable. Our most innovative feature, the Data DEX (a market place for data trading) has all its smart contracts deployed in MultiversX (which can be stood up again in future if a Data Marketplace meta emerges). Also, our deepest liquidity still exists on xExchange, and we continue to value that ecosystem.\
 \
-What’s changing is that certain UI tools (like the Data DEX and Explorer) are being retired due to low usage, some of these tools are on MultilversX but some are also on Solana (e.g. Liveliness Staking + NFMe ID) Meanwhile, newer tools are being built on chains like SUI, Story, and Solana to support Aithra’s new advanced features (e.g., encryption, tokenization, IP licensing).\
+What’s changing is that certain UI tools (like the Data DEX and Explorer) are being retired due to low usage, some of these tools are on MultilversX but some are also on Solana (e.g. Liveliness Staking + NFMe ID) Meanwhile, [newer tools](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview) are being built on chains like SUI, Story, and Solana to support Aithra’s new advanced features (e.g., encryption, tokenization, IP licensing).\
 \
 This is expansion - not departure. Itheum continues to grow across multiple ecosystems.
 
@@ -77,7 +64,7 @@ As we await that inflection point, we’re directing our tech toward where data 
 \
 When data sovereignty becomes non-negotiable and not optional - Itheum will already be there.
 
-## 11. Many Web3 native projects are shutting down. Is this what’s happening here?
+## 11. Many Web3 native projects are shutting down as the crypto industry has m. Is there a risk that Itheum is heading down this path?
 
 Not at all. Itheum isn’t shutting down - we’re evolving.\
 \
@@ -89,3 +76,15 @@ We’ve seen this pattern across the industry:\
 • AI itself - decades in research before exploding into mainstream awareness.\
 \
 Itheum is following that same playbook. We’re laying the rails for a coming shift where data becomes the world’s most valuable asset. That shift hasn’t fully arrived - but when it does, Itheum will be ready.
+
+## 12. Who will use the new products you are building?
+
+Our [new products](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview) are designed for **real-world use cases** in AI and data-driven industries. We’re positioning them as **practical data infrastructure tools**, not futuristic blockchain experiments that no one knows how to use.
+
+Products like the [**Aithra Workspace UI**](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview/workspace-ui) and our [**SDK/MCP**](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview/sdk-mcp) will allow anyone to create **hyper-digital data assets** — ideal for industries such as **AI training, music, and media**, where IP sensitivity and data ownership are critical.
+
+Through **Itheum Gateways**, businesses can also commercialize and integrate our technology much like any other web2 solution — with enterprise-friendly onboarding, compliance options, and familiar business models. We are already seeing [this enterprise adoption emerging slowing but steadly](https://docs.itheum.io/product-docs/getting-started/building-the-ecosystem-consumer-apps-and-distribution)
+
+This evolution moves Itheum from a deep-web3 focus toward a broader **web2 and enterprise audience** — a deliberate repositioning to make our technology usable, scalable, and commercially relevant.
+
+Our long-term goal is to make Itheum the **full-stack abstraction and unification layer** for hyper-digital data creation and monetization — a model we believe will become essential as the world runs out of accessible AI training data and needs new technology to unlock richer, permissioned, and higher-quality datasets.

@@ -30,7 +30,7 @@ Be part of the first cohort of users who test the Itheum Protocol Minting and St
 
 #### Setup:
 
-<mark style="background-color:green;">**Step 1:**</mark> Setup a Solana Wallet. Only [Phantom Wallet](https://phantom.app/)[ ](../../../pre-aithra/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
+<mark style="background-color:green;">**Step 1:**</mark> Setup a Solana Wallet. Only [Phantom Wallet](https://phantom.app/)[ ](../../../pre-aithra/pre-aithra-integrators/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
 
 <mark style="background-color:green;">**Step 2:**</mark> Get some SOL (DEVNET SOL), which is required for gas payment on Solana.Login with your wallet from Step 1,  use [https://faucet.solana.com/](https://faucet.solana.com/) to get Sol.
 

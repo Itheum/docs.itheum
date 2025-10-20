@@ -75,4 +75,4 @@ Create libraries, SDKs, toolkits, and resources aimed at simplifying MultiversX 
 </details>
 
 \
-Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../pre-aithra/tech-support-discord/)
+Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../pre-aithra/pre-aithra-developers/tech-support-discord/)

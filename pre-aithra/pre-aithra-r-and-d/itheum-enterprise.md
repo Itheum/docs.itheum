@@ -42,5 +42,5 @@ In conclusion, Itheum Enterprise is more than just a suite of tools; it's a gate
 
 
 {% hint style="danger" %}
-Itheum Enterprise is in "devnet" mode so you can't use it on the MutiversX Mainnet. If you want lauch your own Data NFTs on MutiversX Mainnet, we recommend that you use the Data NFT-PH standard as described in this guide [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")
+Itheum Enterprise is in "devnet" mode so you can't use it on the MutiversX Mainnet. If you want lauch your own Data NFTs on MutiversX Mainnet, we recommend that you use the Data NFT-PH standard as described in this guide [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../pre-aithra-developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")
 {% endhint %}

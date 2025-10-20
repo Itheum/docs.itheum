@@ -7,7 +7,7 @@ The Trailblazer (TB) is a specialized Data NFT designed to leverage the capabili
 The project or organization owning the Trailblazer Data NFT is provided with a CSV **template/structure/schema** whereby they will be able to update events and activities. The CSV is then processed and hosted via JSON in AWS as a data stream.
 
 {% hint style="info" %}
-Further information can be found at [Data Streaming Automation - Trailblazer](../../data-streams-guides/amazon-web-services-aws/storage-aws-s3/data-nft-streaming-automation-trailblazer.md)
+Further information can be found at [Data Streaming Automation - Trailblazer](../../pre-aithra-integrators/data-streams-guides/amazon-web-services-aws/storage-aws-s3/data-nft-streaming-automation-trailblazer.md)
 {% endhint %}
 
 The Data NFT is then listed and made available for procurement from the Data NFT Marketplace. Upon procuring the Trailblazer Data NFT, the buyer now has gated access to the data stream. They can choose to view the raw data or visit the Trailblazer App on the Itheum Explorer and access a visual representation of the contents of the Data NFT.

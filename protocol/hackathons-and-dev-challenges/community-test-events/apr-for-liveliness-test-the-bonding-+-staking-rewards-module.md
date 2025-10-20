@@ -40,7 +40,7 @@ Be part of the first cohort of users who test the Itheum Protocol Staking Progra
 
 #### Setup:
 
-<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../pre-aithra/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
+<mark style="background-color:green;">**Step 1:**</mark> Setup a MultiversX Wallet. Only [DeFi Wallet ](../../../pre-aithra/pre-aithra-integrators/supported-wallets/multiversx-defi-wallet.md)is supported for this test event. Put your wallet in "DEVNET" mode if required (but this should happen automatically when you use the Portal as it's setup in DEVNET mode only).
 
 <mark style="background-color:green;">**Step 2:**</mark> Get some dEGLD (DEVNET EGLD), which is required for gas payment on MultiversX. Go here, [https://devnet-wallet.multiversx.com](https://devnet-wallet.multiversx.com/), login with your wallet from Step 1, and use the "Faucet" to get dEGLD. Alternately, you can use [https://r3d4.fr/faucet](https://r3d4.fr/faucet) to get dEGLD (Note! this is a 3rd party site so proceed with caution)
 

@@ -20,7 +20,7 @@ Build a "Data Wallet" browser plugin using our SDK that lets users have the Data
 
 Build a simple "Data Wallet" mobile app using our SDK that lets users have the Data NFTs they own conveniently available as they need it. A multi-platform mobile app using a framework like React Native or Flutter will be perfect for a simple app to work across Android and iOS.&#x20;
 
-Bonus points if you can also use our SDK to implement a "Mint This into a Data NFT," where the user can seamlessly connect to another app on the device (e.g., Health app on iOS or Google Fit app on Android), takes in a snapshot of the user's health and wellness data, uploads that to a Data Stream ([centralized](../../../pre-aithra/data-streams-guides/amazon-web-services-aws/) or [decentralized](../../../pre-aithra/data-streams-guides/akord-arweave-blockchain.md)) and then mints this into a Data NFT the user owns.&#x20;
+Bonus points if you can also use our SDK to implement a "Mint This into a Data NFT," where the user can seamlessly connect to another app on the device (e.g., Health app on iOS or Google Fit app on Android), takes in a snapshot of the user's health and wellness data, uploads that to a Data Stream ([centralized](../../../pre-aithra/pre-aithra-integrators/data-streams-guides/amazon-web-services-aws/) or [decentralized](../../../pre-aithra/pre-aithra-integrators/data-streams-guides/akord-arweave-blockchain.md)) and then mints this into a Data NFT the user owns.&#x20;
 
 </details>
 
@@ -36,9 +36,9 @@ Currently, you can only procure access to a Data NFT on the Data DEX by using $I
 
 <summary>Build a Seamless Decentralized Storage Solution for Itheum on Arweave</summary>
 
-One of the most requested features from Itheum users is a "seamless and secure" way to self host data and for generating a Data Stream that can be used in Data NFT minting. We offer manual solutions to generate Data Stream as per [these guides](../../../pre-aithra/data-streams-guides/) but we want to improve the user experience by automating tools for this. \
+One of the most requested features from Itheum users is a "seamless and secure" way to self host data and for generating a Data Stream that can be used in Data NFT minting. We offer manual solutions to generate Data Stream as per [these guides](../../../pre-aithra/pre-aithra-integrators/data-streams-guides/) but we want to improve the user experience by automating tools for this. \
 \
-The solution can enable the user to connect to their Arweave storage account, upload their files, and then seamlessly generate a "Data Stream" URL, which can be used to mint a Data NFT. You can explore tools like [Akord](https://akord.com/) (we also have a [manual guide for Akord](../../../pre-aithra/data-streams-guides/akord-arweave-blockchain.md) that you can read). Bonus points for any integration with Akord's "Vaults" that store encrypted data.
+The solution can enable the user to connect to their Arweave storage account, upload their files, and then seamlessly generate a "Data Stream" URL, which can be used to mint a Data NFT. You can explore tools like [Akord](https://akord.com/) (we also have a [manual guide for Akord](../../../pre-aithra/pre-aithra-integrators/data-streams-guides/akord-arweave-blockchain.md) that you can read). Bonus points for any integration with Akord's "Vaults" that store encrypted data.
 
 </details>
 
@@ -100,7 +100,7 @@ You can also make this a general-purpose "data bounty" system for the community 
 
 The Itheum platform seamlessly support PDF eBooks to be minted as Data NFTs. An example of such an eBook is the [MultiversX Infographics Data NFT](https://explorer.itheum.io/multiversx-infographics). \
 \
-Mint a [Nested Streams](../../../pre-aithra/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md)-based DApp experience that can point to a "courseware or book series" and mint this as a single Data NFT. For example, you can have a catalog of PDFs related to a specific topic, available as a single Nested Stream-based Data NFT. This will be similar to the [Music Player Nested Stream Data NFT detailed in this guide](../../../pre-aithra/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md), but this will be for eBooks.\
+Mint a [Nested Streams](../../../pre-aithra/pre-aithra-developers/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md)-based DApp experience that can point to a "courseware or book series" and mint this as a single Data NFT. For example, you can have a catalog of PDFs related to a specific topic, available as a single Nested Stream-based Data NFT. This will be similar to the [Music Player Nested Stream Data NFT detailed in this guide](../../../pre-aithra/pre-aithra-developers/software-development-kits-sdks/data-nft-sdk/guide-3-using-nested-streams-to-access-nested-data-assets-from-a-primary-data-stream.md), but this will be for eBooks.\
 \
 \> Check out this [demo video to get you started](https://www.youtube.com/watch?v=ieY3cr3dwCU)
 
@@ -110,7 +110,7 @@ Mint a [Nested Streams](../../../pre-aithra/software-development-kits-sdks/data-
 
 <summary>Build a Ticketing App using Itheum Enterprise</summary>
 
-[itheum-enterprise.md](../../../pre-aithra/pre-aithra-r-and-d/itheum-enterprise.md "mention") will be launches within the shortly. Use the [enterprise-sdk](../../../pre-aithra/software-development-kits-sdks/enterprise-sdk/ "mention") to build a ticketing app; allowing the issuance of a ticket as a Data NFT that includes the generation of a barcode for permissioned entry a stream of data and rewards linked to the Data NFT as a Data Stream.
+[itheum-enterprise.md](../../../pre-aithra/pre-aithra-r-and-d/itheum-enterprise.md "mention") will be launches within the shortly. Use the [enterprise-sdk](../../../pre-aithra/pre-aithra-developers/software-development-kits-sdks/enterprise-sdk/ "mention") to build a ticketing app; allowing the issuance of a ticket as a Data NFT that includes the generation of a barcode for permissioned entry a stream of data and rewards linked to the Data NFT as a Data Stream.
 
 </details>
 
@@ -136,4 +136,4 @@ Build a Personal Data Vault on Itheum Enterprise (launching soon), where users u
 
 
 
-Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../pre-aithra/tech-support-discord/)
+Do you have other ideas you want to add to this list? [Join and Discord and share your ideas](../../../pre-aithra/pre-aithra-developers/tech-support-discord/)
