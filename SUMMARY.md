@@ -8,6 +8,11 @@
   * [Architecture and Technology Overview](getting-started/architecture-and-technology-overview/README.md)
     * [Workspace UI](getting-started/architecture-and-technology-overview/workspace-ui.md)
     * [SDK / MCP](getting-started/architecture-and-technology-overview/sdk-mcp.md)
+  * [Commercialization Model and Token Utility](getting-started/commercialization-model-and-token-utility.md)
+  * [Building the Ecosystem: Consumer Apps and Distribution](getting-started/building-the-ecosystem-consumer-apps-and-distribution.md)
+  * [Itheum Aithra Roadmap](getting-started/itheum-aithra-roadmap.md)
+  * [Sunsetting Earlier Versions (V0–V2)](getting-started/sunsetting-earlier-versions-v0-v2.md)
+  * [Itheum Aithra – Community FAQ](getting-started/itheum-aithra-community-faq.md)
 
 ## Protocol
 

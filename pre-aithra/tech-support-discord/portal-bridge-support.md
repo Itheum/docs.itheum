@@ -7,6 +7,10 @@ In the event you encounter technical issues when using the [portal-traveler-test
 * Head over to our discord and join it: [https://itheum.io/discord](http://ithem.io/discord)
 * Once you pass the verification process, you should see the following "**bridge-support"** channel, and you can then click on "**Open Ticket**"
 
+{% hint style="warning" %}
+Please note that the Discord channel is now called support-ticket and NOT bridge-support
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A new **private ticket** is created for you where you can communicate privately with the support team
