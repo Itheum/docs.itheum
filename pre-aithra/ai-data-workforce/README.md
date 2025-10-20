@@ -14,7 +14,7 @@ Your journey begins by claiming a free **NFMe ID** — the first step in your pa
 
 **Bond your $ITHEUM to NFMe IDs** to grow your Liveliness Score and earn staking rewards. You can earn APR up to 40% while staking on your NFMe ID.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Earn rewards** by actively using the protocol and unlocking badges. Each badge reflects your participation and commitment to the AI Workforce.\
 

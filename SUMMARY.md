@@ -1,11 +1,13 @@
 # Table of contents
 
 * [👋 Getting Started](README.md)
-
-## Infrastructure
-
-* [Workspace UI](infrastructure/workspace-ui.md)
-* [SDK / MCP](infrastructure/sdk-mcp.md)
+  * [TL;DR - Aithra: Itheum’s Next Leap Forward](getting-started/tl-dr-aithra-itheums-next-leap-forward.md)
+  * [The Journey So Far - Learning Through Evolution](getting-started/the-journey-so-far-learning-through-evolution.md)
+  * [The Next Evolution: Introducing Itheum Aithra (V3)](getting-started/the-next-evolution-introducing-itheum-aithra-v3.md)
+  * [Core Thesis and Extended Vision](getting-started/core-thesis-and-extended-vision.md)
+  * [Architecture and Technology Overview](getting-started/architecture-and-technology-overview/README.md)
+    * [Workspace UI](getting-started/architecture-and-technology-overview/workspace-ui.md)
+    * [SDK / MCP](getting-started/architecture-and-technology-overview/sdk-mcp.md)
 
 ## Protocol
 
@@ -54,6 +56,7 @@
 
 ## \[PRE-Aithra]
 
+* [Itheum PRE-Aithra Release Intro](pre-aithra/itheum-pre-aithra-release-intro.md)
 * [\[PRE-Aithra\] Infrastructure](pre-aithra/pre-aithra-infrastructure.md)
 * [🚆 AI Data Workforce](pre-aithra/ai-data-workforce/README.md)
   * [Token Utility for the AI Data Workforce](pre-aithra/ai-data-workforce/token-utility-for-the-ai-data-workforce.md)

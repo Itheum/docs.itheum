@@ -80,7 +80,7 @@ To mint tokens on Solana on-demand, we had to keep the token"mintable" (on Solan
    We are committed to transparency, shuld you have any questions — please reach our team on Discord: [https://itheum.io/discord](https://itheum.io/discord)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example of Token being Marked as Risky as it is mintable</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Example of Token being Marked as Risky as it is mintable</p></figcaption></figure>
 
 
 
