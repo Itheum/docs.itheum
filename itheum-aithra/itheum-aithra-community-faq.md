@@ -1,14 +1,18 @@
 # Itheum Aithra – Community FAQ
 
-## 1. Will Data NFTs still function on MultiversX?
+## 1. is the Itheum Data NFT standard going away?
 
-**Yes**. The Data Streams behind each minted Data NFT are maintained by their original data creators. Many of the early Data Streams tied to MultiversX Data NFTs have already been disabled by their creators, meaning those NFTs have effectively downgraded into standard NFTs.\
+The **Data NFT** standard is probably the most innovative feature we have created, and the Itheum Protocol has produced close to 80K Data NFTs across MultiversX and Solana but minting & usage of Data NFTs have been in the decline over the last many months. The primary reason for this - is the decline in general interest for "NFTs" across the industry (with most NFT marketplaces across chains doing little to no volumes). In response to this macro environment change, we are changing the form of Data NFTs and removing the "NFT" brand, we are also adding more features to what these data assets can do, so the old Itheum Data NFT is effectively evolving to a new, more powerful data asset primitive called the "**hyper-digital data asset**", and tools like the [workspace-ui.md](architecture-and-technology-overview/workspace-ui.md "mention") produce these new type of data assets. Our goal will be have older Itheum Data NFTs backwards compliant with the tools/frameworks we build to support this new standard.
+
+## 2. Will Data NFTs still function on MultiversX and Solana?
+
+**Yes**. The Data Streams behind each minted Data NFT are maintained by their original data creators. Many of the early Data Streams tied to Data NFTs have already been disabled by their creators, meaning those NFTs have effectively downgraded into standard NFTs.\
 \
 Newer Data NFTs - for example, those used in music applications - that rely on decentralized storage continue to work. It’s important to understand that decentralized data streams aren’t designed to live forever; most decentralized storage networks recycle unused space over time.\
 \
 In short: as long as your Data NFTs are active and being used, they will continue to function.
 
-## 2. How can I use my Data NFTs if the Data DEX and Explorer are reaching EOS?
+## 3. How can I use my Data NFTs if the Data DEX and Explorer are reaching EOS?
 
 The decision to move the Data DEX and Explorer to **End-of-Support (EOS)** was primarily based on very low usage of these tools. However, the Data NFTs themselves remain fully functional as standard NFTs.\
 \
@@ -16,7 +20,7 @@ If you wish to open or interact with a Data NFT without those UIs, you can use t
 \
 Additionally, ecosystem tools like xFabric continue to support certain Data NFT types (e.g., Music NFTs). So long as those third-party integrations exist, older Data NFTs can still be accessed and consumed.
 
-## 5. Is the $ITHEUM token itself reaching End-of-Life (EOS)?
+## 4. Is the $ITHEUM token itself reaching End-of-Life (EOS)?
 
 Absolutely not - $ITHEUM remains at the heart of the protocol.\
 \
@@ -24,17 +28,17 @@ What’s changing is its role: the most sustainable and meaningful utility for n
 \
 That said, additional utilities can be proposed and reintroduced by community vote at any time - for example, a future reactivation of the Liveliness concept as a proof-of-reputation layer.
 
-## 6. Will there be any $ITHEUM token buybacks?
+## 5. Will there be any $ITHEUM token buybacks?
 
 Usage of the [open-source infrastructure ](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview)will generate revenue in crypto-native network tokens such as SOL, SUI, and USDC. A portion of these funds will be allocated toward protocol operations and builder grants. Another portion may be used for buybacks and burns, depending on governance decisions.\
 \
 In essence, as protocol usage grows, the entire ecosystem benefits
 
-## 7. Aithra is the evolution of Itheum, not a separate project, right?
+## 6. Aithra is the evolution of Itheum, not a separate project, right?
 
 Exactly. Aithra is simply the name of the Itheum V3 protocol release - it’s not a new product and does not introduce a new token. The $ITHEUM token remains the core governance and coordination asset of the Itheum ecosystem.
 
-## 8. Is Itheum removing support for MultiversX?
+## 7. Is Itheum removing support for MultiversX?
 
 No - Itheum is not removing support for MultiversX and has always been a multi-chain protocol.\
 \
@@ -44,7 +48,7 @@ What’s changing is that certain UI tools (like the Data DEX and Explorer) are 
 \
 This is expansion - not departure. Itheum continues to grow across multiple ecosystems.
 
-## 9. What will $ITHEUM holders be able to vote on?
+## 8. What will $ITHEUM holders be able to vote on?
 
 Examples of governance items that may be proposed include:\
 • Burning of remaining uncirculated supply\
@@ -54,7 +58,7 @@ Examples of governance items that may be proposed include:\
 \
 We believe web3 will return to its cypherpunk roots, where governance becomes the most valuable and enduring utility of a network token. $ITHEUM enables shared ownership and decision-making over the protocol’s future.
 
-## 10. Are we moving from “Data Ownership for People” to “Infrastructure for AI”?
+## 9. Are we moving from “Data Ownership for People” to “Infrastructure for AI”?
 
 Our mission has always been to help people own and earn from their data. That hasn’t changed - it’s simply evolving with the market.\
 \
@@ -64,7 +68,7 @@ As we await that inflection point, we’re directing our tech toward where data 
 \
 When data sovereignty becomes non-negotiable and not optional - Itheum will already be there.
 
-## 11. Many Web3 native projects are shutting down as the crypto industry has m. Is there a risk that Itheum is heading down this path?
+## 10. Many Web3 native projects are shutting down as the crypto industry has m. Is there a risk that Itheum is heading down this path?
 
 Not at all. Itheum isn’t shutting down - we’re evolving.\
 \
@@ -77,7 +81,7 @@ We’ve seen this pattern across the industry:\
 \
 Itheum is following that same playbook. We’re laying the rails for a coming shift where data becomes the world’s most valuable asset. That shift hasn’t fully arrived - but when it does, Itheum will be ready.
 
-## 12. Who will use the new products you are building?
+## 11. Who will use the new products you are building?
 
 Our [new products](https://docs.itheum.io/product-docs/getting-started/architecture-and-technology-overview) are designed for **real-world use cases** in AI and data-driven industries. We’re positioning them as **practical data infrastructure tools**, not futuristic blockchain experiments that no one knows how to use.
 
