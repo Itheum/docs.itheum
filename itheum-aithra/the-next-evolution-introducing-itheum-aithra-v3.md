@@ -8,7 +8,7 @@ Aithra represents the culmination of years of iteration - a redefinition of how 
 
 Over time, the internet has evolved from analog to digital, and now, we are entering the hyper-digital era - where data becomes programmable, verifiable, and interoperable across both humans and intelligent agents. Aithra abstracts the complexity of multiple blockchains, wallets, and payment systems into a seamless data infrastructure layer that enables this transition.
 
-### Why the World Needs Aithra Now
+### Why the World Needs Itheum Aithra Now
 
 AI has become mainstream, consuming vast amounts of data - mostly web-scraped from the public domain. That pool is finite, and in many ways, already exhausted. The world now needs data that goes beyond the “digital.”
 
