@@ -173,6 +173,7 @@
     * [Data Marshal Transit Flags and Headers](pre-aithra/pre-aithra-developers/data-marshal-network/data-marshal-transit-flags-and-headers.md)
   * [🛂 Tech Support - Discord](pre-aithra/pre-aithra-developers/tech-support-discord/README.md)
     * [Portal Bridge Support](pre-aithra/pre-aithra-developers/tech-support-discord/portal-bridge-support.md)
+    * [Migrating MultiversX BiTz XP to Solana BiTz XP](pre-aithra/pre-aithra-developers/tech-support-discord/migrating-multiversx-bitz-xp-to-solana-bitz-xp.md)
   * [🛒 Release Notes](pre-aithra/pre-aithra-developers/release-notes/README.md)
     * [Data DEX](pre-aithra/pre-aithra-developers/release-notes/data-dex.md)
     * [Itheum Explorer](pre-aithra/pre-aithra-developers/release-notes/itheum-explorer.md)
