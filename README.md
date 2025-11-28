@@ -12,7 +12,7 @@ Itheum is implementing deflationary tokenomics and conducting weekly $ITHEUM tok
 {% endhint %}
 
 {% hint style="success" %}
-On Oct 2025, the Itheum protocol upgraded to V3 (codename Itheum Aithra), which was a major re-focus and pivot.
+On Oct 2025, the Itheum protocol upgraded to V3 (codename Itheum Aithra), which was a major product re-focus and pivot and a public governance model for the public-goods technology and ecosystem operations.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>

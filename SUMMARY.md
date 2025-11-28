@@ -26,6 +26,7 @@
 * [🧨 Token Burning](protocol/token-burning/README.md)
   * [Phase 1 : Token Burn Program](protocol/token-burning/phase-1-token-burn-program.md)
 * [🏛️ Governance](protocol/governance/README.md)
+  * [Itheum DAO](protocol/governance/itheum-dao.md)
   * [Itheum Ecosystem DAO](protocol/governance/itheum-ecosystem-dao.md)
   * [Itheum xPand DAO](protocol/governance/itheum-xpand-dao/README.md)
     * [Itheum xPand Grants Program](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/README.md)
