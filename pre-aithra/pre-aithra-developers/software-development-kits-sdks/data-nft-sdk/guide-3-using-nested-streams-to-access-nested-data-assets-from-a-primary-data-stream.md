@@ -58,11 +58,9 @@ x-amz-meta-marshal-deep-fetch = 1
 {% hint style="success" %}
 **Cannot add custom HTTP Response Headers? No worries, we got you!**
 
-If you are using a static, decentralized data stream that's hosted on IPFS, IPNS, or even on a centralized location and you CANNOT add HTTP Response headers, you can still trigger the Nested Stream workflow for your data by adding a`dmf-nestedstream=1` parameter to your Data Stream URL when minting.\
+If you are using a static, decentralized data stream that's hosted on IPFS, IPNS, or even on a centralized location and you CANNOT add HTTP Response headers, you can still trigger the Nested Stream workflow for your data by adding a`dmf-nestedstream=1` parameter to your Data Stream URL when minting.<br>
 
-
-Here are some example Data Stream URLs with this parameter:\
-
+Here are some example Data Stream URLs with this parameter:<br>
 
 1. https://gateway.lighthouse.storage/ipfs/QmSpzKpcayVeAoMP89HAP5EijbAdUsg85PdGA4k4jxYqdh?dmf-nestedstream=1
 2. ipns://my-hash?dmf-nestedstream=1

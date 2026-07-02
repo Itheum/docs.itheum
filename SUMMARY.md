@@ -14,7 +14,8 @@
 * [Commercialization Model and Token Utility](itheum-aithra/commercialization-model-and-token-utility.md)
 * [Building the Ecosystem: Consumer Apps and Distribution](itheum-aithra/building-the-ecosystem-consumer-apps-and-distribution.md)
 * [Itheum Aithra Roadmap](itheum-aithra/itheum-aithra-roadmap.md)
-* [Sunsetting Earlier Versions (V0–V2)](itheum-aithra/sunsetting-earlier-versions-v0-v2.md)
+* [Sunsetting Earlier Versions (V0–V2)](itheum-aithra/sunsetting-earlier-versions-v0-v2/README.md)
+  * [MultiversX Liveliness Stacking - Manual Withdraw Guide](itheum-aithra/sunsetting-earlier-versions-v0-v2/multiversx-liveliness-stacking-manual-withdraw-guide.md)
 * [Itheum Aithra – Community FAQ](itheum-aithra/itheum-aithra-community-faq.md)
 
 ## Protocol

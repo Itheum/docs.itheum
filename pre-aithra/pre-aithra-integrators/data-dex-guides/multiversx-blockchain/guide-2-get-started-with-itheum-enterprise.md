@@ -26,8 +26,7 @@ In this detailed SDK guide, we will walk you through the process of:
 
 But to make the guide more practical, let's first detail the a real-world user story that we will aim to achieve by following this guide.\
 \
-[#in-a-hurry-watch-a-demo-video-of-this-guide](guide-2-get-started-with-itheum-enterprise.md#in-a-hurry-watch-a-demo-video-of-this-guide "mention") if you want a quick intro to getting started with Itheum Enterprise.\
-
+[#in-a-hurry-watch-a-demo-video-of-this-guide](guide-2-get-started-with-itheum-enterprise.md#in-a-hurry-watch-a-demo-video-of-this-guide "mention") if you want a quick intro to getting started with Itheum Enterprise.<br>
 
 ## Target User Story:
 

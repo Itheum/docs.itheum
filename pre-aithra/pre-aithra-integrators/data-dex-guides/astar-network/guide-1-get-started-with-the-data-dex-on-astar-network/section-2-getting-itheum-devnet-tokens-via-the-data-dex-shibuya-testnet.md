@@ -1,8 +1,7 @@
 # Section 2: Getting ITHEUM devnet tokens via the Data DEX  - Shibuya Testnet
 
 **Step 1)** In the same browser as the one with your MetaMask as setup above, navigate to the following Data DEX App: [http://datadex-demo.itheum.tech\
-\
-](http://datadex-demo.itheum.tech)
+<br>](http://datadex-demo.itheum.tech)
 
 **Step 2)** Make sure your “Data Seller” account is active on MetaMask
 
@@ -18,8 +17,7 @@
 
 **Step 4)** You should now be successfully logged into the Data DEX app on the Astar Network Shibuya Testnet, and you will be presented with your account's "dashboard" view.&#x20;
 
-Note that your ITHEUM token balance on your header will be showing 0. The ITHEUM token is the utility token of the Itheum protocol. It will be used across the Itheum ecosystem for features such as unlocking data access and governance and generally incentivize positive behavior across Itheum's protocol apps and tools.\
-
+Note that your ITHEUM token balance on your header will be showing 0. The ITHEUM token is the utility token of the Itheum protocol. It will be used across the Itheum ecosystem for features such as unlocking data access and governance and generally incentivize positive behavior across Itheum's protocol apps and tools.<br>
 
 <figure><img src="https://lh3.googleusercontent.com/oIrZFqIvEVHdlt_A6Re_LA0xWM88wufR0TkUGPmSpmHPuak-MmCkPMDZZ2hCfLChKxQyHZWWPeGazSa_PFvo6dRbRxlGrtgYdMMLtLd60yqPs97-Sqcv9-CW9nhVPVjQVi9I20trtONWAvrufw3--sw" alt=""><figcaption></figcaption></figure>
 
@@ -53,8 +51,7 @@ Scroll down to the “ITHEUM Faucet” tile on the Dashboard and click “Send m
 
 **Step 9)** Let’s wait a few minutes and use the Faucet again to claim another 50 ITHEUM Testnet tokens. We should now have 100 ITHEUM Testnet tokens in your wallet, which should be sufficient for us to proceed with the other guides.
 
-\
-
+<br>
 
 **Step 10)** You have been using the “Data Seller” account; repeat this Faucet claiming steps for the “Data Buyer” account.
 

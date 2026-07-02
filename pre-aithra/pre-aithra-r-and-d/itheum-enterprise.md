@@ -38,8 +38,7 @@ Itheum Enterprise plays a pivotal role in catalyzing the global adoption of the 
 
 
 
-In conclusion, Itheum Enterprise is more than just a suite of tools; it's a gateway for enterprises to champion data sovereignty while benefiting from the efficiencies of blockchain technology. With Itheum Enterprise, businesses can embrace CSR initiatives, expand their customer base, and contribute to the emerging era where data sovereignty prevails over data exploitation.\
-
+In conclusion, Itheum Enterprise is more than just a suite of tools; it's a gateway for enterprises to champion data sovereignty while benefiting from the efficiencies of blockchain technology. With Itheum Enterprise, businesses can embrace CSR initiatives, expand their customer base, and contribute to the emerging era where data sovereignty prevails over data exploitation.<br>
 
 {% hint style="danger" %}
 Itheum Enterprise is in "devnet" mode so you can't use it on the MutiversX Mainnet. If you want lauch your own Data NFTs on MutiversX Mainnet, we recommend that you use the Data NFT-PH standard as described in this guide [guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md](../pre-aithra-developers/software-development-kits-sdks/data-marshal-network-sdk/guide-1-make-your-regular-nft-collection-to-be-data-nft-ph-compatible.md "mention")

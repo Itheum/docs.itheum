@@ -2,10 +2,9 @@
 
 <figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption><p>An Active Liveliness Score by a Data Creator</p></figcaption></figure>
 
-As explained in the intro page [Broken link](broken-reference "mention"), Itheum “Liveliness” scores are a measurement of your reputation, participation, activity, and advocacy of the new data economy.
+As explained in the intro page [Broken link](/broken/pages/bwfhaMPMfY96Hq5MQUBp "mention"), Itheum “Liveliness” scores are a measurement of your reputation, participation, activity, and advocacy of the new data economy.
 
-For Data Creators (i.e. Data NFT Minters), “Liveliness'  scores are established during the Data NFT minting process, where the creator will need to deposit a **Slashable Bond** (**sBond**) for a DAO-determined **“Bond period” (e.g. 3 Months).** After doing so, the Creator can mint their own data as Data NFTs. The Liveliness scores “depletes” as we reach closer to the “**Bond Period**” expiry date, effectively this signals to Data Consumers that the Creator is “active” and has a stake in the game for any bar behavior. \
-
+For Data Creators (i.e. Data NFT Minters), “Liveliness'  scores are established during the Data NFT minting process, where the creator will need to deposit a **Slashable Bond** (**sBond**) for a DAO-determined **“Bond period” (e.g. 3 Months).** After doing so, the Creator can mint their own data as Data NFTs. The Liveliness scores “depletes” as we reach closer to the “**Bond Period**” expiry date, effectively this signals to Data Consumers that the Creator is “active” and has a stake in the game for any bar behavior. <br>
 
 <figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption><p>Depeting Liveliness Score of a Data Creator</p></figcaption></figure>
 

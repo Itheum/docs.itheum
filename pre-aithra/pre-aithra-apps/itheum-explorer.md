@@ -40,8 +40,7 @@ Data Widgets are "community built," so anyone can build and contribute a widget 
 
 ### Data Widgets can compose Data NFTs
 
-Data widgets can also be built over "combinations of Data NFTs", i.e., you can mix and match various Data NFTs and build a single Widget that utilizes them. For, you can have one Data NFT that provides raw data on token holders for a specific token (e.g., EGLD), and you can have another Data NFT that holds USDC token holders and then merge them into a single widget visualization that shows relationships between token holders.\
-
+Data widgets can also be built over "combinations of Data NFTs", i.e., you can mix and match various Data NFTs and build a single Widget that utilizes them. For, you can have one Data NFT that provides raw data on token holders for a specific token (e.g., EGLD), and you can have another Data NFT that holds USDC token holders and then merge them into a single widget visualization that shows relationships between token holders.<br>
 
 ### Why should you build a Data Widget?
 

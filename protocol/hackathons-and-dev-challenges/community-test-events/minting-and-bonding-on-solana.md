@@ -49,8 +49,7 @@ Actions:
 
 Mint your **NFMe.ID Vault Data NFT** and confirm it's in your wallet.
 
-<mark style="background-color:blue;">**Task 1:**</mark> Take a screenshot similar to the example below that shows "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**\
-
+<mark style="background-color:blue;">**Task 1:**</mark> Take a screenshot similar to the example below that shows "Y**our Liveliness Rewards**"  and **"Your Data NFT Liveliness Bonds"**<br>
 
 <figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 

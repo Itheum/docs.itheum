@@ -26,8 +26,7 @@ Note that this above instruction is only related to the "name of the S3 bucket",
 
 ### Step 2) Enable "Static website hosting" for your bucket
 
-Once you have created your S3 bucket, the next step is to configure it for website hosting. To do this, navigate to the "**Properties"** tab of your bucket and click on **“Static website hosting.”** Select the "**Host a static website"** option and enter an "**index document"** (a dummy index.html file will do, this file does not need to exist). Click the **“Save changes”** button to save your settings.\
-
+Once you have created your S3 bucket, the next step is to configure it for website hosting. To do this, navigate to the "**Properties"** tab of your bucket and click on **“Static website hosting.”** Select the "**Host a static website"** option and enter an "**index document"** (a dummy index.html file will do, this file does not need to exist). Click the **“Save changes”** button to save your settings.<br>
 
 <figure><img src="../../../../../.gitbook/assets/image (86).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -8,4 +8,4 @@ Here we are minting a Music Data NFT, but you can follow this guide to mint any 
 
 {% embed url="https://www.youtube.com/watch?v=XyO0XltFVZM" %}
 
-\
+<br>

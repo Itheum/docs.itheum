@@ -2,8 +2,7 @@
 
 **Step 1)** Install MetaMask and connect to the Astar Network Shibuya Network
 
-Here are the details you can use to add the new network to MetaMask:\
-
+Here are the details you can use to add the new network to MetaMask:<br>
 
 * Network Name : **Shibuya Network**
 * New RPC URL : [**https://evm.shibuya.astar.network/**](https://evm.shibuya.astar.network/)

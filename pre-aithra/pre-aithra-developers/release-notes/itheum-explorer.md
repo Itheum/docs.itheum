@@ -204,4 +204,4 @@ More Notes: [https://github.com/Itheum/explorer-dapp/releases/tag/v1.20](https:/
 * Fixed the showing of supply 0 even if it’s not the case
 * Fixed misc issues on My Listed and My Wallet pages to reflect accurate data from on-chain lookup
 
-\
+<br>

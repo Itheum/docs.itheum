@@ -1,7 +1,6 @@
 # Cohorts vs Alpha Builders
 
-The separate **Programs** that make up the [.](./ "mention") - for example, [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention"), will each have two types of participants. Each **Program** will begin with an open call for applicants and before the officially begins, two types of participants will be selected. Here we explain the different difference these participants.\
-
+The separate **Programs** that make up the [.](./ "mention") - for example, [program-1-multiversx-post-hackathon-accelerator.md](../program-1-multiversx-post-hackathon-accelerator.md "mention"), will each have two types of participants. Each **Program** will begin with an open call for applicants and before the officially begins, two types of participants will be selected. Here we explain the different difference these participants.<br>
 
 ## Cohorts
 

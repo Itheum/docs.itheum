@@ -12,8 +12,7 @@ In this detailed SDK guide, we will walk you through the process on:
 1. Minting a Custom Data NFT Collection
 2. Protecting Data Streams with Authentication
 
-But to make the guide more practical, let's first detail the a real-world user story that we will aim to achieve by following this guide.\
-
+But to make the guide more practical, let's first detail the a real-world user story that we will aim to achieve by following this guide.<br>
 
 ## Target User Story:
 

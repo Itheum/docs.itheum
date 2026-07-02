@@ -16,8 +16,7 @@ Your journey begins by claiming a free **NFMe ID** — the first step in your pa
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Earn rewards** by actively using the protocol and unlocking badges. Each badge reflects your participation and commitment to the AI Workforce.\
-
+**Earn rewards** by actively using the protocol and unlocking badges. Each badge reflects your participation and commitment to the AI Workforce.<br>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

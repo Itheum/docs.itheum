@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Project Ideas > MultiversX Dev Tooling and Infra
 
 Here are some ideas to get your "creative juices" flowing. Note that these are just ideas and not "instructions," so use these to get some inspiration for your original ideas!

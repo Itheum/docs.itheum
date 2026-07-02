@@ -36,8 +36,7 @@ Click on the below "icon" to copy your address. Your MultiversX address will sta
 
 <figure><img src="https://lh3.googleusercontent.com/gQlOJvaerW-TUuReNP5b60NIiTnQ5do43rO9vvDqD39s-NjkMjLKXd26D8fyMDXurUuu68U2UBAa6casVLudQ1ZF_Q3rLKS6JVRmBCBXY9mHaTi9F8I0mEMxqU_iupj445CfYobHA_cu9uYgXHQkmI0" alt="" width="375"><figcaption></figcaption></figure>
 
-Now, swap to your other wallet, which has xEGLD (e.g., Data Seller), and click on “Send.”\
-
+Now, swap to your other wallet, which has xEGLD (e.g., Data Seller), and click on “Send.”<br>
 
 <figure><img src="https://lh6.googleusercontent.com/JL9zjERnxK7fWN2PxEASbw_QNdL34VwQRxgwuFUr1P9EiLemZe6wdGkr3krjjoGo5sQBc-56IOyE3bt2U26C00MKDO510sH3KXvOz93_7n-74re4zERo6vb22yEpph96_AG5JvdmOGZ_OLgIC1EyxqM" alt="" width="375"><figcaption></figcaption></figure>
 

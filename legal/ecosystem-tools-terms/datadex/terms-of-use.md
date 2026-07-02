@@ -315,8 +315,7 @@ These Terms are governed by the laws of Romania. Each party irrevocably and unco
 
 By accessing or using Itheum Enterprise, users explicitly agree to abide by the terms outlined above.
 
-\
-
+<br>
 
 #### For any questions and notices, please contact us at:
 

@@ -5,8 +5,7 @@ description: Create Your Unique Data NFT Images with Itheum's Easy Generative To
 # Data NFT Generative Image Tool
 
 Itheum introduces a unique Generative Image Generation Tool as part of the [Data DEX minting ](https://datadex.itheum.io/)tools for Data NFT-FT creators. This tool allows you to effortlessly generate exclusive visual Data NFT images and NFT metadata files that look similar to the below examples.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="300"><figcaption></figcaption></figure>
 

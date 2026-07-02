@@ -93,8 +93,7 @@ For item (3),  the total collected pool will be distributed with a **vesting per
 1. Support projects in any way needed (tech, product etc)
 2. Hand hold and provide solutions to the problems they face while building
 3. Periodic code reviews
-4. Any changes to the product in terms of SDK usage or bottlenecks which can be addressed by the developers\
-
+4. Any changes to the product in terms of SDK usage or bottlenecks which can be addressed by the developers<br>
 
 ### Week 4-5: Review & Launch Phase
 
@@ -102,8 +101,7 @@ For item (3),  the total collected pool will be distributed with a **vesting per
 2. Internal testing - Itheum Internal Team, Alpha OGs, Ambassadors/Advocates will test the product and report the bugs
 3. Implement the fixes and debug the reported bugs/Critical issues
 4. Retesting and solution touch-ups
-5. At the end of this stage the Demo MVP should be ready for “Demo Day”\
-
+5. At the end of this stage the Demo MVP should be ready for “Demo Day”<br>
 
 ### Demo Day
 

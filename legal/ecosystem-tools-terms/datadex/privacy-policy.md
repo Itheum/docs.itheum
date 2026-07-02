@@ -126,8 +126,7 @@ We may amend this Privacy Statement from time to time. Use of information we col
 
 If you have any questions or concerns regarding privacy of the Application, please send us a detailed message at privacy@itheum.io. We will make every effort to resolve your concerns.
 
-\
-
+<br>
 
 #### For any questions and notices, please contact us at:
 

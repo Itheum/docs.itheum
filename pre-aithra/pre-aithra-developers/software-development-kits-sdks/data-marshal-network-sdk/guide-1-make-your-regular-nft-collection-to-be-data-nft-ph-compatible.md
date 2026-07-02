@@ -61,15 +61,13 @@ So, with this approach, you can have the same Data Stream URL for all your token
 How can you make your Public API MultiversX Native Auth Protected and be a compatible Data Stream URL? The good news is that it's not hard, and we have a detailed guide and code templates you can use to get this down. Head over here : [multiversx-native-auth-protected-api.md](../../../pre-aithra-integrators/data-streams-guides/multiversx-native-auth-protected-api.md "mention")
 {% endhint %}
 
-At the end of this step, you should have a public, Native Auth-protected API that you can use as the Data Stream URL for all the NFT tokens in your collection. Your new API should be similar to `https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicSecureDataStreamDemo` \
-
+At the end of this step, you should have a public, Native Auth-protected API that you can use as the Data Stream URL for all the NFT tokens in your collection. Your new API should be similar to `https://api.itheumcloud-stg.com/datadexapi/bespoke/dynamicSecureDataStreamDemo` <br>
 
 Once you have this Data Stream URL, just one more step is required to make your new NFT collection, Data NFT-PH compatible.
 
 ## Step 2: Include Custom Attributes in your NFT's Metadata File
 
-Adding Data NFT compatibility to a regular NFT token is achieved by including some "custom metadata attribute fields" in your NFT's JSON Metadata file. It should be noted that these Attributes are "non-sensitive" (i.e. not sensitive data like keys or identity etc).\
-
+Adding Data NFT compatibility to a regular NFT token is achieved by including some "custom metadata attribute fields" in your NFT's JSON Metadata file. It should be noted that these Attributes are "non-sensitive" (i.e. not sensitive data like keys or identity etc).<br>
 
 <table><thead><tr><th width="259">Custom NFT Attribute</th><th>Notes</th></tr></thead><tbody><tr><td>itheum_data_stream_url</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>The origin where your data will be served from. You must obtain a Data Marshal encrypted version of the Data Stream URL you setup in Step 1 of this guide.<br><br><strong>Learn how to get the encrypted version of your  data_stream_url in the next step</strong> </td></tr><tr><td>itheum_creator</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>The wallet that is considered to be the "creator" and "owner" of the <strong>data_stream_url</strong>. This should be a wallet that you as the NFT collection creator actually owns and operates and something that you can use (if requested at anytime) to generate "signatures". It can also be the NFT creator wallet as well, but that's not mandatory (as most NFT launchpad / CandyMachine based NFT collections have a Smart Contract as the creator). Ideally, it's a "end user wallet" that can generate signatures when needed.</td></tr><tr><td>itheum_data_marshal_url</td><td><mark style="color:yellow;"><strong>Mandatory: Needs a valid value</strong></mark><br><br>A "default" data marshal url for your Data NFT, see <a data-mention href="../../data-marshal-network/data-marshal-node-gateway-endpoints.md">data-marshal-node-gateway-endpoints.md</a> for more information.</td></tr><tr><td>itheum_data_preview_url</td><td>A "default" preview url for your data, on Itheum's platform tools like the <a data-mention href="../../../pre-aithra-apps/data-nft-marketplace/">data-nft-marketplace</a> or <a data-mention href="../../../pre-aithra-apps/data-dex/">data-dex</a>or even the <a data-mention href="../data-nft-sdk/">data-nft-sdk</a> - we use this to request and show a "Data Preview" for new users. Ideally, this is a fully public URL with a "sample" of the real data and is used to provide new Data NFT users and consumers an idea of the type of data they can unlock by purchasing a Data NFT.</td></tr><tr><td>itheum_creation_time</td><td>Used in the same above Itheum's platform tools to improve user experience and transparency. </td></tr><tr><td>itheum_title</td><td>A "default" title for your Data NFT, used in the same above Itheum's platform tools to improve user experience.<br><br>A 10-60 alphanumeric-only title that describes your collection. e.g.<br><code>NFT boosts APR in ChampDEX; share trade insights via Data NFT stream.</code></td></tr><tr><td>itheum_description</td><td>A "description" title for your Data NFT,  Used in the same above Itheum's platform tools to improve user experience.<br><br>The description field can also be used to add any specific "terms of use" URL if needed.<br><br>A 10-400 alphanumeric-only title that describes your collection. e.g. <br><code>DefiChamps NFT holders unlock boosted APRs in the ChampDEX and can share ownership of their historic trade insights data via a Data NFT compatible portable data stream. For terms of use visit https://defichamps.nft/terms</code></td></tr></tbody></table>
 
@@ -125,8 +123,7 @@ runJob();
 ```
 {% endcode %}
 
-... now that you have an encrypted "**itheum\_data\_stream\_url**" value, we can proceed with the next steps.\
-
+... now that you have an encrypted "**itheum\_data\_stream\_url**" value, we can proceed with the next steps.<br>
 
 ### 2.2) Adding the Custom Attributes to your NFT's JSON Metadata File
 

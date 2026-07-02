@@ -8,8 +8,7 @@ A Public URL for your S3 bucket and data asset usually looks something like this
 
 And you could directly use this S3 Bucket Public URL as a Data Stream to mint a new Data NFT. \
 \
-But we highly recommend you "abstract" this AWS public URL and use a custom domain name YOU own and control. By doing this, we can put our own custom domain name to sit in front of your AWS S3 bucket, allowing us to have some extra layer of protection and flexibility for your data stream. For example, remove our "dependency" on AWS S3 for data storage. This means that you can move the data assets to a new data storage service even AFTER we mint the Data NFT. This also protects you if you accidentally delete the AWS S3 bucket or lose access to your AWS account. This level of flexibility is excellent, and we highly recommend this approach. Let's get started.\
-
+But we highly recommend you "abstract" this AWS public URL and use a custom domain name YOU own and control. By doing this, we can put our own custom domain name to sit in front of your AWS S3 bucket, allowing us to have some extra layer of protection and flexibility for your data stream. For example, remove our "dependency" on AWS S3 for data storage. This means that you can move the data assets to a new data storage service even AFTER we mint the Data NFT. This also protects you if you accidentally delete the AWS S3 bucket or lose access to your AWS account. This level of flexibility is excellent, and we highly recommend this approach. Let's get started.<br>
 
 ### Step 1) **Decide on the domain name and path you would like to serve your data stream**&#x20;
 

@@ -30,8 +30,7 @@ The supply is manually balanced and is transparently done with the transactions 
 
 6. **What is an "Epoch"? and how long does it take to bridge tokens between MultiversX and Solana?**
 
-The bridge uses the concept of Epochs to work, think of an Epoch as a "time interval" where certain actions happen, in a blockchain for example, you can collect a bunch of transactions in a fixed Epoch (time interval - e.g. 15 mins) and then process them at once to create a block.\
-
+The bridge uses the concept of Epochs to work, think of an Epoch as a "time interval" where certain actions happen, in a blockchain for example, you can collect a bunch of transactions in a fixed Epoch (time interval - e.g. 15 mins) and then process them at once to create a block.<br>
 
 The Itheum portal bridge used a 3 min Epoch, where transactions are collected in an Epoch and then generally processed in 2-5 Epochs after that. So in total it can take around 3-6 EPOCHs, and each epoch is 3 mins, so your tokens should transfer between 9 - 18 minutes. Sometimes it will be faster and at times with high congestion, it can be slow.
 

@@ -2,6 +2,24 @@
 description: >-
   Itheum was a proud sponsor of the XDay 2023 Hackathon that will be held
   between September 21st - October 21st 2023.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # MultiversX xDay Hackathon
@@ -24,8 +42,7 @@ Along with promoting development within the MultiversX blockchain, we are also p
 
 Itheum is also calling all hackathon developers across all tracks to "#BuildOnItheum". Did you know that Itheum is Web3 Data brokerage infrastructure? This means that you can use our platform as a data brokerage infrastructure layer for your DApp.\
 \
-The top 5 most creative ideas that utilize Itheum Technology "under the hood" will share in a price pool of 500,000 ITHEUM tokens. \
-
+The top 5 most creative ideas that utilize Itheum Technology "under the hood" will share in a price pool of 500,000 ITHEUM tokens. <br>
 
 ### Why should you #BuildOnItheum?
 

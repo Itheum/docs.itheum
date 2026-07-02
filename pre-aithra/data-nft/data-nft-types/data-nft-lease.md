@@ -22,4 +22,4 @@ Data NFT-LEASE is part of the Itheum Enterprise product, which provides a "contr
 
 ### Ready to join Itheum Enterprise?
 
-Are you are brand, web3 project or enterprise that wants to use Itheum Enterprise? Your first step is to email us on _hello@itheum.io_ and speak to our team.\
+Are you are brand, web3 project or enterprise that wants to use Itheum Enterprise? Your first step is to email us on _hello@itheum.io_ and speak to our team.<br>

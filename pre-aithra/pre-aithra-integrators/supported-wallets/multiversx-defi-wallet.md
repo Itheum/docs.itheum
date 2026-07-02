@@ -12,24 +12,20 @@ Wallets don't have custody of your funds, you do. Before utilizing the Multivers
 
 #### Add MultiversX DeFi Wallet to your browser[​](https://docs.multiversx.com/wallet/wallet-extension/#add-multiversx-defi-wallet-to-your-browser)
 
-*   On the [Chrome Web Store Extension](https://chrome.google.com/webstore/detail/multiversx-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm), search for MultiversX DeFi Wallet. and add it to your browser.\
-
+*   On the [Chrome Web Store Extension](https://chrome.google.com/webstore/detail/multiversx-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm), search for MultiversX DeFi Wallet. and add it to your browser.<br>
 
     <figure><img src="https://lh3.googleusercontent.com/aZEBunRtx70CYY-NOR2lmnRsXbPVcUe4DtxTUfFWWyNacjyaNNPr-6nS8GUSgNNPmC1yKUP1JwMOSsF9nbCNj4xJeOpHduoM_kTx8amVen-wy346gvXZegMxbVyft8vJGnTXLwbFaDtXzNGkLR49ZCo" alt=""><figcaption></figcaption></figure>
-*   Confirm the action in the pop-up.\
-
+*   Confirm the action in the pop-up.<br>
 
     <figure><img src="https://lh6.googleusercontent.com/q6TxA6Jnt89rv5eWRYsjgLwEnjMWkPQ-5_u_jYYpx-DxoUheOHbIP2WaWOrRKamxi9qGAC2aT0MaFbcHTj77d1tjPCWbqJD4gaCMH5s_1Hs84Zsl9_XSYEvckytjdN_VDOYZGsB3jap_iSfRz8pP-F8" alt=""><figcaption></figcaption></figure>
-*   You should receive a notification that the extension has been added successfully.\
-
+*   You should receive a notification that the extension has been added successfully.<br>
 
     <figure><img src="https://lh4.googleusercontent.com/O_Ti9S1B2sAfpcyMnVpk_V3KBTGiPcu1vqPKawzSaGR6tcVK1Vath77cSz0l7m2BRar--68N_VmcLn5xlIFUKm5LUUPqPUt65IfRYj594aqmlyVArtIXE3Jp3_ybpkWcW7KSGdXloTNFWdt3rOY-K18" alt=""><figcaption></figcaption></figure>
 
 #### Set up MultiversX DeFi wallet[​](https://docs.multiversx.com/wallet/wallet-extension/#set-up-multiversx-defi-wallet)
 
 * Once it has been successfully installed, click on the extension to get started.
-*   You will be presented with two options: you can either Create new wallet or Import existing wallet.\
-
+*   You will be presented with two options: you can either Create new wallet or Import existing wallet.<br>
 
     <figure><img src="https://lh5.googleusercontent.com/9SZMSuC6MK3bYeQrRm0Wvr8yOiISkdqmYfOQdqL4BN2j_gnKlakONCMXgMk4YSEmEyhNvhdInIgd82ng8EiC4zCyBNg3wHORbVhsn1Hs4tbD2mtID8pN9aEFFT-SjL4MI2Ru7va8_BiP41Z_5u6WUok" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +86,6 @@ Step 4: Completed! Your MultiversX DeFi Wallet has been successfully imported an
 **Obtaining your ERD Address**
 
 * Open up your MultiversX Wallet extension.
-*   Next, click on the "deposit" and copy wallet address.\
-
+*   Next, click on the "deposit" and copy wallet address.<br>
 
     <figure><img src="https://lh5.googleusercontent.com/ZjbVB3kr_0gewe5qdnqo7MEpKn5V3-c9Gsj35YSX6GjzwYCazom6tPc-ahoUNS4FTfyA5CudTrMi4pLmlDlDhJD2dXAYQD3apyCxg46_T8O9PbrOJzDSs1AX0sxqit1PgMwZNKHMJG5bl5oAbcjQiZU" alt=""><figcaption></figcaption></figure>

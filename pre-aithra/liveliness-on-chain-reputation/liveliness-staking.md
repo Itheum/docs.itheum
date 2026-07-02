@@ -46,4 +46,4 @@ _Multiplier = Combined liveliness/100_
 
 If however the combined livelines is above 95% then the user can receive their full rewards.
 
-\
+<br>

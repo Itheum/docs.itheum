@@ -18,4 +18,4 @@ We pivoted to “Bulk Data” Data NFTs for AI training, gaming, and music - alo
 
 Across all versions, we learned the vital importance of timing, market fit, and cultural readiness. The idea of data ownership is powerful, but to find true product-market fit, it must align with where the world is heading.
 
-\
+<br>
