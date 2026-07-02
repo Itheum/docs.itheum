@@ -26,6 +26,8 @@ You already know which wallet address you used for sure, so you just need to fin
 
 <figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
+Note that on Mainnet, most likely your bond is from our official Data NFT collection here so look out for SFTs in your wallet from here: [https://explorer.multiversx.com/collections/DATANFTFT-e936d4](https://explorer.multiversx.com/collections/DATANFTFT-e936d4)
+
 
 
 **Technical Way:**\
