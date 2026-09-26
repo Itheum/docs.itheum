@@ -4,7 +4,7 @@ icon: sidebar-flip
 
 # Workspace UI
 
-Aithra Workspace is a clean, intuitive web interface that lets anyone turn ordinary files into hyper-digital data assets - tokenized, privacy-controlled, and ready for the AGI-driven data economy.
+The Workspace UI is a human-operated interface to Itheum infrastructure. Project Agenta can use it where a person needs to prepare data, rights, or access settings for an agent workflow.
 
 With a simple drag-and-drop upload, users can instantly begin shaping their data into something much more powerful. Each step in the Workspace flow adds optional intelligence and control - from how files are stored, encrypted, or shared, to whether they can be tokenized, licensed, or even used for federated AI learning.
 
@@ -17,8 +17,8 @@ You can:
 * **Attach IP licensing** to define how others can use it - including options for creative, commercial, or AI-training rights.
 * **Enable federated learning** to let AI systems train on your data and pay you for it.
 
-When finished, Aithra Workspace presents a **clear summary and cost breakdown** before you complete payment in USDC - making it transparent and predictable to publish your data on-chain.
+When finished, Workspace presents a summary and cost breakdown before payment in USDC.
 
-The result: a seamless, web3-native experience that transforms your everyday digital files into **sovereign, monetizable data assets** - assets built for the emerging **AGI era**, where data ownership, privacy, and value all converge.
+The result is a web3-native workflow for creating programmable data assets with defined rights and privacy controls.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

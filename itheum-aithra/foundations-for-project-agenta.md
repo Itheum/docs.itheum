@@ -1,8 +1,8 @@
-# The Journey So Far - Learning Through Evolution
+# Foundations for Project Agenta
 
-Since its inception in 2018, Itheum has constantly evolved through industry cycles, guided by a single goal: to empower people and organizations to own, control, and trade their data. Each version of Itheum was a reflection of the technological and cultural moment - and each brought lessons that shaped the next.
+Project Agenta builds on Itheum's work since 2018. Each iteration developed capabilities for ownership, control, privacy, and exchange.
 
-### V0 (2018): Web2 Health Data Ownership&#x20;
+### V0 (2018): Web2 Health Data Ownership
 
 Our first version tackled healthcare data ownership, letting patients collect and control their data in encrypted Web2 stores. We learned that while healthcare was ripe for disruption, Web2 ecosystems resist data ownership - control was deeply institutional.
 
@@ -14,8 +14,8 @@ We launched a Data DEX and Data NFTs, allowing creative and professional data as
 
 We pivoted to “Bulk Data” Data NFTs for AI training, gaming, and music - alongside NFMe ID and Liveliness Staking for proof of humanity. Our tech was recognized globally (Sony Web3 Accelerator finalist, Solana Summit hackathon top 5 winner). But as decentralized AI hype faded, adoption slowed.
 
-### Key Learnings
+### What carries forward
 
-Across all versions, we learned the vital importance of timing, market fit, and cultural readiness. The idea of data ownership is powerful, but to find true product-market fit, it must align with where the world is heading.
+The pilot applies these foundations to agent and machine interactions. Itheum's existing work on data rights, programmable assets, and public infrastructure informs the trust-fabric model.
 
 <br>

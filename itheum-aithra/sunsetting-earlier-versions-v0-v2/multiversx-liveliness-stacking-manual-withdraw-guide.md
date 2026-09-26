@@ -103,7 +103,7 @@ Convert _650_ to _028a_ using "**Convert a decimal to a hexadecimal**"&#x20;
 <figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 Now you can construct this **Data** string:\
-&#xNAN;_**withdraw@444154414e465446542d653933366434@028a**_
+_**withdraw@444154414e465446542d653933366434@028a**_
 
 Make sure you DON'T have any spaces etc. it needs to be be exact! or it will fail.
 
