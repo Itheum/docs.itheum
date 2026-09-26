@@ -7,17 +7,7 @@ icon: arrows-to-circle
 
 Since the launch of Aithra (V3 upgrade), the $ITHEUM token transitions into a governance-focused role. Its utility centers on decision-making for open-source direction, roadmap and public goods funding and ecosystem benefits (e.g. grants to build). To learn more about the token and to explore how you can store, visualize, and get the token, head over to [itheum.io/token](https://www.itheum.io/token)
 
-## Token Utility
 
-<table data-header-hidden><thead><tr><th width="338">Utility</th><th></th></tr></thead><tbody><tr><td><h4>Get Governance Voting Privileges</h4></td><td>Obtain voting privileges relative to your $ITHEUM-holdings to govern key operational metrics of the entire Itheum Protocol.<br><br><a href="governance/itheum-ecosystem-dao.md">Learn more</a></td></tr></tbody></table>
-
-{% hint style="danger" %}
-**Note:** The **$ITHEUM** token continues to evolve. Over time, it has had many different utilities — some of which were introduced early and did not yet find strong product–market fit.
-
-It’s worth noting that these **earlier utilities could be reintroduced** if market sentiment changes, and this can be decided through a **DAO vote**.
-
-To learn more about the token’s prior utilities, head over here: **\[link]**
-{% endhint %}
 
 ## Token Metrics
 

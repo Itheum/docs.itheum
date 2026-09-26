@@ -2,21 +2,9 @@
 
 * [👋 Getting Started](README.md)
 
-## Itheum Aithra
+## Itheum Agenta
 
-* [TL;DR - Aithra: Itheum’s Next Leap Forward](itheum-aithra/tl-dr-aithra-itheums-next-leap-forward.md)
-* [The Journey So Far - Learning Through Evolution](itheum-aithra/the-journey-so-far-learning-through-evolution.md)
-* [The Next Evolution: Introducing Itheum Aithra (V3)](itheum-aithra/the-next-evolution-introducing-itheum-aithra-v3.md)
-* [Core Thesis and Extended Vision](itheum-aithra/core-thesis-and-extended-vision.md)
-* [Architecture and Technology Overview](itheum-aithra/architecture-and-technology-overview/README.md)
-  * [Workspace UI](itheum-aithra/architecture-and-technology-overview/workspace-ui.md)
-  * [SDK / MCP](itheum-aithra/architecture-and-technology-overview/sdk-mcp.md)
-* [Commercialization Model and Token Utility](itheum-aithra/commercialization-model-and-token-utility.md)
-* [Building the Ecosystem: Consumer Apps and Distribution](itheum-aithra/building-the-ecosystem-consumer-apps-and-distribution.md)
-* [Itheum Aithra Roadmap](itheum-aithra/itheum-aithra-roadmap.md)
-* [Sunsetting Earlier Versions (V0–V2)](itheum-aithra/sunsetting-earlier-versions-v0-v2/README.md)
-  * [MultiversX Liveliness Stacking - Manual Withdraw Guide](itheum-aithra/sunsetting-earlier-versions-v0-v2/multiversx-liveliness-stacking-manual-withdraw-guide.md)
-* [Itheum Aithra – Community FAQ](itheum-aithra/itheum-aithra-community-faq.md)
+* [The Journey So Far - Learning Through Evolution](itheum-agenta/the-journey-so-far-learning-through-evolution.md)
 
 ## Protocol
 
@@ -28,7 +16,6 @@
   * [Phase 1 : Token Burn Program](protocol/token-burning/phase-1-token-burn-program.md)
 * [🏛️ Governance](protocol/governance/README.md)
   * [Itheum DAO](protocol/governance/itheum-dao.md)
-  * [Itheum Ecosystem DAO](protocol/governance/itheum-ecosystem-dao.md)
   * [Itheum xPand DAO](protocol/governance/itheum-xpand-dao/README.md)
     * [Itheum xPand Grants Program](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/README.md)
       * [Code Of Conduct](protocol/governance/itheum-xpand-dao/itheum-xpand-grants-program/code-of-conduct.md)
@@ -62,6 +49,23 @@
 * [Itheum Data License](legal/itheum-data-license.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
+
+## \[PRE-AGENTA]
+
+* [👋 Getting Started - Aithra](pre-agenta/getting-started-aithra.md)
+* [TL;DR - Aithra: Itheum’s Next Leap Forward](pre-agenta/tl-dr-aithra-itheums-next-leap-forward.md)
+* [The Next Evolution: Introducing Itheum Aithra (V3)](pre-agenta/the-next-evolution-introducing-itheum-aithra-v3.md)
+* [Core Thesis and Extended Vision](pre-agenta/core-thesis-and-extended-vision.md)
+* [Architecture and Technology Overview](pre-agenta/architecture-and-technology-overview/README.md)
+  * [Workspace UI](pre-agenta/architecture-and-technology-overview/workspace-ui.md)
+  * [SDK / MCP](pre-agenta/architecture-and-technology-overview/sdk-mcp.md)
+* [Commercialization Model and Token Utility](pre-agenta/commercialization-model-and-token-utility.md)
+* [Building the Ecosystem: Consumer Apps and Distribution](pre-agenta/building-the-ecosystem-consumer-apps-and-distribution.md)
+* [Itheum Aithra Roadmap](pre-agenta/itheum-aithra-roadmap.md)
+* [Sunsetting Earlier Versions (V0–V2)](pre-agenta/sunsetting-earlier-versions-v0-v2/README.md)
+  * [MultiversX Liveliness Stacking - Manual Withdraw Guide](pre-agenta/sunsetting-earlier-versions-v0-v2/multiversx-liveliness-stacking-manual-withdraw-guide.md)
+* [Itheum Ecosystem DAO](pre-agenta/itheum-ecosystem-dao.md)
+* [Itheum Aithra – Community FAQ](pre-agenta/itheum-aithra-community-faq.md)
 
 ## \[PRE-Aithra]
 
