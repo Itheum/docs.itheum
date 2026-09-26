@@ -1,22 +1,22 @@
 # Table of contents
 
-* [👋 Getting Started with Project Agenta](README.md)
+* [👋 Getting Started](README.md)
 
 ## Itheum Aithra
 
-* [Project Agenta: Overview](itheum-aithra/project-agenta-overview.md)
-* [Foundations for Project Agenta](itheum-aithra/foundations-for-project-agenta.md)
-* [The Pilot: A Universal Trust Fabric](itheum-aithra/the-pilot-a-universal-trust-fabric.md)
-* [Trust-Fabric Principles](itheum-aithra/trust-fabric-principles.md)
+* [TL;DR - Aithra: Itheum’s Next Leap Forward](itheum-aithra/tl-dr-aithra-itheums-next-leap-forward.md)
+* [The Journey So Far - Learning Through Evolution](itheum-aithra/the-journey-so-far-learning-through-evolution.md)
+* [The Next Evolution: Introducing Itheum Aithra (V3)](itheum-aithra/the-next-evolution-introducing-itheum-aithra-v3.md)
+* [Core Thesis and Extended Vision](itheum-aithra/core-thesis-and-extended-vision.md)
 * [Architecture and Technology Overview](itheum-aithra/architecture-and-technology-overview/README.md)
   * [Workspace UI](itheum-aithra/architecture-and-technology-overview/workspace-ui.md)
   * [SDK / MCP](itheum-aithra/architecture-and-technology-overview/sdk-mcp.md)
-* [Infrastructure, Governance, and Access](itheum-aithra/infrastructure-governance-and-access.md)
-* [Pilot Scope and Ecosystem](itheum-aithra/pilot-scope-and-ecosystem.md)
-* [Project Agenta Pilot Roadmap](itheum-aithra/project-agenta-pilot-roadmap.md)
+* [Commercialization Model and Token Utility](itheum-aithra/commercialization-model-and-token-utility.md)
+* [Building the Ecosystem: Consumer Apps and Distribution](itheum-aithra/building-the-ecosystem-consumer-apps-and-distribution.md)
+* [Itheum Aithra Roadmap](itheum-aithra/itheum-aithra-roadmap.md)
 * [Sunsetting Earlier Versions (V0–V2)](itheum-aithra/sunsetting-earlier-versions-v0-v2/README.md)
   * [MultiversX Liveliness Stacking - Manual Withdraw Guide](itheum-aithra/sunsetting-earlier-versions-v0-v2/multiversx-liveliness-stacking-manual-withdraw-guide.md)
-* [Project Agenta FAQ](itheum-aithra/project-agenta-faq.md)
+* [Itheum Aithra – Community FAQ](itheum-aithra/itheum-aithra-community-faq.md)
 
 ## Protocol
 
@@ -62,10 +62,6 @@
 * [Itheum Data License](legal/itheum-data-license.md)
 * [Terminology Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#important-disclaimer-on-usage-of-certain-words-in-following-sections)
 * [Protocol Docs, Token Disclaimer](https://dev.to/itheum/itheum-data-dex-whitepaper-ooo#disclaimers)
-
-## \[PRE-AGENTA]
-
-* [Page 1](pre-agenta/page-1.md)
 
 ## \[PRE-Aithra]
 
